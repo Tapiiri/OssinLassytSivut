@@ -1,0 +1,11 @@
+
+---
+title: Ossin Lässyt
+author: Ossi Törrönen
+---
+
+    
+# 96. The duels between Heikki Siren and Leino Hassinen
+When the “first” chapel of Otaniemi was completed, it received a pipe organ as donation from Kangasala Organ Factory, which then manifested itself, as everyone might remember, a 2 by 2 by 1 meter instrument standing on the floor. Once this apparatus had been dragged inside the chapel, its placement caused a veritable duel of the titans between the chapel’s architect and the “teekkari priest” at the time, Leino Hassinen.  With the aid of the maintenance boys they pushed the organ from one place to the next. If the architect was happy with the placement the pastor wasn’t, and so the organ was moved again. I do think that every possible location for the instrument was tried during this “battle”. When a compromise couldn’t be reached they both seemed to get heated and eventually the pastor proclaimed: “I’m beginning to think that the architect would like to place this organ outside the building”. -”Not the organ, but the pastor”, was the reply from the frenetic architect. Well, a solution was found, and per the demand from the architect, the organ was painted black.
+
+The second time these gentlemen butted heads was when pastor Hassinen acquired a half-meter tall bronze crucifix and set it upon the altar. Architect Siren made a visit with some of his foreign colleagues, made a note of the crucifix on the altar, took off and set it in a closet. Phase 2: Hassinen returned to his chapel, made a note of the missing statue, found it and placed it back on the altar. Phase 4: Siren made a visit, removed the statue, put it in a locker and stormed into my office demanding explanation. Time and place were set for negotiations and both gentlemen locked themselves in the chapel in a conclave of sorts. Pastor’s motive was that a “house of the Lord” should always present the symbol of chrictianity i. e. a cross. The architect on the other hand was fully content with the altarpiece and the “white cross standing amidst God’s nature” in it. For some reason, a record was never made of the meeting, but the statue disappeared. Pastor Hassinen took part in the last service on the charred remains of the chapel and admitted in the truth of what I’ve just told and that “he indeed deemed this battle lost”.

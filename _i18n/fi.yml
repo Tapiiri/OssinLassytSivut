@@ -1,0 +1,15 @@
+global:
+    site:
+        title: "Majurin muistelmat"
+    author:
+        name: "Jere 'Majuri' Vänskä"
+        bio: "Mun blogi!"
+default:
+    home: "Etusivu"
+    about: "About"
+    newer: "Uudemmat"
+    older: "Vanhemmat"
+    page: "Sivu"
+    next: "Seuraava"
+    previous: "Edellinen"
+    wappuCounter: "Wappulaskuri"

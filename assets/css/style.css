@@ -1,0 +1,351 @@
+@import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
+
+body{
+    color: #2c3e50;
+    background-color: seashell;
+}
+
+.sidebar {
+	position: fixed;
+	top: 0px;
+	padding-top: 7%;
+	background-color: #470303;
+    color: #fff;
+    height: 100%;
+}
+
+.sidebar-header {
+	text-align: center;
+	margin-bottom: 10px;
+}
+.sidebar-header .title{
+	letter-spacing: 3px;
+	text-transform: uppercase;
+}
+
+.sidebar-header .title a{
+	text-decoration: none;
+	color: #fff;
+}
+
+a.nav-link {
+	padding-bottom: 5px;
+	padding-top: 7px;
+	color: #aaa;
+}
+a.nav-link i{
+	font-size: 16px;
+}
+a.nav-link:hover { color: #777; }
+
+#bio {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 11px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+#contact-list li .fa,
+article .share .btn {
+	-o-transition:color .2s ease-out, background 1s ease-in;
+  -ms-transition:color .2s ease-out, background 1s ease-in;
+  -moz-transition:color .2s ease-out, background 1s ease-in;
+  -webkit-transition:color .2s ease-out, background 1s ease-in;
+  transition:color .2s ease-out, background 1s ease-in;
+}
+
+#contact-list-secondary {
+	padding-bottom: 10px;
+}
+
+.page-header {
+	color: #470303;
+	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
+}
+
+@media only screen and (min-width: 768px) {
+    .page-header{
+        margin-right: 70px;
+    }
+}
+
+article{
+	margin-bottom: 40px;
+}
+
+.article_body{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.post-date {
+	text-transform: uppercase;
+	font-size: 14px;
+	letter-spacing: 3px;
+}
+
+article {
+	padding: 0 5% 0;
+}
+
+article.home div a, article.home pre a { color: #2c3e50; }
+article.home div a:hover, article.home pre a:hover { color: #2c3e50; text-decoration: none; }
+article img { max-width: 100%; }
+
+h1,h2,h3,h4,h5,h6 { font-family: 'Ubuntu', sans-serif; }
+article.home h1,
+article.home h2,
+article.home h3,
+article.home h4,
+article.home h5,
+article.home h6 {
+	font-family: 'Ubuntu', sans-serif;
+	color: #470303;
+}
+
+article.home h1 a,
+article.home h2 a,
+article.home h3 a,
+article.home h4 a {
+    color: #680404
+    ;
+}
+article.home h1 a:hover,
+article.home h2 a:hover,
+article.home h3 a:hover,
+article.home h4 a:hover {
+    color: #b30606;
+}
+
+.author .author-image {
+  float: left;
+  margin-right: 20px;
+}
+
+footer {
+	padding-top: 15px;
+	font-family: 'Ubuntu';
+}
+
+/* nav-vertical-tabs component */
+.nav-tabs-vertical {
+    border-right: 1px solid #ddd;
+}
+
+.nav-tabs-vertical li {
+    margin-right: -1px;
+}
+
+.nav-tabs-vertical>li.active>a, .nav-tabs-vertical>li.active>a:hover, .nav-tabs-vertical>li.active>a:focus {
+    color: #555;
+    cursor: default;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-right-color: transparent;
+}
+
+.nav-tabs-vertical>li>a {
+    line-height: 1.428571429;
+    border: 1px solid transparent;
+    border-radius: 4px 0 0 4px;
+}
+
+.badge { background: #F2756A; }
+
+#nav-menu{
+    position: fixed;
+    top: 45px;
+    right: 45px;
+    z-index: 2000;
+}
+#nav-menu .dropdown-menu {
+    left: inherit;
+    right: 0px;
+}
+
+ul.dropdown-menu>li>a>i.fa {
+    width: 1.3em;
+}
+
+.img-h32 {
+    max-height: 30px;
+    margin: -8px 5px -8px 0;
+}
+
+.carouselcontainer {
+    height: 100vh;
+}
+
+@media (max-width: 767px) {
+    .carouselcontainer {
+        height: calc(100vh - 50px);
+    }
+}
+
+.countdownpage {
+    height: 100%;
+}
+
+.countdown {
+    width: 100%;
+    max-height: 400px;
+    margin-top: 10rem;
+    text-align: center;
+}
+
+.countdown-newest {
+    display: block;
+    width: 100%;
+    max-width: 250px;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+
+.countdown-button {
+    background: none;
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+.countdown-button:hover,
+.countdown-button:focus {
+    background: #5a0404;
+    color: #eee;
+}
+
+.countdown-day {
+    max-width: 100%;
+}
+
+.countdown-header {
+    width: 100%;
+    height: 15rem;
+    object-fit: cover;
+    text-align: center;
+    padding-top: 5rem;
+}
+
+.btn-countdown {
+    font-size: 2rem;
+}
+
+#countdownCarousel {
+    height: 100%;
+    background: #000;
+    margin: 0 -15px;
+}
+
+#countdownCarousel video {
+    width: 70%;
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+.carousel-inner .item {
+    height: 100%;
+    text-align: center;
+    text-align: -webkit-center;
+}
+
+.carousel-inner .item img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+/* navbar */
+.navbar-red {
+    background-color: #470303;
+    border: none;
+    margin-bottom: 0;
+}
+/* Title */
+.navbar-red .navbar-brand {
+    color: #fff;
+}
+.navbar-red .navbar-brand:hover,
+.navbar-red .navbar-brand:focus {
+    color: #ddd;
+}
+/* Link */
+.navbar-red .navbar-nav > li > a {
+    color: #fff;
+}
+.navbar-red .navbar-nav > li > a:hover,
+.navbar-red .navbar-nav > li > a:focus {
+    color: #ddd;
+}
+.navbar-red .navbar-nav > .active > a,
+.navbar-red .navbar-nav > .active > a:hover,
+.navbar-red .navbar-nav > .active > a:focus {
+    color: #fff;
+    background-color: #5a0404;
+}
+.navbar-red .navbar-nav > .open > a,
+.navbar-red .navbar-nav > .open > a:hover,
+.navbar-red .navbar-nav > .open > a:focus {
+    color: #555;
+    background-color: #5a0404;
+}
+/* Caret */
+.navbar-red .navbar-nav > .dropdown > a .caret {
+    border-top-color: #777;
+    border-bottom-color: #777;
+}
+.navbar-red .navbar-nav > .dropdown > a:hover .caret,
+.navbar-red .navbar-nav > .dropdown > a:focus .caret {
+    border-top-color: #333;
+    border-bottom-color: #333;
+}
+.navbar-red .navbar-nav > .open > a .caret,
+.navbar-red .navbar-nav > .open > a:hover .caret,
+.navbar-red .navbar-nav > .open > a:focus .caret {
+    border-top-color: #555;
+    border-bottom-color: #555;
+}
+/* Mobile version */
+.navbar-red .navbar-toggle {
+    border-color: #fff;
+}
+.navbar-red .navbar-toggle:hover,
+.navbar-red .navbar-toggle:focus {
+    background-color: #5a0404;
+}
+.navbar-red .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+@media (max-width: 767px) {
+    .navbar-red .navbar-nav .open .dropdown-menu > li > a {
+        color: #777;
+    }
+    .navbar-red .navbar-nav .open .dropdown-menu > li > a:hover,
+    .navbar-red .navbar-nav .open .dropdown-menu > li > a:focus {
+          color: #333;
+    }
+}
+
+.navbar-red li > a:hover{
+    background-color: #5a0404;
+}
+
+.header-counter-btn-wrapper {
+    border-radius:10%/20%;
+    margin:10px;
+    height:30px;
+    width:60px;
+    box-sizing: border-box;
+    background-size: cover;
+    box-shadow: inset white 2px 2px 5px;
+}
+
+.header-counter-btn {
+    border-radius:10%/20%;
+    height:100%;
+    width:100%;
+    box-sizing: border-box;
+    background-size: cover;
+    box-shadow: inset black -2px -2px 5px;
+}

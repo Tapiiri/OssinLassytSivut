@@ -1,0 +1,46 @@
+<!-- sidebar.html -->
+<header class="sidebar-header" role="banner">
+    {% if site.lang == 'fi' %}
+        <a href="{{ site.BASE_PATH }}/">
+    {% else %}
+        <a href="{{ site.BASE_PATH }}/{{ site.lang }}">
+    {% endif %}
+	
+		<img src="{{ site.BASEURL }}/assets/cog.svg" class="img-circle" />
+	</a>
+	<h3 class="title">
+        {% if site.lang == 'fi' %}
+            <a href="{{ site.BASEURL_ROOT }}">{% translate global.site.title %}</a>
+        {% else %}
+            <a href="{{ site.BASEURL_ROOT }}">{% translate global.site.title %}</a>
+        {% endif %}
+    </h3>
+</header>
+
+{% if site.author.bio %}
+<div id="bio" class="text-center">
+	{% translate global.author.bio %}
+</div>
+{% endif %}
+
+<div id="contact-list" class="text-center">
+	<ul class="list-unstyled list-inline">
+	</ul>
+    <a class="link-fi" href="{{ site.BASEURL_ROOT }}{{page.url}}">fi</a>
+    <a class="link-sv" href="{{ site.BASEURL_ROOT }}/sv{{ page.url }}">sv</a>
+    <a class="link-sv" href="{{ site.BASEURL_ROOT }}/en{{ page.url }}">en</a>
+</div>
+
+{% assign numbers = site.static_files | where: "number", true | reverse %}
+{% assign last_path = numbers.last.path %}
+{% if last_path contains "mp4" %}
+    {% assign thumbnails = site.static_files | where: "number_vid_thumbnail", true | reverse %}
+    {% assign last_path = thumbnails.last.path    %}
+{% endif %}
+<div class="countdown">
+    <img class="countdown-newest" src="{{ site.BASEURL }}{{last_path}}">
+    <a class="btn countdown-button" href="{{ site.BASEURL_ROOT}}{{ '/' | append: site.lang | replace: '/fi', ''}}/wappulaskuri">
+        {% t default.wappuCounter %} >
+    </a>
+</div>
+<!-- sidebar.html end -->

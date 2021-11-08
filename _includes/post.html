@@ -1,0 +1,51 @@
+<div class="page-header">
+  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+</div>
+	
+<article>
+
+	<div class="col-sm-10">
+	 <span class="post-date">
+	   {% assign d = page.date | date: "%d" | plus:'0' %}
+	   {{ page.date | date: "%B" }} 
+	   {% case d %}
+	     {% when 1 or 21 or 31 %}{{ d }}st,
+	     {% when 2 or 22 %}{{ d }}nd,
+	     {% when 3 or 23 %}{{ d }}rd,
+	     {% else %}{{ d }}th,
+	   {% endcase %}
+	   {{ page.date | date: "%Y" }}
+	 </span>
+	  <div class="article_body">
+	  {{ content }}
+	  </div>
+
+		<hr>
+
+		<div>
+      <section class="share col-sm-6">
+    </div>
+
+    <div class="clearfix"></div>
+
+		<ul class="pager">
+		  {% if page.previous %}
+		  <li class="previous"><a href="{{ site.BASEURL_ROOT }}{{ '/' | append: site.lang | replace: '/fi'}}{{ page.previous.url }}" title="{{ page.previous.title }}">{{site.lang}}&larr; {% t default.previous %}</a></li>
+		  {% else %}
+		  <li class="previous disabled"><a>&larr; {% t default.previous %}</a></li>
+		  {% endif %}
+		  {% if page.next %}
+		  <li class="next"><a href="{{ site.BASEURL_ROOT }}{{ '/' | append: site.lang | replace: '/fi'}}{{ page.next.url }}" title="{{ page.next.title }}">{% t default.next %} &rarr;</a></li>
+		  {% else %}
+			<li class="next disabled"><a>{% t default.next %} &rarr;</a>
+		  {% endif %}
+		</ul>
+
+		<hr>
+	</div>
+	
+	<div class="col-sm-2 sidebar-2">
+	
+	</div>
+</article>
+<div class="clearfix"></div>
