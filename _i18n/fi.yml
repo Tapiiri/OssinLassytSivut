@@ -1,9 +1,8 @@
 global:
     site:
-        title: "Majurin muistelmat"
+        title: "Ossin Lässyt"
     author:
-        name: "Jere 'Majuri' Vänskä"
-        bio: "Mun blogi!"
+        name: "Ossi Törrönen"
 default:
     home: "Etusivu"
     about: "About"
