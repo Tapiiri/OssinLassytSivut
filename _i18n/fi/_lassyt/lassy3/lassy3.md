@@ -1,9 +1,4 @@
 
----
-
-title: titles.lassy3
-author: Ossi Törrönen
----
 
 
     

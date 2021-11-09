@@ -1,9 +1,4 @@
 
----
-
-title: titles.kyla
-author: Ossi Törrönen
----
 
 # Briefly About Teekkari Village
 

@@ -1,15 +1,6 @@
 
 ---
-title: Ossin Lässyt
+title: titles.lassy127
 author: Ossi Törrönen
 ---
-
-    
-# 127. The Top Police Leadership Drives With Porsches In The Atomic Cave
-
-Once, all the highest police chiefs of the Nordic countries gathered in Finland for consultations. The program included, of course, also a visit to the Otaniemi Police College. After that, a gala meal was ordered for the high-ranking company from Restaurant Luolamies. A few times before this ceremony, the police PR-man Auvo Nuotio called me and asked me to develop a teekkarijäynä. Well, what's in it. We had a couple of brainstorming sessions. Finally, the following was implemented: after these chiefs had become acquainted with the Police College, they were loaded on a large police bus. The bus drove to one entry point for the civil protection shelter located on VTT\* hill. It must be remembered that this massive shelter had only just been excavated, and thus only a complex cave-like maze was there in the depths of the earth.
-Nevertheless, we had gotten there the ground evenly enough with very difficult and special measures. The six new whitish white Porsches were driven to the VTT entry point by reversing. And now that this bus filled with gentlemen approached the entry point, rushed Kauko Katila, disguised as an alky, to the road and stopped the bus and demanded those in the car with various mossy phrases to get acquainted with his home cave.
-
-We had done such a thorough job that, e.g., the sheet metal meth cans, which were in Kauko's bags, had been drilled holes, meths was poured out, the cans were washed and then refilled with Koskenkorva, and the gaps were closed by lining with tin. With his knife, Katila punched holes and offered from those swigs, followed by a stream of words. Those living in the village who once saw Katila after "removed all his biting devices from his mouth" can imagine how "a real-looking alkie was entertaining the police chiefs." The somewhat surprised chiefs stepped in line into the damp cave where they were sat down into brand new Porsche cars. With sirens, howling shot along underground's narrow and uneven corridors crisscross. The vehicles finally came up to the surface from the hole which was in front of Dipoli. At one point, there underground was also white-gloved traffic police directing the hustle and bustle. After hearing about it, Kauko Katila told me in retrospect that the whole matter would be ruined by some VTT masters already before the start of the show. When Kauko in the cave mouth was waiting for his "guests" at dusk, someone from VTT who came out of a local building noticed the situation. The VTT employed started with skillful swear words to evict the "bloody alkie" away from the VTT area. After a while, it was reportedly joined by another official. The official reported alerting the police unless the situation is less than a unit of time. To this, Katila mumbled and shook his meth can bag. Katila then said, "Dear sirs. You do not really need any police officers, as I have ordered here them of one bus and they will arrive in two minutes". One can only imagine VTT employees' astonishment when the alkie's prediction came true precisely as the police's black bus rumbled to the scene.
-
-\*Translator's remark: VTT stood back then for 'Valtion teknillinen tutkimuskeskus'. Nowadays it is known as 'Teknologian tutkimuskeskus VTT Oy'; in English, VTT Technical Research Centre of Finland."
+{% translate_file _lassyt/lassy127/lassy127.md %}

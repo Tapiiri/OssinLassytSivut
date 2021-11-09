@@ -1,9 +1,4 @@
 
----
-
-title: titles.alkulassy
-author: Ossi Törrönen
----
 
 
     

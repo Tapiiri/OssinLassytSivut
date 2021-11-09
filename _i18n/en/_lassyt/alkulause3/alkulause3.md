@@ -1,9 +1,4 @@
 
----
-
-title: titles.alkulause3
-author: Ossi Törrönen
----
 
 
     

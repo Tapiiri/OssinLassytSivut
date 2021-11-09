@@ -1,39 +1,6 @@
 
 ---
-title: Ossin Lässyt
+title: titles.lassy157
 author: Ossi Törrönen
 ---
-
-    
-# 157. My 70th Birthday
-
-To avoid the fact that I would not have to verify the number of my real friends plummeted much on the title day, I put the daily newspaper with my face a mentioning: "Travelling on his special day." However, a group of friends who had not forgotten that group me was THE TEEKKARIS OF OTANIEMI. Using very cunning methods, they found out that the word "traveling" meant my escape from my apartment to my youngest son to Masala, Kirkkonummi. And to ensure I was surely available, teekkaris arrived already in the previous evening. And in as such "humane time" as 23.55. Teekkarisong, bribes - and fading. Precisely at 24.00 began then the most touching birthday of my life.
-From the ground, in front of my son's residence, began to sound with one single trumpet "YÖ KUIN SIELU...". The playing ended - the teekkari put the whistle in the bag and disappeared. I did not even get to thank that teekkari. And I probably would not have even been able to thank. From the touching of the mind, I really had "flour put into my mouth," so to speak. It was a great moment. In the morning at 06:00 came a teekkari inside demanding me to come immediately to follow - because a strange light phenomenon was reportedly observed in the vicinity. Well, what are you going to do? I dressed in the clothes and inside to teekkaris car. The car drove in the locality A there and B here until it stopped in the uninhabited forest between Masala and Jorvas road. Now the weather report must be given first. It was 02.04.1985, and there was 20-30 cm of snow on the ground.
-I had ribbon patinas and ankle socks. I was commanded to come out, and really - there was a weird light phenomenon about 50 meters away in the woods behind an untouched snowfield. Order to proceed boldly towards the phenomenon. There I then waded in my small shoes. When I arrived, I noticed that the strange light phenomenon was a campfire. Around it stood RWBK in corpore, ready to present me a small park concert - as the hose master said. I then stood in the snow during the concert, being emotionally touched by this artistic pleasure. The snow around my shoes slowly melted, pouring inside the shoes. The concert ended in due course, after which I was notified of being offered a light field lunch*. It consisted of herring and cucumber on a small table in the middle of the road. Those had been dragged during the concert to place from the van.
-
-After all the modesty described above, I was then taken to the new Rantasauna of Teekkari Village. I went there with four teekkaris in a smaller steam vapor compartment. When I was going to toss water on the stove in the traditional way, roared one teekkari: "STOP. After all, nowadays, water is no longer thrown into the stove in such an old-fashioned way. Nowadays, technology is used as an aid. He showed a weird round plate calling it Steam Vapor Cathode, prompting to toss the steam vapor water into it. I did the work as instructed, and indeed. The stove roared in the corner like a male cat, and sweet steam filled the sauna. My second toss of water was already successful without instructions. BUT- when I was already going to leave, and about to go down the benches, I was prompted to toss a good final steam vapor tossings. I threw a bucket of water at the "STEAM VAPOUR CATHODE" but - now no more steam vapor came from the stove. Instead, at least two inches thick ICE COLD WATER JET came under the benches STRAIGHT INTO MY AS- I mean my buttocks. Surprising, wasn't it.
-
-Now I was ordered down from the benches and into a small dressing room with a modest birthday cake.  To about a square meter-sized battenboard had been stacked seven rows of A-IV beers. There were ten bottles in each row. After that, the cake was skillfully decorated with white foam, deceptively reminiscent of a cream cake. The said 70 bottles happily reached out their necks from the cake. I got a carpenter's saw to my hand, which I then sued to cut the party cake for those who were willing. And there were willing people. You see, when the door to the main hall was opened, it was indeed crammed with both current and former teekkaris. Beginning from vuorineuvos** Väinö Vuorimaa. There were Cavemen, Similists, Retuperä's volunteer fire brigaders, girls and boys. Hundreds of them. Singing, dancing, wisecracks, and even real cake with 70 cake candles. That was a proper birthday feast.
-
-All ends in due time. So did this memorable celebration. That's what I thought, but the proof is in the pudding. I was dragged yet to a cabinet of SERVIN MÖKKI to reminisce the past with Irma and with former castle wardens - until one current teekkari stepped, congratulating and giving as a gift one ordinary, fist-sized stove stone. I thanked the teekkari, who then left. After which came in a row, TWO HUNDRED TEEKKARIS each giving their stove stones. The last stone giver asked if you have any box with which I can take the stones away. I said that I don't have any boxes here. Then that teekkari shout in the direction of the back corridor, "SOMEONE, BRING A BOX TO OSSI." And it wasn't just an ordinary box but a wonderful stove that is heated continuously. To that stove had been skilfully welded the text "OTA-OSSI 70 YEARS. MORE STEAM VAPOUR, DON'T FEEL IT ANYWHERE". It had been made by Teuvo Turunen, the janitor who had served Teekkari Village for decades. These scoundrels had also spied my cottage in Suomusjärvi and found out that my former stove was about to "sing its last verses." That was replaced with this new and beautiful stove with the gift stones I received from the teekkaris.
-
-All in all, my 70th anniversary, thanks to teekkaris, became one of the most memorable of my days. When in no way, after the hustle and bustle, I would not have been able to meet every teekkari personally who participated in the ruble. I jumped over from the lowest point of the fence and scribbled to OTAHUUTO magazine a thank below.
-
-*THANK YOU, TEEKKARIS AND OTHER TKY MEMBERS*
-
-*During my life, I have turned several years; however, never before 70 years. The fact that this birthday became the most delightful and memorable, a modest 31 hours-long process, is entirely your fault. I was at 2.4. out of town. Nevertheless the first of you invaded my company already 1.4. at 18.00, and the last two, I managed to squeeze off my apartment 3.4. at 01.16.*
-
-*I am proud of you as if you all were my own lorttis (as in fact you already are). The word 'lortti' means, in Suomusjärvi culture, a group of puppies.*
-
-*Once again, it has been shown that the teekkaris of Otaniemi and TKY members are entirely different from ordinary homo sapiens creatures. You each are members of the Jämerä family. Already a new Rantasauna's two-day-long inauguration festival along with the escapades in the harbor city gave me a reason to "fear the worst" on 2.4. To my delight, my "fear" was justified and exceeded my highest hopes.*
-
-
-*Thank you, you row teekkari. Thank you TKY Board + representative council + Village Administration + Polytechnic Orchestra + Polytechnic Choir + RWBK + Cavemen + SIMILI + guilds + sub-associations + TKY staff. You had once again - you really had once again, indeed. Finally, I sincerely hope that as many teekkaris as possible, when moving during the summer, the road between Helsinki and Turku would break from Helsinki's direction about 1 kilometer before the Lahnajärvi water park. One would then see the road sign "Elias Lönnrotin LAMMINTALO + SIITOINJÄRVI," which would drive 600 meters and arrive at my cottage. Let us heat the gift stove, let us take small littus, and jump into the lake.*
-
-*OSSI*
-
-*Translator's remark: the original word, "kenttälounas" (field lunch), is a Finnish military term which means the lunch is eaten outdoors. Due to conscription, these words are quite widespread.
-
-**Translator's remark: As mentioned earlier, vuorineuvos does not have an official legal English translation. Unofficially it is "Mountain Counselor." It is an honorary title.
-
-***Translator's remark: as a way to cool oneself during and possibly after sauna."
+{% translate_file _lassyt/lassy157/lassy157.md %}
