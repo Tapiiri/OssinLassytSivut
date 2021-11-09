@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy49
 author: Ossi Törrönen
 ---
+
 
     
 # 49. Teekkari maksoi ikkunan etukäteen

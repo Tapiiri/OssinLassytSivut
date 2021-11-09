@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy108
 author: Ossi Törrönen
 ---
+
 
     
 # 108. Servi's Maija's Sausage Making World Championship

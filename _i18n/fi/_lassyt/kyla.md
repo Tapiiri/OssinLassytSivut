@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.kyla
 author: Ossi Törrönen
 ---
+
 
     
 # TEEKKARIKYLÄSTÄ LYHYESTI

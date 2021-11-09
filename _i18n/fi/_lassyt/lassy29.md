@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy29
 author: Ossi Törrönen
 ---
+
 
     
 # 29. Kylän vuohet Maija ja Teemu

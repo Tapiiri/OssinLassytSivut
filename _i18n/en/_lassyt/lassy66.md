@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy66
 author: Ossi Törrönen
 ---
+
 
     
 # 66. Ohm Sausage Preparation Instructions

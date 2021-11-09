@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy146
 author: Ossi Törrönen
 ---
+
 
     
 # 146. IMM-laite. International Money-Meter

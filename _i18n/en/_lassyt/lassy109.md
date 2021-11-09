@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy109
 author: Ossi Törrönen
 ---
+
 
     
 # 109. Doora Took Ossi Out

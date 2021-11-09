@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy129
 author: Ossi Törrönen
 ---
+
 
     
 # 129. Eversti Lyytisen valtakausi Teekkarikylässä

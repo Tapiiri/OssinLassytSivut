@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy21
 author: Ossi Törrönen
 ---
+
 
     
 # 21. The Caledon Canoe

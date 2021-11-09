@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy85
 author: Ossi Törrönen
 ---
+
 
     
 # 85. Two Peace Congresses At The Same Time

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy118
 author: Ossi Törrönen
 ---
+
 
     
 # 118. Käsiraudoissa poliisien saunasitsiin. Nappi paltostani

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy39
 author: Ossi Törrönen
 ---
+
 
     
 # 39. Anastasia Mikojan vierailee Servin Mökissa

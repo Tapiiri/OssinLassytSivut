@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy85
 author: Ossi Törrönen
 ---
+
 
     
 # 85. Kaksi rauhankongressia samaan aikaan

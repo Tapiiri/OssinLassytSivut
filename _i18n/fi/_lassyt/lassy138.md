@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy138
 author: Ossi Törrönen
 ---
+
 
     
 # 138. Läksiäisjuhlani Otaniemestä 1969.

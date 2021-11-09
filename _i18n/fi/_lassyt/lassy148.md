@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy148
 author: Ossi Törrönen
 ---
+
 
     
 # 148. Teimme kaikkemme kongressien hyväksi. DYNAMICS OF THE ATMOSPHERE

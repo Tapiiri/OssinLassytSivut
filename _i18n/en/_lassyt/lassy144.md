@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy144
 author: Ossi Törrönen
 ---
+
 
     
 # 144. The Original Operating Idea Of The Pinecone Statue

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy9
 author: Ossi Törrönen
 ---
+
 
     
 # 9. Terveydenhoitoasema perustetaan

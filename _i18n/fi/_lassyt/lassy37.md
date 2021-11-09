@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy37
 author: Ossi Törrönen
 ---
+
 
     
 # 37. Olin pannukakku AD 1882

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.alkusanatII
 author: Ossi Törrönen
 ---
+
 
     
 # The second rambling edition's foreword

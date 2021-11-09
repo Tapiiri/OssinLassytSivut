@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy140
 author: Ossi Törrönen
 ---
+
 
     
 # 140. Kansaneläke alkaa juosta 2.4.-80. Irmalla taas sormet pelissä

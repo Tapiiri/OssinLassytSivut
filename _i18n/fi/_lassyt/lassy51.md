@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy51
 author: Ossi Törrönen
 ---
+
 
     
 # 51. Otagorsun rakennustalkoot, kun kaljaa riitti

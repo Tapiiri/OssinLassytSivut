@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy162
 author: Ossi Törrönen
 ---
+
 
     
 # 162. MUITA ANSIOITUNEITA ja teekkari h.c. arvolla ynnä teekkarilakilla palkittuja OTANISTEJA 

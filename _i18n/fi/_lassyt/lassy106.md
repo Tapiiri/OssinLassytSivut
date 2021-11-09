@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy106
 author: Ossi Törrönen
 ---
+
 
     
 # 106. Teekkari ammuttiin kylän savupiipusta avaruuteen

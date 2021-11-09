@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy13
 author: Ossi Törrönen
 ---
+
 
     
 # 13. Our Bus Sulo Riento Liukas

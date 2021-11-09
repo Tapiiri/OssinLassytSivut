@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy98
 author: Ossi Törrönen
 ---
+
 
     
 # 98. The greenery incident at the chapel

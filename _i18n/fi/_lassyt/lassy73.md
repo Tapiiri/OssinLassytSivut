@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy73
 author: Ossi Törrönen
 ---
+
 
     
 # 73. Espoo täyttää 500 vuotta. TKY:lle "milli"

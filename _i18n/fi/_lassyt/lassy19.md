@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy19
 author: Ossi Törrönen
 ---
+
 
     
 # 19. THS:n 204 -senttinen vuosijuhlavieras

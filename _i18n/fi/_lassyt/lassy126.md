@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy126
 author: Ossi Törrönen
 ---
+
 
     
 # 126. Poliisien järjestämä oikeudenkäynti opistolla

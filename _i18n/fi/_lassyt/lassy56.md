@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy56
 author: Ossi Törrönen
 ---
+
 
     
 # 56. Dipolin puunkaatotalkoot

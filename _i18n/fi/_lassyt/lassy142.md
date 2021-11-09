@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy142
 author: Ossi Törrönen
 ---
+
 
     
 # 142. Littu valmiina Teekkarikylän 50 -vuotisjuhlaan v. 2002

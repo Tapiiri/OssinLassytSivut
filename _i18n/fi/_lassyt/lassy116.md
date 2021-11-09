@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy116
 author: Ossi Törrönen
 ---
+
 
     
 # 116. Ensimmäinen hyökkäyksemme poliisiopistoon

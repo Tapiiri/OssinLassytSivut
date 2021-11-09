@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy104
 author: Ossi Törrönen
 ---
+
 
     
 # 104. TES-TV aloittaa sähkölafkan vintillä

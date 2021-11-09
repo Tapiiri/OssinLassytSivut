@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy10
 author: Ossi Törrönen
 ---
+
 
     
 # 10.Villieläimiä Otaniemessä

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy152
 author: Ossi Törrönen
 ---
+
 
     
 # 152. Last Air Conditioned Room B 99 = Led Straight Out

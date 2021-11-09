@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.alkulause3
 author: Ossi Törrönen
 ---
+
 
     
 # Third rambling edition's foreword 

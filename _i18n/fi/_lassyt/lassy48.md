@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy48
 author: Ossi Törrönen
 ---
+
 
     
 # 48. Poliisiopisto tunkeutuu Otaniemeen

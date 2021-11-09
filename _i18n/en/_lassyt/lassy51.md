@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy51
 author: Ossi Törrönen
 ---
+
 
     
 # 51. The Voluntary Construction Works Of Otagorsu When There Was Enough Beer

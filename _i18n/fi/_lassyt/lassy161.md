@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy161
 author: Ossi Törrönen
 ---
+
 
     
 # 161. Tervehdys yleisurheilun MM-urheilijoille (englanniksi) 

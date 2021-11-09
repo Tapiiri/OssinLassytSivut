@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy112
 author: Ossi Törrönen
 ---
+
 
     
 # 112. UKK:kin sai odottaa cocktailiaan Dipolissa

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy71
 author: Ossi Törrönen
 ---
+
 
     
 # 71. A Bolterabend Teekkari Was Left Alone On The Train Naked

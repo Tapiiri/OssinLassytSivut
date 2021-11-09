@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy89
 author: Ossi Törrönen
 ---
+
 
     
 # 89. The PLH Required To Each Point Of Central Radio A Separate License

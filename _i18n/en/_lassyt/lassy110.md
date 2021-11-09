@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy110
 author: Ossi Törrönen
 ---
+
 
     
 # 110. Plum Spirits Of The Chinese Embassy

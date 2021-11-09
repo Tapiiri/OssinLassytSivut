@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy83
 author: Ossi Törrönen
 ---
+
 
     
 # 83. Virkaatekevä puliukko lämpökanavissa

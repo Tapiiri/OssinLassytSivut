@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy34
 author: Ossi Törrönen
 ---
+
 
     
 # 34. RWBK:n palokello ja muita kuumia tapahtumia

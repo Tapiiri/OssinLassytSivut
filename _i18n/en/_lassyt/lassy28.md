@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy28
 author: Ossi Törrönen
 ---
+
 
     
 # 28. Welding A Cow To The Gate Of Council Of State

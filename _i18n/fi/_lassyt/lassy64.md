@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy64
 author: Ossi Törrönen
 ---
+
 
     
 # 64. TKYH tutustuu atomiluolaan ja puliukkoon

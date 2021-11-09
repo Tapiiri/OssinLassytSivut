@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy136
 author: Ossi Törrönen
 ---
+
 
     
 # 136. Juhlat Servissä ilman lupaa - Minä kihlakunnan oikeuteen

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy114
 author: Ossi Törrönen
 ---
+
 
     
 # 114. Dipolin ensimmäinen T-ilta, Pikku-Joulut ja Uusi Vuosi

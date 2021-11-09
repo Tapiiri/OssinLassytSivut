@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy154
 author: Ossi Törrönen
 ---
+
 
     
 # 154. DIPOLIN puunkaatotalkoot ja Maijan sahti + poliisit 

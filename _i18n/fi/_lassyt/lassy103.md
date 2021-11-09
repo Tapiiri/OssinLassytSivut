@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy103
 author: Ossi Törrönen
 ---
+
 
     
 # 103. Ilmainen soitto kaukotasolle kylästä

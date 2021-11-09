@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy27
 author: Ossi Törrönen
 ---
+
 
     
 # 27. TEMPAUKSIA. J.L. Runeberg ja Kihniön kirkkoherra

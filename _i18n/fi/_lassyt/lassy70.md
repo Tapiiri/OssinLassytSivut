@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy70
 author: Ossi Törrönen
 ---
+
 
     
 # 70. Teekkarit kantavat omaa porttiaan

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy14
 author: Ossi Törrönen
 ---
+
 
     
 # 14. Trojan autolla yleislakossa

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy25
 author: Ossi Törrönen
 ---
+
 
     
 # 25. Kuorma-automme NALLE PUH kastetaan

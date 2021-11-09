@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy96
 author: Ossi Törrönen
 ---
+
 
     
 # 96. Heikki Sirenin ja Leino Hassisen kaksintaistelut 

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy80
 author: Ossi Törrönen
 ---
+
 
     
 # 80. Teekkarista oli tulla Diapositiivi

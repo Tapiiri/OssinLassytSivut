@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy89
 author: Ossi Törrönen
 ---
+
 
     
 # 89. PLH vaati keskusradion joka pisteeseen eri luvan

@@ -1,8 +1,10 @@
 
 ---
-title: Ossi's Lässys
+
+title: titles.alkulassy
 author: Ossi Törrönen
 ---
+
 
     
 # The First Lässy to ed. I on 1982.

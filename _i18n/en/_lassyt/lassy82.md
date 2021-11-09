@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy82
 author: Ossi Törrönen
 ---
+
 
     
 # 82. The Glass Master's Herring Came To Rantasauna

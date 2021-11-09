@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy44
 author: Ossi Törrönen
 ---
+
 
     
 # 44. My Inherited Sofa's Incineration

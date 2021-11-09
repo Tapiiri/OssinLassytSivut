@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy4
 author: Ossi Törrönen
 ---
+
 
     
 # 4. The Bunkhouse Restaurant Disappears Overnight

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy123
 author: Ossi Törrönen
 ---
+
 
     
 # 123. Poliisioppilaat lunastavat oluttrattamme KOP:sta

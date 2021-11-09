@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy42
 author: Ossi Törrönen
 ---
+
 
     
 # 42. TKYH:n vaihtoseremoniat vanhalla Polilla

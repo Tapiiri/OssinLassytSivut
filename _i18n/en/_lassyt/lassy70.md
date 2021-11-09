@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy70
 author: Ossi Törrönen
 ---
+
 
     
 # 70. Teekkaris Carry Their Own Gate

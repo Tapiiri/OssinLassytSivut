@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy33
 author: Ossi Törrönen
 ---
+
 
     
 # 33. USA:n jalkapallojoukkue rantasaunalla

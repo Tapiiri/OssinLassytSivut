@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy30
 author: Ossi Törrönen
 ---
+
 
     
 # 30. The 5th Anniversary Bang Of The Village With Progressive Models

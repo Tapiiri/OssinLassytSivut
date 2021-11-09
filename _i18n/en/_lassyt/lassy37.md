@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy37
 author: Ossi Törrönen
 ---
+
 
     
 # 37. I Was A Pancake A.D. 1882

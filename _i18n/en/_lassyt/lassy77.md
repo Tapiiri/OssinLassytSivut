@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy77
 author: Ossi Törrönen
 ---
+
 
     
 # 77. Hamburg Technical Fair And RWBK

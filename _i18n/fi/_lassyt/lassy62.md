@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy62
 author: Ossi Törrönen
 ---
+
 
     
 # 62. Paavo Nurmi-patsas Wasa -laivassa

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy52
 author: Ossi Törrönen
 ---
+
 
     
 # 52. Kappelin leivinuuni kovassa käytössä. Minua luultiin Jeesukseksi

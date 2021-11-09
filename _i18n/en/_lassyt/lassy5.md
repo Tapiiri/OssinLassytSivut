@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy5
 author: Ossi Törrönen
 ---
+
 
     
 # 5. The Pain Sister Competitions Begin

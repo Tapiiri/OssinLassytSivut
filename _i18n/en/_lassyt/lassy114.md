@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy114
 author: Ossi Törrönen
 ---
+
 
     
 # 114. Dipoli's First T-evening, Little Christmas Party, And New Year

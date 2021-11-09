@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy92
 author: Ossi Törrönen
 ---
+
 
     
 # 92. President Urho Kaleva Kekkonen In Dipoli. Starting Of The Pinecone

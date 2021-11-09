@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy138
 author: Ossi Törrönen
 ---
+
 
     
 # 138. My Farewell Party From Otaniemi In 1969

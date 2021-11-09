@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy140
 author: Ossi Törrönen
 ---
+
 
     
 # 140. The Basic Pension Begins To Flow From 2.4.1980. Irma Is Involved Again In The Game

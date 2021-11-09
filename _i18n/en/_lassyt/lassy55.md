@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy55
 author: Ossi Törrönen
 ---
+
 
     
 # 55. Rantasauna's Alarm Devices And Teekkari Veisterä's Bachelor Party

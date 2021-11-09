@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy155
 author: Ossi Törrönen
 ---
+
 
     
 # 155. Dipoli Hallchain 1-4 Length 82 m Ml Järvinen World Championship 77

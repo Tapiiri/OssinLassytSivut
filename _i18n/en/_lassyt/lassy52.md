@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy52
 author: Ossi Törrönen
 ---
+
 
     
 # 52. Chapel's Baking Oven In Heavy Use. I Was Thought To Be Jesus

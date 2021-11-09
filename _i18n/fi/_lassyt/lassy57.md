@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy57
 author: Ossi Törrönen
 ---
+
 
     
 # 57. Teekkari Teemu Tynkkynen ilmapallolla taivaalle

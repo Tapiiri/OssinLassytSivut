@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy125
 author: Ossi Törrönen
 ---
+
 
     
 # 125. We Present Our Dipoli To The Management Of The Police College

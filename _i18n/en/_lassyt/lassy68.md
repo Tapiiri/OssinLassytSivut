@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy68
 author: Ossi Törrönen
 ---
+
 
     
 # 68. I Turn 50 Years

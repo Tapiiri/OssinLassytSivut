@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy150
 author: Ossi Törrönen
 ---
+
 
     
 # 150. Uuden rantasaunan vihkiäiset 29.3.1985. PUHEENI 

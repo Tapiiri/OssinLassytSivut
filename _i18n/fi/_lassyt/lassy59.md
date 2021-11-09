@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy59
 author: Ossi Törrönen
 ---
+
 
     
 # 59. Rehtori Jaakko Rahola eksyy omaan korkeakouluunsa

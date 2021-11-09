@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy15
 author: Ossi Törrönen
 ---
+
 
     
 # 15. Order In The Village

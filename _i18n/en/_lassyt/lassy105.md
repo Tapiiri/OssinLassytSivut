@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy105
 author: Ossi Törrönen
 ---
+
 
     
 # 105. Vappuhappening At TES-TV

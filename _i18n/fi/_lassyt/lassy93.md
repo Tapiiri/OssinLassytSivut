@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy93
 author: Ossi Törrönen
 ---
+
 
     
 # 93. Pekka Tarjanteen mukana Chalmersissa

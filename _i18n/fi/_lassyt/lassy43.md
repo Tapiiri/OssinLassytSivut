@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy43
 author: Ossi Törrönen
 ---
+
 
     
 # 43. Tämä ei ole valkoisen miehen soppaa

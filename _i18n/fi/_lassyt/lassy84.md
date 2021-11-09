@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy84
 author: Ossi Törrönen
 ---
+
 
     
 # 84. Juridinen persoona = 3 1/2 milj. markkaa

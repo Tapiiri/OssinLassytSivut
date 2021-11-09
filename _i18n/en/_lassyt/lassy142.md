@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy142
 author: Ossi Törrönen
 ---
+
 
     
 # 142. Littu ready for Teekkari Village's 50th anniversary in year 2002

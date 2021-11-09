@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy134
 author: Ossi Törrönen
 ---
+
 
     
 # 134. Dipoli's Number Of Customer Seats And Alcohol Drinking Areas

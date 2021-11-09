@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy1
 author: Ossi Törrönen
 ---
+
 
     
 # 1. Saapumiseni Otaniemeen vappuna. Teekkarien tiilitalkoot.

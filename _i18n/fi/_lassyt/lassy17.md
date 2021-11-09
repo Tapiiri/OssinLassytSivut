@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy17
 author: Ossi Törrönen
 ---
+
 
     
 # 17. Kairaaja sammuu rantasaunaamme

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy67
 author: Ossi Törrönen
 ---
+
 
     
 # 67. Tekninen koe sadevesitorvessa

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy50
 author: Ossi Törrönen
 ---
+
 
     
 # 50. Arvilommi's Dormitory Burned Its Table For Emotional Reasons

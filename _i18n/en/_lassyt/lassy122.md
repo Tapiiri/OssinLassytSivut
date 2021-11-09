@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy122
 author: Ossi Törrönen
 ---
+
 
     
 # 122. A Cottid To Police Counselor Eloranta

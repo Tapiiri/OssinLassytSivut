@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy2
 author: Ossi Törrönen
 ---
+
 
     
 # 2. Koko yön kestänyt Vappuserenadi.

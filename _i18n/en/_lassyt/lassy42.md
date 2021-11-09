@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy42
 author: Ossi Törrönen
 ---
+
 
     
 # 42. TKY Board's Exchange Ceremonies At Old Poli

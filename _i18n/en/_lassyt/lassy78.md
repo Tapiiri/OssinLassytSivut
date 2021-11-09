@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy78
 author: Ossi Törrönen
 ---
+
 
     
 # 78. The First T-night At Dipoli. Koff Provided

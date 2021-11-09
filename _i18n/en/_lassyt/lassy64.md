@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy64
 author: Ossi Törrönen
 ---
+
 
     
 # 64. The TKY Board Visits The Atomic Cave And A Bum

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy41
 author: Ossi Törrönen
 ---
+
 
     
 # 41. Onni Vaara And The Canadian Maple

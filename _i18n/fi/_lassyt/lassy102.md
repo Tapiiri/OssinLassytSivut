@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy102
 author: Ossi Törrönen
 ---
+
 
     
 # 102. DIPOLIINAN synty

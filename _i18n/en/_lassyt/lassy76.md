@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy76
 author: Ossi Törrönen
 ---
+
 
     
 # 76. Pekka Tarjanne's Wedding

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy47
 author: Ossi Törrönen
 ---
+
 
     
 # 47. Keskusradio talkoilla kuntoon

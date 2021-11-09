@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy7
 author: Ossi Törrönen
 ---
+
 
     
 # 7. Eduskunnan valtiovarainvaliokunnan vierailu.

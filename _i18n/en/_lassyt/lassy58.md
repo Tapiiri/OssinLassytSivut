@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy58
 author: Ossi Törrönen
 ---
+
 
     
 # 58. The "Jämerä's Eye" Statue Appears To Otaniemi

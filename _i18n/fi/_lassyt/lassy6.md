@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy6
 author: Ossi Törrönen
 ---
+
 
     
 # 6. Syön karvalakkini.

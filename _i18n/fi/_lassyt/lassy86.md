@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy86
 author: Ossi Törrönen
 ---
+
 
     
 # 86. Sukkasuhinat ja minä kännissä

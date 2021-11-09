@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy65
 author: Ossi Törrönen
 ---
+
 
     
 # 65. A Miraculous Spring In The Atomic Cave

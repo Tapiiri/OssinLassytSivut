@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy32
 author: Ossi Törrönen
 ---
+
 
     
 # 32. Olympiakesä 1952

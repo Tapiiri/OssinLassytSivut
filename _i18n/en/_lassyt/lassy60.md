@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy60
 author: Ossi Törrönen
 ---
+
 
     
 # 60. Train Escapade Into Seven Cities

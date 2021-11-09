@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy150
 author: Ossi Törrönen
 ---
+
 
     
 # 150. Inauguration Of The New Rantasauna 29.3.1985. MY SPEECH

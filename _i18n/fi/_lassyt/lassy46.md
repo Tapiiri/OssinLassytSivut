@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy46
 author: Ossi Törrönen
 ---
+
 
     
 # 46. Puutarhuri Helling lahjoittaa 5.000 kukkasipulia

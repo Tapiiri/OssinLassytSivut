@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy74
 author: Ossi Törrönen
 ---
+
 
     
 # 74. TKY:n edustajiston ensimmäiset vaalit

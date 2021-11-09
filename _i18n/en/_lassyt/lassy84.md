@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy84
 author: Ossi Törrönen
 ---
+
 
     
 # 84. A Juridical Person = 3.5 Million Finnish Marks

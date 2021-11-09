@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy69
 author: Ossi Törrönen
 ---
+
 
     
 # 69. Prestige Gifts I Have Received From Teekkaris

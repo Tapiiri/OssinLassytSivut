@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy128
 author: Ossi Törrönen
 ---
+
 
     
 # 128. Luetteloa poliisien antamista lahjakaluista

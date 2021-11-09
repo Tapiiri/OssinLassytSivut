@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy61
 author: Ossi Törrönen
 ---
+
 
     
 # 61. An Escapade At The Lappeenranta Brewery

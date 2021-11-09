@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy100
 author: Ossi Törrönen
 ---
+
 
     
 # 100. Ratikka hitsattiin kiskoihin Chalmersissa

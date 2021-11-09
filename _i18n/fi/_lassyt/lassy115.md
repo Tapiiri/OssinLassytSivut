@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy115
 author: Ossi Törrönen
 ---
+
 
     
 # 115. Poliisiopiston jäynäsielut. Katila, Aas, Muni

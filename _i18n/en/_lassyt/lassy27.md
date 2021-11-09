@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy27
 author: Ossi Törrönen
 ---
+
 
     
 # 27. ESCAPADES. J.L. Runeberg And The Vicar Of Kihniö

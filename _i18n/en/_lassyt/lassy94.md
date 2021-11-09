@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy94
 author: Ossi Törrönen
 ---
+
 
     
 # 94. The Current King Of Sweden Receives A Record From RWBK

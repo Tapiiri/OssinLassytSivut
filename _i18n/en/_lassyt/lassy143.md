@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy143
 author: Ossi Törrönen
 ---
+
 
     
 # 143. A Grousing Poem From 1952

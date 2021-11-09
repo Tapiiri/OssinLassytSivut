@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy3
 author: Ossi Törrönen
 ---
+
 
     
 # 3. Inauguration Of Teekkari Village

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy16
 author: Ossi Törrönen
 ---
+
 
     
 # 16. A Construction Supervisor Runs Amok In Our Village

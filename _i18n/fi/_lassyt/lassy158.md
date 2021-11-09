@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy158
 author: Ossi Törrönen
 ---
+
 
     
 # 158. I-valtakunnalliset jäynäkisat Vaasassa 23-24.9.1986 

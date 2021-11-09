@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy40
 author: Ossi Törrönen
 ---
+
 
     
 # 40. Huoneeseen muurattu väliseinä ja muita dekoratioita

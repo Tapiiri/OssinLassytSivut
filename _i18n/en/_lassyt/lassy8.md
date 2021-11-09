@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy8
 author: Ossi Törrönen
 ---
+
 
     
 # 8. Midsummer Celebrations

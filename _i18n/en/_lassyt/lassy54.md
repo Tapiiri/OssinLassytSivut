@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy54
 author: Ossi Törrönen
 ---
+
 
     
 # 54. TKY's Board Tests Servi's Alarm Devices

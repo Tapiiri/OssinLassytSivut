@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy151
 author: Ossi Törrönen
 ---
+
 
     
 # 151. Teekkarit täyttivät asuntoni. My name is Michael Brown 

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy40
 author: Ossi Törrönen
 ---
+
 
     
 # 40. A Partition Wall Which Was Masoned Into Its Place And Other Decorations

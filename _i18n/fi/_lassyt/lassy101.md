@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy101
 author: Ossi Törrönen
 ---
+
 
     
 # 101. Antero Salmenkiveltä kädet ylös

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy132
 author: Ossi Törrönen
 ---
+
 
     
 # 132. Tinteron valmistujaiset kestivät pari viikkoa

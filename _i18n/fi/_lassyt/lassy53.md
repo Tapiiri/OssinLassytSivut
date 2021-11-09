@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy53
 author: Ossi Törrönen
 ---
+
 
     
 # 53. Servin Mökin varkaiden huono onni

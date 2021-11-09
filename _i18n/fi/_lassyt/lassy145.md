@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy145
 author: Ossi Törrönen
 ---
+
 
     
 # 145. NARI-SAUNA luotiin 6:ssa tunnissa

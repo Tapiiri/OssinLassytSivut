@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy35
 author: Ossi Törrönen
 ---
+
 
     
 # 35. Kätilökongressi

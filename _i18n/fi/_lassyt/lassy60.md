@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy60
 author: Ossi Törrönen
 ---
+
 
     
 # 60. Juna-tempaus 7:ään kaupunkiin.

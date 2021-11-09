@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy24
 author: Ossi Törrönen
 ---
+
 
     
 # 24. Pentti Kerola And Rubber Rope Sling

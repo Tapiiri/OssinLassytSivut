@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy88
 author: Ossi Törrönen
 ---
+
 
     
 # 88. Radiolupatarkastus

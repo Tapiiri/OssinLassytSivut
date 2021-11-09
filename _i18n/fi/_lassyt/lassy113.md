@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy113
 author: Ossi Törrönen
 ---
+
 
     
 # 113. DIPOLI -nimen synty

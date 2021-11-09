@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy144
 author: Ossi Törrönen
 ---
+
 
     
 # 144. Käpy-patsaan alkuperäinen toimintaidea

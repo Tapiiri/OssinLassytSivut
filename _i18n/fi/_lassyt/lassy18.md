@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy18
 author: Ossi Törrönen
 ---
+
 
     
 # 18. Paloautomme Suihku-Siwiän koeruiskutus

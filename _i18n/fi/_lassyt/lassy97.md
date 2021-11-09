@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy97
 author: Ossi Törrönen
 ---
+
 
     
 # 97. Servin Maija yritti pönkittää puliukkoa oikealle tielle

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy157
 author: Ossi Törrönen
 ---
+
 
     
 # 157. 70-vuotispäiväni 

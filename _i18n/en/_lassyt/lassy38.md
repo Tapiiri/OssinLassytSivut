@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy38
 author: Ossi Törrönen
 ---
+
 
     
 # 38. Otaniemi Winegrowers

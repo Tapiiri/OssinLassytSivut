@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy162
 author: Ossi Törrönen
 ---
+
 
     
 # 162. Other Distinguished Otanists Who Have Been Rewarded With Teekkari H.C. Title Plus With Teekkari Cap

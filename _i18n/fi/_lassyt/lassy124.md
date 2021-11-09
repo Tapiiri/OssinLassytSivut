@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy124
 author: Ossi Törrönen
 ---
+
 
     
 # 124. Poliisioppilaat soluttavat oman Otahuutonsa kylään

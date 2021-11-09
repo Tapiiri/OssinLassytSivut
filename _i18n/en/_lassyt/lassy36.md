@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy36
 author: Ossi Törrönen
 ---
+
 
     
 # 36. Bolterabend Teekkari's Foot Is Put In Plaster

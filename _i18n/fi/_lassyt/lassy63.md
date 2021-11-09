@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy63
 author: Ossi Törrönen
 ---
+
 
     
 # 63. Luolamiesten kunniamolkku

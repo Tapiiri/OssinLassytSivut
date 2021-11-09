@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy12
 author: Ossi Törrönen
 ---
+
 
     
 # 12. Python-käärme

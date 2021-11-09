@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy107
 author: Ossi Törrönen
 ---
+
 
     
 # 107. Tutsan vappuvarmistus

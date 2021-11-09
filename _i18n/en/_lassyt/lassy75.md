@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy75
 author: Ossi Törrönen
 ---
+
 
     
 # 75. Country's Pigs And The National Coalition Party

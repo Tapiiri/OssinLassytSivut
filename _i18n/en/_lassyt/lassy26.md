@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy26
 author: Ossi Törrönen
 ---
+
 
     
 # 26. The Fire Truck SUIHKU-SIWIÄ Gets New Tires

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.alkulassy
 author: Ossi Törrönen
 ---
+
 
     
 # Alkulässy I-painokseen 1982.

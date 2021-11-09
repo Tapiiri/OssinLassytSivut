@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy156
 author: Ossi Törrönen
 ---
+
 
     
 # 156. BRAHNU ja CHEMALIS radioaktiivisen säteilyn tutkijoina 

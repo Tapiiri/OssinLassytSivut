@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy130
 author: Ossi Törrönen
 ---
+
 
     
 # 130. Luolamiehen avajaiset kera kolmen stripparin

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy135
 author: Ossi Törrönen
 ---
+
 
     
 # 135. Dipoli Open Overnight With Cocktail Vending Machine

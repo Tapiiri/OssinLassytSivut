@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy149
 author: Ossi Törrönen
 ---
+
 
     
 # 149. RWBK:n eräs tehdaskonsertti

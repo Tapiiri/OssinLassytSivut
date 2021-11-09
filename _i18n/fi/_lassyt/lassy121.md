@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy121
 author: Ossi Törrönen
 ---
+
 
     
 # 121. Taistelu poliisien hyppylaudasta. Vaihdamme Elorannan autoon

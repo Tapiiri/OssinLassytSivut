@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy90
 author: Ossi Törrönen
 ---
+
 
     
 # 90. I Got A Gold Watch From The Village's Teekkaris

@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy20
 author: Ossi Törrönen
 ---
+
 
     
 # 20. Teekkaris Of Toronto And Inaugurations Of The Rantasauna

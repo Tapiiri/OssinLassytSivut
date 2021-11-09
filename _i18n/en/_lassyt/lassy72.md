@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy72
 author: Ossi Törrönen
 ---
+
 
     
 # 72. Teekkaris Begin To Participate In Municipal Life

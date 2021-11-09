@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy59
 author: Ossi Törrönen
 ---
+
 
     
 # 59. Rector Jaakko Rahola Gets Lost In His Own University Building

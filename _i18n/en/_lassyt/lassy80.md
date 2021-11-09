@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy80
 author: Ossi Törrönen
 ---
+
 
     
 # 80. A Teekkari Was About To Become A Film Slide

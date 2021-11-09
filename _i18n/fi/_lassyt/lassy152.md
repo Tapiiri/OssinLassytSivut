@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy152
 author: Ossi Törrönen
 ---
+
 
     
 # 152. Viimeinen ilmastoitu huone B 99 = johti suoraan ulos 

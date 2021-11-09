@@ -1,8 +1,10 @@
 
 ---
-title: Ossin Lässyt
+
+title: titles.lassy95
 author: Ossi Törrönen
 ---
+
 
     
 # 95. A Princess of Denmark In Otaniemi
