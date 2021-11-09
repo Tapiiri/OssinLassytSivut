@@ -31,28 +31,27 @@ def newRootFileData(lines, filenameWithoutType):
     try:
         headerLines = splitByHeader[1].split("\n")
         newHeaderLines = []
+        noPermaLink = True
+
+        newValues = [
+            ["title", f"titles.{filenameWithoutType}"],
+            ["permalink", f"/{filenameWithoutType}/"],
+            ["layout", "page"]
+        ]
         for line in headerLines:
-            noPermaLink = True
             if ":" in line:
                 [name, *value] = line.split(":")
-                if name == "title":
-                    newTitle = f"titles.{filenameWithoutType}"
-                    newLine = ": ".join([name, newTitle])
-                    newHeaderLines += [ newLine ]
-                elif name == "permalink":
-                    noPermaLink = False
-                    newPermaLink = f"/{filenameWithoutType}"
-                    newLine = ": ".join([name, newPermaLink])
-                    newHeaderLines += [ newLine ]
+                if name in map(lambda newValue: newValue[0], newValues):
+                    continue
                 else:
                     newHeaderLines += [ line ]
-                if noPermaLink:
-                    name = "permalink"
-                    newPermaLink = f"/{filenameWithoutType}/"
-                    newLine = ": ".join([name, newPermaLink])
-            else:
-                newHeaderLines += [ line ]
-        newHeader = "\n".join(newHeaderLines)
+
+        for newValue in newValues:
+            [ name, value ] = newValue
+            newLine = ": ".join([name, value])
+            newHeaderLines += [ newLine ]
+
+        newHeader = "\n".join(["", *newHeaderLines, ""])
 
         newBody = f"\n{{% translate_file _lassyt/{filenameWithoutType}/{filenameWithoutType}.md %}}"
 
