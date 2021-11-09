@@ -34,7 +34,7 @@ def newRootFileData(lines, filenameWithoutType):
         noPermaLink = True
 
         newValues = [
-            ["title", f"titles.{filenameWithoutType}"],
+            ["title", f"titles.lassyt.{filenameWithoutType}"],
             ["permalink", f"/{filenameWithoutType}/"],
             ["layout", "page"]
         ]
@@ -60,7 +60,7 @@ def newRootFileData(lines, filenameWithoutType):
             newHeader,
             newBody,
         ])
-        return newData
+        return newData.strip()
     except IndexError:
         print("No header found")
         return "\n".join(lines)
