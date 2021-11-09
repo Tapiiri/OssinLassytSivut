@@ -4,14 +4,14 @@ tagline:
 ---
 
 {% for post in site.pages %}
-
+{% if post.categories contains 'lassyt' %}
 <article class="home">
 
   <h2>
     {% if site.lang == 'fi' %}
-    <a href="{{ site.BASEURL_ROOT }}{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ site.BASEURL_ROOT }}{{ post.url }}">{% t post.title %}</a>
     {% else %}
-    <a href="{{ site.BASEURL_ROOT }}/{{ site.lang }}{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ site.BASEURL_ROOT }}/{{ site.lang }}{{ post.url }}">{% t post.title %}</a>
     {% endif %}
   </h2>
 
@@ -19,8 +19,9 @@ tagline:
     Yes, it is I!
     {% t post.title %}
   </div>
-
+  
 </article>
+{% endif %}
 {% endfor %}
 <hr/>
 

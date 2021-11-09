@@ -36,7 +36,8 @@ def newRootFileData(lines, filenameWithoutType):
         newValues = [
             ["title", f"titles.lassyt.{filenameWithoutType}"],
             ["permalink", f"/{filenameWithoutType}/"],
-            ["layout", "page"]
+            ["layout", "page"],
+            ["categories", "[lassyt]"]
         ]
         for line in headerLines:
             if ":" in line:

@@ -34,6 +34,7 @@ categories_path: categories.html
 tags_path: tags.
 
 include: ['lassyt']
+categories: [ 'lassyt' ]
 
 # Build settings
 plugins:
