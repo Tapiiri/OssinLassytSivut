@@ -33,7 +33,7 @@ rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.
 
-
+include: ['_lassyt']
 
 # Build settings
 plugins:
