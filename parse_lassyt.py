@@ -21,6 +21,14 @@ def getTitle(lines):
 def newFileData(lines, filenameWithoutType):
     splitByHeader =  "\n".join(lines).split("---")
     try:
+        newData = splitByHeader[2]
+        return newData
+    except IndexError:
+        return "\n".join(lines)
+
+def newRootFileData(lines, filenameWithoutType):
+    splitByHeader =  "\n".join(lines).split("---")
+    try:
         headerLines = splitByHeader[1].split("\n")
         newHeaderLines = []
         for line in headerLines:
@@ -36,16 +44,18 @@ def newFileData(lines, filenameWithoutType):
                 newHeaderLines += [ line ]
         newHeader = "\n".join(newHeaderLines)
 
+        newBody = f"\n{{% translate_file _lassyt/{filenameWithoutType}/{filenameWithoutType}.md %}}"
 
         newData = "---".join([
             splitByHeader[0],
             newHeader,
-            splitByHeader[2],
+            newBody,
         ])
         return newData
     except IndexError:
         print("No header found")
         return "\n".join(lines)
+
 
 def main():
     langs = ["fi", "en"]
@@ -53,36 +63,59 @@ def main():
         directory = f"./_i18n/{lang}/_lassyt"
         titles = []
 
-        def updateFile(file):
+        def updateFile(data):
             lines = data.split("\n")
             title = getTitle(lines)
             filenameWithoutType = filename.split(".")[0]
             titleObject = [ title , filenameWithoutType ]
             newData = newFileData(lines, filenameWithoutType)
             return [ newData, titleObject ]
+            
 
-        for filename in filter(lambda x: ".md" in x, os.listdir(directory)):
-            newData = ""
-            filePath = os.path.join(directory, filename)
-            print(filePath)
-            with open(filePath, "r+") as file:
-                data = file.read()
-                [ newData, titleObject ] = updateFile(file)
-                titles += [ titleObject ]
-                
+        for filename in os.listdir(directory):
+            folderExists = False
+            fileNameWithType = filename if ".md" in filename else filename + ".md"
             folderPath = os.path.join(directory, filename.split(".")[0])
+            newFilePath = os.path.join(folderPath, fileNameWithType)
             try:
                 os.mkdir(folderPath)
             except FileExistsError:
-                pass
+                folderExists = True
+
+            newData = ""
+            filePath = os.path.join(directory, fileNameWithType) if not folderExists else newFilePath
+            print(filePath)
+            with open(filePath, "r+") as file:
+                data = file.read()
+                [ newData, titleObject ] = updateFile(data)
+                titles += [ titleObject ]
 
             
-            newFilePath = os.path.join(folderPath, filename)
             with open(newFilePath, "w") as file:
                 file.write(newData)
 
-            os.remove(filePath) 
+            if not folderExists:
+                os.remove(filePath) 
 
         # writeTitles(lang, titles)
+    
+    directory = f"./_lassyt"
+    for filename in filter(lambda x: ".md" in x, os.listdir(directory)):
+            newData = ""
+            filePath = os.path.join(directory, filename)
+
+            def updateRootFile(data):
+                lines = data.split("\n")
+                filenameWithoutType = filename.split(".")[0]
+                newData = newRootFileData(lines, filenameWithoutType)
+                return [ newData ]
+
+            with open(filePath, "r+") as file:
+                data = file.read()
+                [ newData ] = updateRootFile(data)
+
+            with open(filePath, "w") as file:
+                file.write(newData)
+
 
 main()
