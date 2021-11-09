@@ -18,7 +18,7 @@ def getTitle(lines):
         except IndexError:
             continue
         
-def writeTitle(lines, filenameWithoutType):
+def newFileData(lines, filenameWithoutType):
     splitByHeader =  "\n".join(lines).split("---")
     try:
         headerLines = splitByHeader[1].split("\n")
@@ -35,11 +35,12 @@ def writeTitle(lines, filenameWithoutType):
             else:
                 newHeaderLines += [ line ]
         newHeader = "\n".join(newHeaderLines)
-                
+
+
         newData = "---".join([
             splitByHeader[0],
             newHeader,
-            splitByHeader[2]
+            splitByHeader[2],
         ])
         return newData
     except IndexError:
@@ -57,19 +58,30 @@ def main():
             title = getTitle(lines)
             filenameWithoutType = filename.split(".")[0]
             titleObject = [ title , filenameWithoutType ]
-            newData = writeTitle(lines, filenameWithoutType)
+            newData = newFileData(lines, filenameWithoutType)
             return [ newData, titleObject ]
 
-        for filename in os.listdir(directory):
+        for filename in filter(lambda x: ".md" in x, os.listdir(directory)):
             newData = ""
             filePath = os.path.join(directory, filename)
+            print(filePath)
             with open(filePath, "r+") as file:
                 data = file.read()
                 [ newData, titleObject ] = updateFile(file)
                 titles += [ titleObject ]
+                
+            folderPath = os.path.join(directory, filename.split(".")[0])
+            try:
+                os.mkdir(folderPath)
+            except FileExistsError:
+                pass
 
-            with open(filePath, "w") as file:
+            
+            newFilePath = os.path.join(folderPath, filename)
+            with open(newFilePath, "w") as file:
                 file.write(newData)
+
+            os.remove(filePath) 
 
         # writeTitles(lang, titles)
 
