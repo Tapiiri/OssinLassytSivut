@@ -22,21 +22,24 @@ def writeTitle(lines, filenameWithoutType):
     splitByHeader =  "\n".join(lines).split("---")
     try:
         headerLines = splitByHeader[1].split("\n")
-        headerLines = []
+        newHeaderLines = []
         for line in headerLines:
-            [name, value] = line.split(":")
-            if name == "title":
-                newTitle = f"titles.{filenameWithoutType}"
-                newLine = ":".join([name, newTitle])
-                headerLines += [ newLine ]
+            if ":" in line:
+                print(line)
+                [name, *value] = line.split(":")
+                if name == "title":
+                    newTitle = f"titles.{filenameWithoutType}"
+                    newLine = ": ".join([name, newTitle])
+                    newHeaderLines += [ newLine ]
+                else:
+                    newHeaderLines += [ line ]
             else:
-                headerLines += [ line ]
+                newHeaderLines += [ line ]
         newHeader = "\n".join(headerLines)
                 
-        newData = "---".join([
-            splitByHeader[0],
+        newData = "---\n".join([
             newHeader,
-            *splitByHeader[2:]
+            splitByHeader[2]
         ])
         return newData
     except IndexError:
@@ -50,6 +53,7 @@ def main():
         titles = []
 
         for filename in os.listdir(directory):
+            newData = ""
             filePath = os.path.join(directory, filename)
             with open(filePath, "r+") as file:
                 data = file.read()
@@ -59,8 +63,9 @@ def main():
                 titleObject = [ title , filenameWithoutType ]
                 titles += [ titleObject ]
                 newData = writeTitle(lines, filenameWithoutType)
+            with open(filePath, "w") as file:
                 file.write(newData)
 
-        writeTitles(lang, titles)
+        # writeTitles(lang, titles)
 
 main()
