@@ -36,7 +36,7 @@ def writeTitle(lines, filenameWithoutType):
                 newHeaderLines += [ line ]
         newHeader = "\n".join(newHeaderLines)
                 
-        newData = "---\n".join([
+        newData = "---".join([
             splitByHeader[0],
             newHeader,
             splitByHeader[2]
@@ -52,17 +52,22 @@ def main():
         directory = f"./_i18n/{lang}/_lassyt"
         titles = []
 
+        def updateFile(file):
+            lines = data.split("\n")
+            title = getTitle(lines)
+            filenameWithoutType = filename.split(".")[0]
+            titleObject = [ title , filenameWithoutType ]
+            newData = writeTitle(lines, filenameWithoutType)
+            return [ newData, titleObject ]
+
         for filename in os.listdir(directory):
             newData = ""
             filePath = os.path.join(directory, filename)
             with open(filePath, "r+") as file:
                 data = file.read()
-                lines = data.split("\n")
-                title = getTitle(lines)
-                filenameWithoutType = filename.split(".")[0]
-                titleObject = [ title , filenameWithoutType ]
+                [ newData, titleObject ] = updateFile(file)
                 titles += [ titleObject ]
-                newData = writeTitle(lines, filenameWithoutType)
+
             with open(filePath, "w") as file:
                 file.write(newData)
 
