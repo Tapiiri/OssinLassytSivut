@@ -1,0 +1,12 @@
+
+---
+title: Ossin Lässyt
+author: Ossi Törrönen
+---
+
+    
+# 40. A Partition Wall Which Was Masoned Into Its Place And Other Decorations
+
+In the early years of the village, I tried to keep a lot of noise because residents could, using their imagination, decorate their dormitories and rooms with cost-efficient tricks and raw materials. TKY had equipped these only with the necessary standard furniture. When I was doing some routine inspection and opened a room door, I really stiffened in amazement to the doorstep. Across the room went 1.50 meters high red, bricked partition wall room. The resident itself was present. After a long haul of air, I roared something like, "What the h\*ll have you thought, and with whose permission have you ruined TKY's property, with such idiotic masonry work?". That teekkari answered my roaring, saying: "Well, this is a bit strange. First, you, with foam in your mouth, say that residents should use their imagination. Now, when residents use their imagination, you come to roar here". When the resident lifted one brick from the top layer, I realized what the issue was. As a result, a red of shame slammed into my cheeks, and with apologies, I left the room. This teekkari had really heard my words and used imagination brilliantly. That person had cut strips from 10 mm thick insulite plates. These strips had then been placed between the bricks. The bricks had then just been stacked on top of each other. Thus by no means, actual masonry work had taken place. On the other side was a bookshelf.
+
+Equally brilliant was the imagination of the teekkari who, while living in TKY IV, had cut an ordinary Koskenkorva bottle diagonally by some unknown method. These halves this resident had then glued to both sides of the wired cast glass partition wall. The impression was really genuine. It was as if a bottle had been swung to a partition wall with enormous force and remained there. As proof of the authenticity of the idea was, among other things, that I received a letter. In that letter, some religious congress participants wondered what kind of life is actually being lived in Teekkari Village. "Even liquor bottles are thrown through the walls and left in place as signs of victory. And yes, everyone understands what that big stone's hole in the middle of the village really means", was the congress guest raging with anger to me in that letter."

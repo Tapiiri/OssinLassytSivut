@@ -1,9 +1,9 @@
 global:
     site:
-        title: "Major's Memoirs"
+        title: "Ossi's Ramblings"
     author:
-        name: "Jere 'Major' Vänskä"
-        bio: "My blog!"
+        name: "Ossi Törrönen"
+        bio: "-"
 default:
     home: "Home"
     about: "About"
@@ -12,4 +12,3 @@ default:
     page: "Page"
     next: "Next"
     previous: "Previous"
-    wappuCounter: "Wappu Countdown"

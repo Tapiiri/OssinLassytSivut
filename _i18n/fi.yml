@@ -12,4 +12,3 @@ default:
     page: "Sivu"
     next: "Seuraava"
     previous: "Edellinen"
-    wappuCounter: "Wappulaskuri"

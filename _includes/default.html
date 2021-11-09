@@ -52,24 +52,7 @@
 				{% t global.site.title %}
 			</a>
             <div style="float:right">
-                {% assign numbers = site.static_files | where: "number", true | reverse %}
-                {% assign last_path = numbers.last.path %}
-                {% if last_path contains "mp4" %}
-                    {% assign thumbnails = site.static_files | where: "number_vid_thumbnail", true | reverse %}
-                    {% assign last_path = thumbnails.last.path    %}
-                {% endif %}
-                {% if page.url != '/' %}
-                    <div class="header-counter-btn-wrapper"
-                        style="background:url({{ site.BASEURL }}{{ last_path }}) no-repeat center center;background-size:cover;">
-                        <a class="visible-xs header-counter-btn" 
-                            href="{{ site.BASEURL_ROOT}}{{ '/' | append: site.lang | replace: '/fi', ''}}/wappulaskuri">
-                        </a>
-                    </div>
-                {% endif %}
-            </div>
-            <div style="float:right">
                 <a class="link-fi" href="{{ site.BASEURL_ROOT }}{{page.url}}">fi</a>
-                <a class="link-sv" href="{{ site.BASEURL_ROOT }}/sv{{ page.url }}">sv</a>
                 <a class="link-sv" href="{{ site.BASEURL_ROOT }}/en{{ page.url }}">en</a>
             </div>
 		</div>
@@ -100,20 +83,6 @@
 
 		</ul>
 	</div> -->
-
-	{% assign numbers = site.static_files | where: "number", true | reverse %}
-    {% assign last_path = numbers.last.path %}
-    {% if last_path contains "mp4" %}
-        {% assign thumbnails = site.static_files | where: "number_vid_thumbnail", true | reverse %}
-        {% assign last_path = thumbnails.last.path    %}
-    {% endif %}
-    {% if page.url == '/' %}
-        <a class="countdown-header visible-xs" 
-            style="background:url({{ site.BASEURL }}{{last_path}}) no-repeat center center; background-size: cover;" 
-            href="{{ site.BASEURL_ROOT}}{{ '/' | append: site.lang | replace: '/fi', ''}}/wappulaskuri">
-            <button class="btn btn-countdown" style="opacity:0.8">{% t default.wappuCounter %} ></button>
-        </a>
-    {% endif %}
 
 	<div class="col-sm-3 sidebar hidden-xs" style="{% if site.sidebar_background_image %}background: url({{site.sidebar_background_image}}) no-repeat !important;{% endif %}">
 		{% include sidebar.html %}

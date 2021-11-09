@@ -3,24 +3,12 @@ layout: page
 tagline:
 ---
 
-{% for post in paginator.posts %}
+{% for post in site.lassyt %}
 
 <article class="home">
 
-  <span class="post-date">
-    {% assign d = post.date | date: "%d" | plus:'0' %}
-    {{ post.date | date: "%B" }}
-    {% case d %}
-    {% when 1 or 21 or 31 %}{{ d }}st,
-    {% when 2 or 22 %}{{ d }}nd,
-    {% when 3 or 23 %}{{ d }}rd,
-    {% else %}{{ d }}th,
-    {% endcase %}
-    {{ post.date | date: "%Y" }}
-  </span>
-
   <h2>
-  {% if site.lang == 'fi' %}
+    {% if site.lang == 'fi' %}
     <a href="{{ site.BASEURL_ROOT }}{{ post.url }}">{{ post.title }}</a>
     {% else %}
     <a href="{{ site.BASEURL_ROOT }}/{{ site.lang }}{{ post.url }}">{{ post.title }}</a>
@@ -28,6 +16,7 @@ tagline:
   </h2>
 
   <div>
+    Yes, it is I!
     {{ post.content }}
   </div>
 
