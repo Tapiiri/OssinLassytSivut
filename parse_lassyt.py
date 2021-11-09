@@ -21,7 +21,9 @@ def getTitle(lines):
 def newFileData(lines, filenameWithoutType):
     splitByHeader =  "\n".join(lines).split("---")
     try:
-        newData = splitByHeader[2]
+        newData = splitByHeader[0]
+        if newData.strip().split("\n")[0].strip()[0] == "#":
+            return "\n".join(newData.strip().split("\n")[1:])
         return newData
     except IndexError:
         return "\n".join(lines)
@@ -31,7 +33,6 @@ def newRootFileData(lines, filenameWithoutType):
     try:
         headerLines = splitByHeader[1].split("\n")
         newHeaderLines = []
-        noPermaLink = True
 
         newValues = [
             ["title", f"titles.lassyt.{filenameWithoutType}"],
