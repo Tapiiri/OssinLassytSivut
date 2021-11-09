@@ -1,9 +1,4 @@
 
-
-
-    
-# 36. Bolterabend-teekkarin jalka pakettiin
-
 Avioitumista edeltää varsin usein ystävien järjestämä vihoviimeinen poikamiesilta eli auf deutsch 
 Bolterabend. Näitäkin vietettiin Teekkarikylässä lukuisia sekä  virallisesti että epä . Eräänä yönä n. 
 kello 3 aikaan soitettiin ovikelloani ja kun konttasin avaamaan, niin siellä seisoi (tai paremminkin 

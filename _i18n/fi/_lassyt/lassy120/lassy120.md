@@ -1,9 +1,4 @@
 
-
-
-    
-# 120. Lähetämme lahjapaketin poliisiopistolle
-
 Syvästi kiitollisina miellyttävästä yhteistyöstä päätti kylän linnanisännistö kerran lähettää poliisiopiston 
 oppilaskunnalle lahjapaketin. Tämän jäynän keksijä ja toimeenpaneva teknikko oli Seppälän Masi. 
 Paketin sisältä oli karu, mutta sitä vaatimattomampi. Siellä oli vanha herätyskello, yksi rotanloukku, 

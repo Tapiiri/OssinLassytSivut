@@ -1,9 +1,4 @@
 
-
-
-    
-# 59. Rehtori Jaakko Rahola eksyy omaan korkeakouluunsa
-
 Teknillisen Korkeakoulun päärakennus Otaniemessä on todella kuin joku USA:n Pentagon pitkien ja 
 mutkittelevien käytävien risteillessä sen uumenissa. Todellinen labyrintti se kuitenkin oli ensimmäisen 
 lukukauden alkaessa, kun osa talosta otettiin käyttöön lopun ollessa vielä rakennustyömaana. Tilapäisin 

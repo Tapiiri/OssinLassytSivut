@@ -1,9 +1,4 @@
 
-
-
-    
-# 143. Purnausruno vuodelta 1952
-
 Seuraavassa purnausruno teekkarikylän ensimmäisen linnanisännistön yhden isännän, Ilpo V. Salmen 
 runoasuun saattama "yhteenveto ensimmäisen asumiskauden 1951-1952 purnauksista". Eivätpä ole 
 purnausten aiheet kolmen vuosikymmenen aikana juuri muuttuneet vai ovatko.
@@ -29,6 +24,3 @@ purnausten aiheet kolmen vuosikymmenen aikana juuri muuttuneet vai ovatko.
     jäänyt varsin vähälle on derivaatta, dralli.
 
 PS. Tämän runon otin talteen kevään 1952 viimeisestä Nyytiset -lehdestä.
-
-
-

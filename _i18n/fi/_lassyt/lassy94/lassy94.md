@@ -1,9 +1,4 @@
 
-
-
-    
-# 94. Ruotsin nyk. kuningas saa RWBK:lta äänilevyn
-
 Muistuupa mieleeni, kun Ruotsin nykyinen kuningas perintöprinssinä vieraili Urkin kanssa ensi kertaa 
 Dipolissa. Ala-aulassa oli virallisten vastaanottajien lisäksi myös RWBK, kuinkas muuten. Heiltä oli 
 juuri valmistunut oma LP-levykin. Kun sulosoinnut oli soitettu, astui yhtyeestä esiin sen ehkä 
@@ -13,5 +8,3 @@ sellaisen vehkeen omistavansa Tukholman linnassa, jatkoi Roope: "Här  skall Du 
 niin rikastui Ruotsin tuleva kuningas yhdellä tositaiteellisella äänilevyllä. Hän kävi muuten prinssinä 
 ollessaan parikin kertaa Otaniemessä, ja oli kerran SIMILISTIEN vieraanakin heidän kellaripoksissaan 
 TKY 2:ssa.
-
-

@@ -1,10 +1,5 @@
 
 
-
-    
-# Alkulässy I-painokseen 1982.
-
-
 Yli 12 vuotta olen epätoivon vimmalla yrittänyt jättää Teekkarikylässä viettämäni 17 vuotta unhoituksen kaikki 
 peittävään hämärään. Olen tämän päivän tohinassa koettanut unohtaa ne lukemattomat Otaniemen muistot, joita 
 katkeamattomana nauhana palaa mieleeni. Mutta turhaan. Ne muistot eivät koskaan unohdu. Ei niistä eroon pääse. Ja 
@@ -47,4 +42,3 @@ Antakoot seuraavassa kertomani tositapahtumat katetta väitteilleni.
 
 
 	Ossi Törrönen
-

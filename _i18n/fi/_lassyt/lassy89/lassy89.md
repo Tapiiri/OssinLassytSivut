@@ -1,9 +1,4 @@
 
-
-
-    
-# 89. PLH vaati keskusradion joka pisteeseen eri luvan
-
 Erään toisen kerran PLH hätkähdytti meitä ilmoittaen, että jokainen keskusradion kuuntelupiste 
 seinässä voidaan tulkita radiokuuntelulaitteeksi, jolle siten olisi lunastettava oma kuuntelulupansa. 
 Huoneita oli silloin 422 ja soluhalleja 91. Siis 513 uutta lupaa. Lähetimme PLH:IIe kirjallisen 

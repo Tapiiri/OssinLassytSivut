@@ -1,9 +1,4 @@
 
-
-
-    
-# 73. Espoo täyttää 500 vuotta. TKY:lle "milli"
-
 Kun Espoon kunta täytti 500 vuotta, piti valtuusto juhlakokouksensa Leppävaaran ammattikoulun 
 salissa. Oma miehemme, Olavi Kanerva, oli silloin valtuuston puheenjohtajana. Saimme vihjeen, että 
 tässä juhlakokouksessa valtuusto jakaa avustuksia erilaisiin hyviin tarkoituksiin, joista eräs olisi 
@@ -14,4 +9,3 @@ valtuutettujen ympäri melodian "ankkurit ylös" raikuessa riemukkaan kiitollisu
 välikohtausta ei eräs paatunut kunnanvaltuutettu kuitenkaan kestänyt, vaan pyysi heti puheenvuoron ja 
 esitti ruotsinkielisen huomautuksen siitä, että puheenjohtaja ei pysty ylläpitämään järjestystä 
 kokoussalissa. Mene ja tiedä, vaikka se maininta olisi tullut pöytäkirjaankin.
-

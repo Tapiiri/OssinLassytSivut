@@ -1,9 +1,4 @@
 
-
-
-    
-# 126. Poliisien järjestämä oikeudenkäynti opistolla
-
 Eräänä tavallisena arki-iltana, kun istuin kotona perheeni keskuudessa radiota kuunnellen, soi ovikello rajusti. Vaimoni meni 
 avaamaan ja ovesta työntyi sisälle kolmen virkapukuisen poliisin partio kysyen tiukasti olenko minä Ossi Törrönen. Kun 
 myönsin näin olevan, he määräsivät palttoon niskaan ja hatun päähän ja lähtivät raahaamaan minua C-porrasta alaspäin. 
@@ -38,5 +33,3 @@ tuomio lyhyt ja ankara. - Syytetyt on todettu osallisiksi kaikkiin esitettyihin 
 lopullisesti hävitettäviksi. Tuomiosta ei voinut valittaa ja se määrättiin toimeenpantavaksi välittömästi. Hanhenmarssissa 
 mentiin sitten pohjakerroksen saunaan ja loppuilta kului varsin mukavasti. Ainakin me tuomitut totesimme näissä tapauksissa 
 rikosten kannattaneen.
-
-

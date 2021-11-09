@@ -1,9 +1,4 @@
 
-
-
-    
-# 70. Teekkarit kantavat omaa porttiaan
-
 Nytpä kopioin tähän erään legendaarisen teekkarijäynän, joka tapahtui kauan sitten ennen sotia ja jonka 
 minulle vakuutti todeksi Teekkarikylän rantasaunan lauteilla erään yhteissitsin aikana Helsingin 
 apulaispoliisimestari Otto Kosonen. Hän on ollut jo useita vuosia eläkkeellä, mutta oli itse 
@@ -55,4 +50,3 @@ itselleen kirjallisen haltuunottotodistuksen, jossa portin mitat, muoto ja muut 
 huolellisesti olivat mainittuina. Ja näin oli taas yksi yö saatu kulumaan lähes loppuun. Teekkarit 
 suunnistivat takaisin Polin tummien kattojen suuntaan, ja poliisimiehet Kososen Otto etunenässä 
 huokaisivat helpotuksesta.
-

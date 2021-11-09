@@ -1,9 +1,4 @@
 
-
-
-    
-# 145. NARI-SAUNA luotiin 6:ssa tunnissa
-
 Consa lavialta tunnettu on, että suloisessa Suomessamme on saunoja jos jonkunlaisia siinä parin miljoonan verran, niin 
 selostettakoon tässä yhteydessä vain yksi jossakin määrin erikoinen exemplaari.
 

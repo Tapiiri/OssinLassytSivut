@@ -1,9 +1,4 @@
 
-
-
-    
-# 33. The U.S. Football Team At Rantasauna
-
 After the Olympics, almost all foreign sports teams lived in Helsinki during the summer while visiting Otaniemi. So I remember a case from Rantasauna in Teekkari Village. It was the end of August, and the U.S. football team was on its way to the Soviet Union, living for a day in Teekkari Village. The then coach of the Football Association of Finland, Aatos Lehtinen, had ordered Rantasauna for the team for one evening. He asked me to be a "sauna host." Unfortunately, this fall summer's evening happened to be very chilly and rainy. The whole group, including Aatos and me, sat on benches in 100 Celcius degrees heat, which the Yankees considered horrifying.
 
 I then said, "in my fluent American language," that "according to the ancient Finnish sauna tradition, we will all go swimming now." So Lehtonen and I ran to the pier, and in this first round, we got only two Yankees running after us into the sea. Then we went back to the sauna. These two brave explained how refreshing and pleasant that swimming was back to the sauna and there with great passion. These harangues made an impact. After the following water tossings and steam vapors, the entire U.S. team ran to the pier into the sea, each in its own style. Quick soon, one after another, then got up back to the dock, except for the one who did not seem to be in any hurry at all. From that muddy, cold waters of Laajalahti, he appeared from time to time, his right hand up like back in the day in the same manner as a German leader used to do.

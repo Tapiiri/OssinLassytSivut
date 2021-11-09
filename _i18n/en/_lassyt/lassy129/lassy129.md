@@ -1,9 +1,4 @@
 
-
-
-    
-# 129. The Reign Of Colonel Lyytinen In Teekkarikylä
-
 Now I remember the time when the Prussian discipline prevailed for a month or so on Teekkari Village. It was June 1952, and the Olympics were coming. We sat with our then main castle warden, teekkari Olli Mykkänen, in our office at TKY 3's lower lobby when the door opened. An older, wholly bald but otherwise upright and agile gentleman entered from the mouth of which the following reply came out before the door behind him even closed: "My name is Lyytinen, I am retired colonel, the Olympic Committee has called to me this sports village's commandant, have a good day." Olli and I reared up and shook hands with the guest. The following Commandant Lyytinen's reply was immediately included: "Show me the accommodation plan for the village."
 
 At this point of the story, it must be absolutely told that Olli Mykkänen was an active member of the Polytechnic Choir. He used to hum quietly whatever he was doing.

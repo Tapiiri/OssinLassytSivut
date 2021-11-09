@@ -1,9 +1,4 @@
 
-
-
-    
-# 111. Polin emäntä käryää oluesta
-
 Vielä toinen todistus ALKON ehdottomuudesta. Se oli joskus 50-luvun lopulla, kun TKY:n hallituksessa istuneet teekkarit 
 saivat puhuttua ravintola Polin emännän ympäri ja lainattua häneltä kymmenkunta pulloa olutta "vannottuaan palauttavansa ne 
 heti seuraavana aamuna Albertinkadun myymälän avauduttua". Ja niin he todella tekivätkin. Heti kello 10 palautettiin 

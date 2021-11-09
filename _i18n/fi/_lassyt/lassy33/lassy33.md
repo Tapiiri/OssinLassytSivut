@@ -1,9 +1,4 @@
 
-
-
-    
-# 33. USA:n jalkapallojoukkue rantasaunalla
-
 Olympiakisojen jälkeen asustivatkin sitten lähes kaikki ulkolaiset urheilujoukkueet Helsingissä kesäisin 
 vieraillessaan Otaniemessä. Niinpä muistuu mieleeni eräs tapaus kylän rantasaunalta. Oli elokuun 
 loppu ja USA:n jalkapallojoukkue oli matkallaan Neuvostoliittoon asuen vuorokauden 

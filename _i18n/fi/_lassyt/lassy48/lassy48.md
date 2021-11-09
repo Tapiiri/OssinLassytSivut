@@ -1,9 +1,4 @@
 
-
-
-    
-# 48. Poliisiopisto tunkeutuu Otaniemeen
-
 Kun aikanaan saimme kuulla sen kauhu-uutisen, että poliisikoulua suunniteltiin Otaniemen alueelle, 
 lämmitimme rantasaunamme ja kutsuimme maamme korkeimman poliisijohdon 
 "tiedustelutilaisuuteen", jotta moinen hirvittävä uutinen saataisiin tyrmätyksi. Lauteilla heitimme 

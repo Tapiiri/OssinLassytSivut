@@ -1,9 +1,4 @@
 
-
-
-    
-# 147. Vuosisadan UFO -idea meni pieleen. ÄPY ÄINÄ JNE.	
-
 Eräänä keväänä, joskus kylän alkuvuosina oli jälleen TEMPAUSVUOSI ja similistit touhusivat ÄPY -lehtensä julkaisemista. 
 Samanaikaisesti koko maailma oli täynnään UFON- näkijöitä. Varsin usein oli päivälehdissä "silminnäkijöiden todisteluita" 
 ulkoavaruudesta tänne Tellukseen pistäytyneistä turisteista. Kehittelimme vailla vertaa olevan tempausjäynän, jonka piti 

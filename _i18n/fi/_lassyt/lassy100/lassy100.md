@@ -1,8 +1,3 @@
-
-
-
-    
-# 100. Ratikka hitsattiin kiskoihin Chalmersissa
 Göteborgin Chalmersissa kulkivat teekkarit aikoinaan runsaslukuisasti raitiovaunuilla aamuisin 
 lafkalle. Autoja ei silloin vielä ollut monellakaan teekkarilla, joten raitsikoihin tuppautui aamuisin 
 kavereita enemmänkin kuin niihin mahtui. Sattui vielä niin, että tämän aamuraitsikan kuljettaja oli aina 

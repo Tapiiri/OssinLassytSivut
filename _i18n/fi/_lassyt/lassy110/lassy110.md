@@ -1,9 +1,4 @@
 
-
-
-    
-# 110. Kiinan suurlähetystön luumuviinat
-
 Kerronpa nyt esimerkin maamme anniskelulainsäädännön merkillisyyksistä. Oli kesä ja kärpäset ja Teekkarikylässä majaili 
 suuri kansainvälinen maailmankongressi. Dipolia ei vielä silloin ollut. Kiinan Kansantasavallan täkäläinen suurlähetystö oli 
 varannut yhdeksi iltapäiväksi koko Servin Mökin järjestääkseen siellä vastaanoton kongressin osanottajille. Ilman 

@@ -1,9 +1,4 @@
 
-
-
-    
-# 7. Eduskunnan valtiovarainvaliokunnan vierailu.
-
 Kerran päätettiin kutsua Eduskunnan valtiovarainvaliokunta toteamaan Teekkarikylän tilanne ja tarkoituksena oli 
 luonnollisesti voivotella heille TKY:n köyhyyttä ja saada helpotusta rakennusajasta aiheutuneeseen velkatilanteeseen. Kun 
 tiesimme, että näin korkeat herrat kaikkialla hoidetaan "kuin piispat pappilassa" ajattelimme me, että kun emme kuitenkaan 

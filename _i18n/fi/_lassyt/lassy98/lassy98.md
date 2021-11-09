@@ -1,8 +1,3 @@
-
-
-
-    
-# 98. Kappelin viherkasvijupakka
 Ja viimeisenä kappeliin liittyvänä muistona kerrottakoon erään insinöörin rouvan tekemä
 viherkasvilahjoitus: Lahjoituksensa hän teki Ristin Killalle, jonka jäsenet sitten suurella
 innolla sijoittivat kasvit kappeliin. Joukossa oli tavallisia purkkikasveja ja varsin useita suuria

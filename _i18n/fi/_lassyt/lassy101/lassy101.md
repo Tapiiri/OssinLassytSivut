@@ -1,8 +1,3 @@
-
-
-
-    
-# 101. Antero Salmenkiveltä kädet ylös
 Ei liene ylen jokapäiväista sekään, että kun alainen osoittaa esimiestään pistoolilla, niin
 esimies myöhemmässä tilaisuudessa vuodattaa kiitoksen hyminää moisen käytöksen
 johdosta. Näin kuitenkin kävi kerran Teekkarikylässä. Elettiin aikaa "ennen Dipolia" ja

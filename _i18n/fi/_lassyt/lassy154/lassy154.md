@@ -1,9 +1,4 @@
 
-
-
-    
-# 154. DIPOLIN puunkaatotalkoot ja Maijan sahti + poliisit 
-
 Ensimmäisen DlPOLIA suunnitelleen toimikunnan asettamisesta oli kulunut 3 vuotta ja 8 kuukautta (13.5.1963), oltiin 
 vihdoin niin pitkällä, että voitiin toteuttaa tontilla kasvavien puiden kaato. Koko poliisiopiston oppilaskunta saapui 
 talkoisiin ja luonnollisesti oli teekkareita satamäärin. Seitsemän moottorisahaa oli valmiina yhtä monen 
@@ -20,6 +15,4 @@ aikana. Tämän todettuaan komensi poliisioppilaitten päällikkö, kaikkien ota
 kotiutumaan hanhen marssissa ja varmuuden vuoksi vielä tien vieressä olevaa kuivaa ojaa pitkin.  Syy juhlien 
 päättymiseen edellä selostetulla tavalla oli, kuten usein voidaan todeta - inhimillinen erehdys. Kaikkien rakastama Servin 
 Maija oli talkoosahtia "viertäessään" pannut sellaiset määrät maltaita, sokeria ja hiivaa saaveihin, että tulos oli hänen 
-suullisen ilmoituksensa mukaan juhlien arvoa vastaava. Ja olihan se. 
-
-
+suullisen ilmoituksensa mukaan juhlien arvoa vastaava. Ja olihan se.

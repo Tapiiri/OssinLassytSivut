@@ -1,9 +1,4 @@
 
-
-
-    
-# 71. Bolterabend-teekkari jäi yksin junaan nakuna
-
 Tämän tosijutun jatkeeksi sopinee toinen legendaarinen teekkarijäynä myös menneiltä ajoilta, jonka 
 jutun totuudenmukaisuutta en kuitenkaan pysty todistamaan. Samalla se olkoon esimerkki jäynästä, 
 joka joidenkin mielestä lienee jo liian kovaksi keitetty. Tarinan mukaan vietettiin Polilla silloin joskus 
@@ -14,4 +9,3 @@ riisuttiin ilkosilleen ja pantiin vuoteeseen. Ainoa, mitä lisäksi jäi hyttiin
 makuupaikkaliput. Vaatteet katosivat seurueen mukana Helsingin asemalla ennen junan lähtöä. 
 Seuraavan päivän aamupuolella kohmeloinen sulhasemme ravisteltiin kovakouraisesti hereille - junan 
 lähestyessä Oulun asemaa.
-

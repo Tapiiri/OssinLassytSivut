@@ -1,9 +1,4 @@
 
-
-
-    
-# 72. Teekkarit alkavat osallistua kunnalliselämään
-
 Kunnalliselämään Teekkarikyläläiset sotkeutuivat joskus 50-luvun puolivälissä oikeastaan kokonaan 
 olosuhteiden pakosta. Silloin eivät ylioppilaat vielä lainkaan politikoineet, vaan varsinkin teekkarit ja 
 nimenomaan kyläläiset elelivät Ota-onnelassaan rajun nurkkapatriotismin vallassa. Oltiin ylpeitä 
@@ -26,4 +21,3 @@ varsinainen politiikka tunkeutui kylään, ja jokainen lienee sen jälkeen ään
 intohimojensa mukaan. Nuo edellä mainitut omat miehemme taisivat jäädä Espoon valtuustohistoriaan 
 ainoiksi, jotka jo ennen vaaleja olivat "tulleet valituiksi". Otaniemessä puhallettiin silloin yhteen 
 hiileen.
-

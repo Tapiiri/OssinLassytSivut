@@ -1,9 +1,4 @@
 
-
-
-    
-# 159. Phases Of VAPPU ROWDINESS-LITTUS
-
 The fate of all littus is not even known. However, I recall that a littu fell to the ground already before Otakaari - if not to it. However, the recond seems to be taken place in 1977.  In that year, a littu traveled near the eastern border near Imatra. Here are some well-known sites of littu discoveries (no reports have been received from the behind of eastern border and the Gulf of Finland):
 
 - 1975 Rääkkylä, Ihalansalmi

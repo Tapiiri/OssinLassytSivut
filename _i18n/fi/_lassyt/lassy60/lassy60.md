@@ -1,9 +1,4 @@
 
-
-
-    
-# 60. Juna-tempaus 7:ään kaupunkiin.
-
 Eräs teekkareiden omalaatuinen Tempaus jossa olin mukana, käsitti kiertoajelun ikiomalla junalla 
 peräti seitsemässä kaupungissa. Kohteet olivat Turku, Tampere, Pori, Jyväskylä, Lahti, Kotka ja 
 Helsinki. Junassa oli yksi makuuvaunu meille "taiteilijoille", avovaunu edustusauto Marmonille ja 

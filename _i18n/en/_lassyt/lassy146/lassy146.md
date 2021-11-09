@@ -1,9 +1,4 @@
 
-
-
-    
-# 146. IMM-Machine. International Money-Meter
-
 Compared to the Cone statue, which I described earlier, INTERNATIONAL MONEY-METER was incomparably much more trustworthy, installed to the Teekkari Hall\* of Dipoli.
 
 Teuvo Turunen made a mercury thermometer-like contraption with temperature lines and numbers from battenboard about 1.5 m high and 0.5 m wide. Instead of a glass tube and mercury, a clear 2" thick straight transparent acrylic pipe was installed in the middle. The bottom of the pipe was tightly sealed. Hurrah. The gadget was ready. It was fixed firmly against the wall. At the top end - at the open pipe were the following six foreign words: "INTERNATIONAL MONEY-METER Put the coins here."

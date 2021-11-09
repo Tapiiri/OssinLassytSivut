@@ -1,9 +1,4 @@
 
-
-
-    
-# 13. Linjurimme Sulo Riento Liukas
-
 Ensimmäinen linja-auto, joka hoiti liikennettä Hietalahden torilta Otaniemeen oli nimeltään Sulo Riento Liukas. Sen 
 molemmille sivuille oli maalattu suuret, koko auton mittaiset teekkarihahmot, jotka kynsin ja hampain pitivät kiinni 
 auton etuovista ja siten muka pysyivät matkassa. Ja kyllä asia käytännössäkin oli vähän samanlainen. Kun Sulo Riento 

@@ -1,9 +1,4 @@
 
-
-
-    
-# 26. Paloauto SUIHKU-SIWIÄ saa uudet renkaat
-
 Tässä yhteydessä on kerrottava erään toisenkin auton ristiäisistä. Tuo Serlachius-yhtymän Retuperän soittokunnan käyttöön 
 lahjoittama paloauto FORD, malli T-1928 puksutteli anonyymina. Kun Oy Ford Ab:n myyntipäällikkö, maj. Rahunen 
 kerran tuli kysyneeksi, miten paloautomme jaksoi, sanoin muuten kaiken olevan kunnossa, mutta renkaat veisaavat 

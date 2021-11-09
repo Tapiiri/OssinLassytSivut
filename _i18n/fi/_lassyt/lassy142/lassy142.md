@@ -1,9 +1,4 @@
 
-
-
-    
-# 142. Littu valmiina Teekkarikylän 50 -vuotisjuhlaan v. 2002
-
 Kuten lavialta tunnettu on, aloin minä Otaniemessä ollessani harrastella kemiaa valmistamalla joka vuosi 30 l:n demisaanin 
 täyteen LITTUA (vrt. pyöreä pullo = pytty, litteä pullo = littu). Noita littupulloja on sitten Vapusta 1975 lähtien lähetetty 
 Vappuriehan julistuksen yhteydessä helium-pallojen voimalla muun muassa myös avaruuteen. Näistä Vappulituista on 
@@ -42,4 +37,3 @@ seuraavan säädekirjan määräyksiä:
     Otaniemessä 11.02.1983
     Ossi Törrönen
     teekkari h.c.
-			

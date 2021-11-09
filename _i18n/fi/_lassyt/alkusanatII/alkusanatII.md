@@ -1,9 +1,4 @@
 
-
-
-    
-# Toisen lässypainoksen alkulause
-
 Kun vuonna 1982sain prujatuksi kasaan tämän kirjan ensimmäisen painoksen, luulin todella 
 pumpanneeni itseni tyhjäksi Otaniemen muistoista. Mutta P:n marjat. Ei sinne päinkään. Toisaalta 
 pulpahtaa yhä pinnalle muistojeni suosta sellaisia jäyniä ja tapahtumia Teekkarikylästä, että katson 
@@ -19,7 +14,3 @@ vaatimaton osuuteni on vain yritys jotenkin rekisteröidä, inventoida ja dokume
 
     08.03.1987
     Ossi.
-
-
-
-

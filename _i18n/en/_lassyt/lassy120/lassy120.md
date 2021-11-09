@@ -1,9 +1,4 @@
 
-
-
-    
-# 120. We Send A Gift Package To The Police College
-
 Deeply grateful for the friendly co-operation, the Castle Warden Host of the village decided once to send a gift package to the Police College student body. The inventor and executive teekkari of this jäynä was Seppälä's Masi. The contents of the package were rough but all the more modest. There was an old alarm clock, one rat trap, one electric battery, a little electric cord, and an electrically ignited smoke bomb. The box itself was made of cardboard; on top of it was brown kraft paper. On the outside of the package, as always, a string lattice to keep everything together. For some whim of fate, these gifts were intertwined in such a way that when the string lattice was cut from any point, it gave in enough, that the secret rope which was attached through the shell of the package and further to the counter wall and from there to the rat trap let go of the trap. This, in turn, trip shuts off the circuit that goes from the battery to the electric blasting cap and so on. The operation was timed exactly so, that when Masi and the other hosts were in the forest opposite to the College's main door at its secret observatory, one fuksi brought and left the gift package at the foot of a memorial stone standing in front of a door. It was immediately called after that from the village to the College's duty officer. The officer was notified of the package.
 
 After hearing of the matter by telephone (January 30, 1977, at 13.10), the current Master of Science in Engineering Matti Seppälä told the following:

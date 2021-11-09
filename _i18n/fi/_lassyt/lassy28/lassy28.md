@@ -1,9 +1,4 @@
 
-
-
-    
-# 28. Lehmän hitsaaminen valtioneuvoston porttiin
-
 Kerronpa nyt eräästä teekkarijäynästä, jota ei kylläkään saatu toteutetuksi, mutta jonka toteuttamisen estäminen sai hyvät 
 ystävämme, Helsingin poliisipäälliköt, jonkun aikaa tuskailemaan. Oli aika, jolloin puhuttiin usein hallituksen ja 
 kansanedustajien tekemistä "lehmänkaupoista". Teekkarit olivat tulleet siihen tulokseen, että silloiselle pääministerille piti 

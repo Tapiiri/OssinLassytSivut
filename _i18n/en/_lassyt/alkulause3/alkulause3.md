@@ -1,9 +1,4 @@
 
-
-
-    
-# Third rambling edition's foreword 
-
 Errare humanum est. Sometimes even twice.
 As in my case.
 When in 1982, I had made the first and 1987 my second lässycollection, I thought in both times, that "this is all folks."

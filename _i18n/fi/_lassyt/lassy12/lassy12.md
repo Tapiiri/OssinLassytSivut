@@ -1,9 +1,4 @@
 
-
-
-    
-# 12. Python-käärme
-
 Huomattavaa julkisuutta sai Otaniemessä aikoinaan vielä eräs eläin.  Puolimetrinen pythonkäärme. Teekkari Lompolo, 
 kirjailijanimeltään Origo asui ns. Retuperän alueen eräässä kerrostalossa. Ties mistä oli Origo hankkinut tuon 
 lemmikkieläimensä, joka kuljeskeli vapaana hänen arava-asunnossaan. Aluevalvoja Kortelaisen rouva lupasi Origon 

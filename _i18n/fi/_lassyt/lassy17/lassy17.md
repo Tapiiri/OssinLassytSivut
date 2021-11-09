@@ -1,9 +1,4 @@
 
-
-
-    
-# 17. Kairaaja sammuu rantasaunaamme
-
 Toinen ulkopuolisen aiheuttama sotku oli sellainen, että eräänä yönä tuntematon mieshenkilö oli ajautunut rakennukseen 
 TKY 5 ja ryhtynyt herättelemään asukkaita keskellä yötä soittelemalla ovikelloja. Kun asukkaat ymmärrettävistä syistä 
 torjuivat aina sisäänpyrkijän, raivostui hänkin ja särki ulos mennessään ala-aulasta useita ikkunaruutuja kadoten talviseen 

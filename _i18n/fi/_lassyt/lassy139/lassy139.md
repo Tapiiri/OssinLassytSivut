@@ -1,9 +1,4 @@
 
-
-
-    
-# 139. Täytän 60 v. 2.4.1975. Irma junailee hipat
-
 Makuuhuoneeni seinällä roikkuu raameissa aikataulu pvm:ltä 1.4.1975. Ja sen syntyminen on kokonaan teekkari h.c. Irma 
 Henrikssonin syytä. Tuona iltana viisi ja puoli vuotta Otaniemestä lähtöni jälkeen oli Irma provosoinut syntymäpäiväni 
 aatoksi suunnilleen seuraavaa: 20.00 tunkeutui Tapiolan asuntooni kolme poliisia kera Kauko Katilan, rynttyyt niskaan ja 

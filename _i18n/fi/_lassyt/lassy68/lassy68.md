@@ -1,9 +1,4 @@
 
-
-
-    
-# 68. Täytän 50 vuotta
-
 Se, mitä nyt yritän kertoa, on tähänastisen elämäni ehdoton kohokohta. Ja taitaapa siksi jäädäkin 
 riippumatta jäljellä olevan vaellukseni pituudesta. Jos nimittäin mittapuuna käytetään todellista 
 teekkarihenkeä. Ja tämä kohokohta oli 2.4.1965.  Päivä, jona täytin puoli vuosisataa. Päivä oli heti 
@@ -86,4 +81,3 @@ sanan täydessä merkityksessä kasaan vuoteelleni sekä fyysisesti että psyykk
 mutta ah niin onnellisena. Olin saanut kokea sellaisia riemunhetkiä, joita vain oikea teekkarihenki voi 
 aikaansaada. Jojot ja tilaisuudesta otettu kaitafilmi ovat kunniapaikalla kotini jäynäarkistossa samoin 
 kuin kyläläisten projektorilahjaan liittyvä lahjakirja, jossa 722 teekkarin nimikirjoitukset.
-

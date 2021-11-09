@@ -1,9 +1,4 @@
 
-
-
-    
-# 140. Kansaneläke alkaa juosta 2.4.-80. Irmalla taas sormet pelissä
-
 Ja ainakin kerran vielä järjesti Irma minulle, ja nyt se tapahtui 2.4.-80, eli samana päivänä, jona tulin 
 kansaneläkkeen perusosaan oikeutetuksi. Asuntoni ovikello soi, ja kun avasin sen, oli sen takana uusi 
 ovi. Tai oikeammin se oli uusi vanha ovi. Irman johdatuksella kantoivat kylähallituksen jäsenet minulle 

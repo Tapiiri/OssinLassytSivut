@@ -1,9 +1,4 @@
 
-
-
-    
-# 58. "Jämerän silmä" -patsas ilmestyy Otaniemeen
-
 Sarjassa jäynähenkisiä salaseuroja, on ehdottomasti mainittava järjestö Luolamiehet. Luolamiehet 
 syntyivät eräänlaiseksi rinnakkaisseuraksi vanhan Polin Similille (Sitsimiesliitto). Nimensä järjestö sai 
 arkkitehti Reima Pietilän voittaneelle Dipoli-ehdotukselleen antamasta peitenimestä "Luolamiesten 

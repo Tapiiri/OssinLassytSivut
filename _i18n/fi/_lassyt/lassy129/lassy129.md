@@ -1,9 +1,4 @@
 
-
-
-    
-# 129. Eversti Lyytisen valtakausi Teekkarikylässä
-
 Muistuupa nyt mieleeni aika, jolloin preussilainen kuri oli kuukauden päivät vallalla Teekkarikylässä. Oli kesäkuu -52 ja 
 olympialaiset tekivät tuloaan. Istuimme silloisen päälinnanisännän, teekkari Olli Mykkäsen kanssa toimistossamme TKY 
 III:n ala-aulassa, kun ovi aukesi ja sisään astui vanhahko, täysin kaljupäinen mutta muuten ryhdikäs ja ripeäliikkeinen herra, 
@@ -43,4 +38,3 @@ samanaikaisesti alkoi muuallekin ilmaantua kokoustiloja ja kongressikeskuksia, j
 ostajien markkinat.
 
 	I
-

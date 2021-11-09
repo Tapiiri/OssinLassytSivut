@@ -1,9 +1,4 @@
 
-
-
-    
-# 18. Paloautomme Suihku-Siwiän koeruiskutus
-
 Nyt muutamia totuuksia meidän ikiomasta paloautostamme. Tai oikeammin Retuperän paloautosta, sillä heille sen aikoinaan 
 lahjoitti Serlachius Oy. Se oli kunnianarvoisa Ford, mallia T-1928. Käsikaasu, jalkavaihteet ja varustettuna myös 
 moottoripumpulla. Oli palvellut uskollisesti Mantan tehtailla aina luovutushetkeen saakka, joka oli joskus 1956. Kun TKY:n 

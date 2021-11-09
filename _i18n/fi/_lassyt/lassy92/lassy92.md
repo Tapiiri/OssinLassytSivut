@@ -1,9 +1,4 @@
 
-
-
-    
-# 92. UKK Dipolissa. Kävyn käynnistys
-
 Kun tasavaltamme päämies UKK ei ollut tilaisuudessa osallistumaan vihkiäisiin, kävi hän joitakin 
 päiviä aikaisemmin tutustumassa taloon, jonka kunniatalonmieheksi hän oli lupautunut. Samalla 
 hänelle luovutettiin sen siivouskomeron avain, jossa kunniatalonmiehen haalarit, rukkaset, luuta ja 
@@ -29,4 +24,3 @@ sijaan lankesivat TKY:n hyväksi. Mitä taas tulee käpypatsaan alla olevaan ves
 lanteista, niistä huolehtivat erinomaisella nokkeluudella paikkaseudun polvihousuiset pikkupojat. He 
 keksivät muun muassa sitoa ruokalusikan pitkän kepin päähän. Tuli jätski- ja karkkirahaa niin kuin 
 tyhjää vaan.
-

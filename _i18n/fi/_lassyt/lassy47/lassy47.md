@@ -1,9 +1,4 @@
 
-
-
-    
-# 47. Keskusradio talkoilla kuntoon
-
 Eräs onnelliseen loppuun saatettu talkootouhu oli myös Teekkarikylän keskusradion käyttöön 
 saattaminen. Rahan ja ajan puutteessa oli tämä systeemi jäänyt kokonaan kesken. ,Ainoastaan 
 putkitus oli tehty ja niihin vedetty lyijypintaiset johdot. Seinärasioiden kannetkin puuttuivat. 

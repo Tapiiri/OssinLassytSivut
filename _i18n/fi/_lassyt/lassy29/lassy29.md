@@ -1,9 +1,4 @@
 
-
-
-    
-# 29. Kylän vuohet Maija ja Teemu
-
 Se oli kai keväällä 1955, kun teekkarit taas häipyivät harjoittelemaan mikä minnekin, raahasi linnanisäntä Osmo Norvasto 
 jostakin Tampereen suunnalta Servin Maijalle lohdutukseksi ihka elävän vuohen. Vuohen nimeksi tuli välittömästi Maija 
 Siwiä. Kun se kuitenkin näytti alakuloiselta ja yksinäiseltä, hankittiin sille oitis Tapanilasta päin aviopuolisoksi nuori 

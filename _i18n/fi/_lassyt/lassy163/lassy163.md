@@ -1,8 +1,3 @@
-
-
-
-    
-# 163. Olen ainoa lentäjä maailmassa, joka on sen tehnyt 
 Yllämainittuun väittämään huipentunut lentäjän urani alkoi kesällä 1937, kun jouduin Jämijärven Purjelentokouluun 
 kanslistiksi ja lentopäiväkirjanpitäjäksi. Koulun rehtori, lentokapteeni Toivo B. Nissinen kiinnitti tällöin huomiota 
 aerodynaamiseen pääni muotoon ja siivekkäitä muistuttaviin ulkokorviini ja suorastaan pakotti minut osallistumaan 
@@ -122,6 +117,4 @@ kirjoitin PIK:lle kiitoskirjeen. Päättyköön tämä lässyni sen kirjeen jäl
     Jämin purjelentokoulun alkuajoista. 
     
     Kiitokset vielä kerran tämän päiväsestä tosi-jäynästänne ja kaikkea hyvää pikin toiminnalle. 
-    OTA-OSSI 
-
-
+    OTA-OSSI

@@ -1,9 +1,4 @@
 
-
-
-    
-# 79. Kilpajuoksu öisellä jäällä
-
 Olen jo aikaisemmin tarinoinut Teekkarikylän kuuluisasta rantasaunasta ja mm siitä, kuinka lähes 
 jokainen teekkarisauna muodostui löylykilpailuksi. Kerran kuitenkin mentiin toiseen äärimmäisyyteen 
 ja syntyi kilpailu siitä, kuka eräänä helmikuisena purevana pakkasiltana kävelisi saunomisen lomassa 

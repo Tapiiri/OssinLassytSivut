@@ -1,9 +1,4 @@
 
-
-
-    
-# 27. ESCAPADES. J.L. Runeberg And The Vicar Of Kihniö
-
 The word tempaus\* is definitely invented by teekkaris. However, it is today used in all kinds of insignificant events as an advertising word. Yes, advertising always played a vital role in those legendary escapades. With advertisements, money was raised. The most prominent and most visible was the escapade procession around Helsinki. At best, there were several dozen advertisement cars were. Among these paid advertisement cars, some teekkaris' own jäynä cars were put with unorthodox thoughts. Here are a couple of examples.
 
 In the middle of a truck stands a statue of the national poet J.L. Runeberg, made of cardboard. The statue's top is colored white by pigeons and seagulls - just like in Esplanade in Helsinki. On each side of the truck are the thoughts of that poet: "Mi onkaan tarkoitus tään elon raskaan .-Mä kohta hukkua on pulun...".\*\* At this point, the text maker had run out of paint.

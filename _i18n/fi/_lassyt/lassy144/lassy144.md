@@ -1,8 +1,3 @@
-
-
-
-    
-# 144. Käpy-patsaan alkuperäinen toimintaidea
 	
 Saman aikaisesti DIPOLIN rakentamisen kanssa istui silloisen teekkari Reijo Perkon johtama 
 idearyhmä tiiviisti suunnitellen jonkunlaista koristepatsasta ns. "TEEKKARITORILLE", joksi alettiin 
@@ -28,5 +23,3 @@ jököttää liikkumattomana. Minun aikana siinä oli mukana kolikkoautomaatti, 
 pani Kävyn käymään. Tulot lankesivat muistaakseni jonkun stipendirahaston hyväksi. Pankaa 
 hiivatissa Käpy jälleen kuntoon ja korottakaa roimasti kolikkomäärää. Ainakin kesäaikana turistit ja 
 kongressivieraat sulloisivat siihen rahnaa mielellään.
-
-

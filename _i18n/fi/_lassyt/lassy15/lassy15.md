@@ -1,9 +1,4 @@
 
-
-
-    
-# 15. Järjestys kylässä
-
 Lukuisat tuttavani ja Teekkarikylässä käyneet vanhempien ikäluokkien edustajat esittivät minulle saman kysymyksensä, 
 että "kuinka tuollaisessa lähes tuhat asukasta käsittävässä nuorten opiskelijoiden kylässä saadaan ylipäänsä minkäänlaista 
 järjestystä aikaan. Ja kun asukkaina kaiken lisäksi on tempauksistaan ja juhlimisistaan lähes legendaariset teekkarit", 

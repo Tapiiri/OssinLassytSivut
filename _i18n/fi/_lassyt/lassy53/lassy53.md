@@ -1,9 +1,4 @@
 
-
-
-    
-# 53. Servin Mökin varkaiden huono onni
-
 Ravintola Servin Mökki oli aikoinaan luultavasti maamme parhaiten suojattuja paikkoja varkaita 
 vastaan. Kun se siellä seisoi ypö yksin metsän siimeksessä yön hiljaiset tunnit, niin on selvä, että se 
 kiinnitti "alansa ammattimiesten" huomiota. Ryhdyimme vastatoimiin. Asensimme mökkiin "Super 

@@ -1,9 +1,4 @@
 
-
-
-    
-# 122. Kännikala poliisineuvos Elorannalle
-
 Kun poliisineuvos Eloranta aikoinaan täytti 50 vuotta, saimme tästä tiedon vasta edellisenä päivänä 
 iltapuolella, joten minkään ostettavan lahjan hankintaan ei enää ollut mahdollisuuksia. Isännistö pohti 
 otsanahkat rypyssä tilannetta. Eräs isännistä oli käynyt kalassa ja tuli maininneeksi, että hän sai 
@@ -24,4 +19,3 @@ nopeuttanut myös lahjasimppu, jonka sisäkalut siellä lakkapanssarin sisällä
 jälleen "elää", syntyi painetta, joka halkaisi kuoren ja varsin arkipäiväinen lemu täytti herra 
 poliisineuvoksen virka-asunnon. Saipa simppu rouva Elorannan toimesta varsin pikaisen häädön 
 ulkoilmaan.
-

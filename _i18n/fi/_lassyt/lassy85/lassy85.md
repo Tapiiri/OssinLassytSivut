@@ -1,9 +1,4 @@
 
-
-
-    
-# 85. Kaksi rauhankongressia samaan aikaan
-
 Oli kaksi yli tuhannen hengen kongressia niin tiukasti peräkkäin, että ensimmäisen maallista 
 maailmanrauhaa ajavan päätyttyä piti toisen syvästi uskonnollisen tulla tilalle heti seuraavana päivänä. 
 Pari päivää ennen ensimmäisen kanssa sovittua päättymispäivää, tulivat sen edustajat luokseni 

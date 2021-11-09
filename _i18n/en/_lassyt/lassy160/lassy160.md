@@ -1,9 +1,4 @@
 
-
-
-    
-# 160. Extracts From The Ota-Guinness List
-
 Scattered information from the Teekkari Village's record book OTA-GUINNESS. Bookkeeper teekkari h.c. OSSI 1952-1969.
 
 The Biggest

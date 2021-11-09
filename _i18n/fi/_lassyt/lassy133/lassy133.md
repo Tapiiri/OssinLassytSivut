@@ -1,9 +1,4 @@
 
-
-
-    
-# 133. Tippavaaran isäntä vierailee kylässä
-
 Syyslukukauden lähestyessä loppuaan joulukuussa, ilmoittivat linnanisännät armossaan otakansalle yhteisen 
 Pikkujoulupäivän. Näin saatiin tähän perin perinteelliseen juhlintaan jostakin syystä oleellisesti kuulunut putkihuuto keskittyä 
 mahdollisimman lyhyelle aikavälille. Tämä siksi, että perimätiedon mukaan kylässä asui joitakin sellaisiakin teekkareita, 
@@ -19,4 +14,3 @@ luotsaamiseksi, kun herra isäntä hymyillen ja laulellen purjehti solusta toise
 kauas aamutunneille saakka, jonka jälkeen ajoin isännän autollani turvallisesti kotiin Käpylän suunnalle. Kun seuraavana 
 aamuna soitin ja kiitin, niin Oke Tuuri sanoi ei koskaan ennen näytelleensä 91 eri näyttämöllä samana yönä. Ja vielä niin
 menestyksekkäästi. Kyllähän teekkarit osaavat antaa arvoa tosi taiteelle.
-

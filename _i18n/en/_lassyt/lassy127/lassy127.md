@@ -1,9 +1,4 @@
 
-
-
-    
-# 127. The Top Police Leadership Drives With Porsches In The Atomic Cave
-
 Once, all the highest police chiefs of the Nordic countries gathered in Finland for consultations. The program included, of course, also a visit to the Otaniemi Police College. After that, a gala meal was ordered for the high-ranking company from Restaurant Luolamies. A few times before this ceremony, the police PR-man Auvo Nuotio called me and asked me to develop a teekkarijäynä. Well, what's in it. We had a couple of brainstorming sessions. Finally, the following was implemented: after these chiefs had become acquainted with the Police College, they were loaded on a large police bus. The bus drove to one entry point for the civil protection shelter located on VTT\* hill. It must be remembered that this massive shelter had only just been excavated, and thus only a complex cave-like maze was there in the depths of the earth.
 Nevertheless, we had gotten there the ground evenly enough with very difficult and special measures. The six new whitish white Porsches were driven to the VTT entry point by reversing. And now that this bus filled with gentlemen approached the entry point, rushed Kauko Katila, disguised as an alky, to the road and stopped the bus and demanded those in the car with various mossy phrases to get acquainted with his home cave.
 

@@ -1,9 +1,4 @@
 
-
-
-    
-# 52. Kappelin leivinuuni kovassa käytössä. Minua luultiin Jeesukseksi
-
 Ristin Killan tarmokkailla ponnistuksilla ja arkkitehti Heikki Sirènin nerokkaana luomuksena saatiin 
 sitten aikaan Otaniemen kuuluisa kappeli. Tapanani oli sanoa vieraille, että rahat tähän kappeliin saatiin 
 osittain kokoon pelaamalla. Ja tämä on totuus. Ristin Kilta avasi aikoinaan Helsingin ensimmäisen 

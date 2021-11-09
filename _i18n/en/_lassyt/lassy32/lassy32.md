@@ -1,9 +1,4 @@
 
-
-
-    
-# 32. Olympic Summer 1952
-
 When the semester at TKK ended at the end of May, and the new one did not start until September, most of Teekkari Village's teekkaris disappeared to their practice jobs. Only two hundred teekkaris with families and those working in the Helsinki area remained as summer residents of the village. They were transferred together to a castle. The rest became available for congress and hotel use. In the first summer of 1952, however, no one remained. TKY had rented the whole village, except the Rantasauna, to the Olympic Committee for athletes' accommodation. And then there were a lot of them. At best, more than 1,500 athletes from the Soviet Union and also from other Eastern European countries. The Chinese teams were also accommodated in Otaniemi. Work was done "keep your nose to the grindstone" and on average 24-hour shifts, that everything was ready for the Olympic guests.
 
 The Teekkari construction committee yet existed. It received as completely extra assignments to organize the following little tasks: for the Soviet Union's 660 people sports team was set up in four weeks their own perfect restaurant hall and electric kitchen in the Sports Hall's unfinished tennis hall. The kitchen floor was raised almost a meter higher than other parts to bring water, sewers, and electricity to the kitchen. The wires were squeezed in this thus born intermediate space. The kitchen floor was then neatly covered with laminate boards. The dining room floor and walls were covered with hardboard. The brand new electrically operated kitchen fittings and chairs and tables were distributed to the dining hall. At the last minute, that large restaurant was completed. Simultaneously, the construction site workers' bunkhouse was converted into a restaurant hall and kitchen for the Hungarian's sports team. It consisted of 330 athletes.

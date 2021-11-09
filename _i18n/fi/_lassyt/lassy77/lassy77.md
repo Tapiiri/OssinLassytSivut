@@ -1,9 +1,4 @@
 
-
-
-    
-# 77. Hamburgin tekn .messut ja RWBK
-
 Kun Hamburgissa aikoinaan järjestettiin ensimmäiset suomalaisten teknillisten tuotteiden messut, oli 
 järjestäjä pestannut Retuperän esiintymään avajaisissa. Seuraavan päivän saksalaisissa päivälehdissä oli 
 ylistäviä lausuntoja tuotteittemme korkeasta tasosta ja näyttelyn saamasta menestyksestä. Yhtä asiaa 

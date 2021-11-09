@@ -1,9 +1,4 @@
 
-
-
-    
-# 67. Tekninen koe sadevesitorvessa
-
 Teekkarit A ja B olivat laskeneet valmiiksi tuloksen seuraavaan kokeeseen: A meni TKY 5:n katolle ja 
 alkoi valuttaa bensaa erästä galv. pellistä tehtyä sadevesitorvea pitkin alas. Torven alapäässä odotti B. 
 Kun bensaa alkoi valua alapäästä maahan - hän raapaisi tulitikun. Kuului ujellus, suhaus, pamaus ja 
@@ -13,4 +8,3 @@ Vaelsivat A ja B kokeen jälkeen kylän toimistoon maksaen Irma Henrikssonille 3
 ynnä asennuskulut. Oli jälleen kerran tullut todistetuksi erään teorian paikkansapitävyys myös 
 käytännössä. Ja kaiken lisäksi varsin kohtuullisin kustannuksin. Mitäpä tuo nyt jonkun peltitorven hinta 
 merkitsee sen todistusarvon rinnalla, minkä koe osoitti.
-

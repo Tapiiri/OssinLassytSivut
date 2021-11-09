@@ -1,9 +1,4 @@
 
-
-
-    
-# 82. Lasimestarin silli tuli rantasaunaan
-
 Vietettiinpä kerran nykyisen DI Heikki Koivulan Bolter-abendia rantasaunalla. Löylyt olivat kovat, 
 samoin ruuat ja ennen kaikkea juomat. Hiljalleen siinä ylkä sitten sammahti samoin kuin toinen 
 toisensa jälkeen muutkin kutsuvieraat. Takan hiljaiseen rätinään sekoittui vain penkeillä lojuvien 

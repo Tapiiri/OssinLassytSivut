@@ -1,8 +1,3 @@
-
-
-
-    
-# 164. Kolmas kerta toden sanoo 
 Tuo vanha suomalainen sananlasku palautui totisesti mieleeni, kun 02.04.1990 satuin kolmannen kerran täyttämään 25 
 vuotta. Jo kaksi kertaa aikaisemmin olivat Otaniemen teekkarit osallistuneet synttäreihini niin riemukkailla jäynillä ja 
 joukkoesiintymisillä, että enpä tosiaankaan enää voinut kuvitella niille jatkoa. Ennen kuin nyt jatkatte tämän kohdan 
@@ -396,4 +391,4 @@ nyt vielä kaiken lisäksi rutivanha. Onhan kolme kertaa 25 sentään peräti 75
     
     Erkki "Eko" Ingman 
     Ystäväni vuosien takaa Tampereen Niinikasta pelasti tulevaisuuteni lahjoittamalla 562 sivua käsittävän "lentävien lauseiden sanakirjan".
-    Eipä minun todellakaan enää tarvitse kaivella harmaata aivosolukkoani lässyttäessäni. Siitä vaan 
+    Eipä minun todellakaan enää tarvitse kaivella harmaata aivosolukkoani lässyttäessäni. Siitä vaan

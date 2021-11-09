@@ -1,8 +1,3 @@
-
-
-
-    
-# 104. TES-TV aloittaa sähkölafkan vintillä
 Historiallinen totuus, joka jostakin kummasta syystä tahtoo painua maan rakoon on se, että teekkarit ne 
 aloittivat maassamme ensimmäisinä televisiolähetyksetkin. Juridisena taustapersoonana oli Tekniikan 
 Edistämissäätiö (siitä nimitys TES-TV). TKK antoi käyttöön pari huonetta sähkölafkan vintiltä 
@@ -40,5 +35,3 @@ suostuikin Topi ilomielin mainiten samalla, että eräs hänen tuttavansa kellok
 e n osaa myös jonkun verran laulaa ja soittaa. Pyysin ilman muuta tätäkin Tessiin ja siitä sitten 
 syntyikin eräs pysyväinen komeljanttiduo T o p i ja E e m e 1 i. Topia ei enään ole, mutta Eemeli jatkaa 
 edelleenkin koko Suomen tuntemana kansantaiteilijana.
-
-

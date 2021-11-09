@@ -1,8 +1,3 @@
-
-
-
-    
-# 156. BRAHNU ja CHEMALIS radioaktiivisen säteilyn tutkijoina 
 Jo 50-luvulla hölistiin radioaktiivisuuden vaaroista julkisesti. Pelättiin jo silloin maailmassa vasta suunnitteluvaiheessa 
 olevien atomivoimalaitosten ympäristölleen aiheuttamia vaaroja. Erään TEMPAUKSEN yhteydessä päättivät teekkarit 
 vapauttaa halukkaat turhista säteilyhuolista seuraavasti. Mannerheimintielle, täsmälleen nykyisen J. K. Paasikiven 
@@ -19,5 +14,4 @@ henkilöä - jotka poistuivat paikalta tyytyväisyydestä SÄTEILLEN. Valtaosa o
 
 Toiseen asiaan mennäkseni, kun tämä arkkitehdiksi opiskeleva mustapintainen ja kiharatukkainen Brahnu oli kesän 
 harjoittelemassa Kuopiossa ja syksyllä palasi Otaniemeen, oli hän oikein harjoitellut supi-savolaisen tulotervehdyksen: 
-"NO MITTEEPÄ KUULUU?" 
-
+"NO MITTEEPÄ KUULUU?"

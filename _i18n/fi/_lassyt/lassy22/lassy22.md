@@ -1,9 +1,4 @@
 
-
-
-    
-# 22. Jätepaperin keräys Unkarille
-
 Eräänä loisteliaimpana todistuksena siitä, että teekkareiden tempaukset lähes poikkeuksetta tapahtuivat suuren altruismin 
 vallassa, oli lumppu- ja paperikeräyksemme Unkarin kansan hyväksi 50-luvulla tapahtuneen kansannousun jälkeen. 
 Kansannousu tukahdutettiin "vieraan vallan puututtua asiaan" ja sen jälkeen koko maa oli sekasorron ja puutteen 

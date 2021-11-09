@@ -1,9 +1,4 @@
 
-
-
-    
-# 62. Paavo Nurmi-patsas Wasa -laivassa
-
 Similille (sitsimiesliitto) kuuluu kuolematon kunnia siitä, että pari vuosisataa merenpohjassa 
 Tukholman edustalla maanneen Wasa -laivan nostoon tuli hieman yllättävää lisäväriä. On jutun aluksi 
 kerrottava, että Otaniemen Urheiluhallin rahoittamiseksi myytiin aikoinaan pronssisia Paavo Nurmi 

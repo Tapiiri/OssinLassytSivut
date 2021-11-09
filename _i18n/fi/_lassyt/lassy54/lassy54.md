@@ -1,9 +1,4 @@
 
-
-
-    
-# 54. TKYH kokeilee Servin hälytyslaitteita
-
 Eräänä kesäisenä iltana istui TKY:n silloista johtoa Otaniemen rantasaunalla. Ylioppilaskunnan 
 puheenjohtajana toimi silloin DI Kalevi (Korkki) Korhonen, muista paikalla olleista muistan arkkit. 
 Esko Mäke1än ja DI Jukka Lehtosen. Tulin jossakin yhteydessä leuhkaisseeksi Servin Mökin 

@@ -1,9 +1,4 @@
 
-
-
-    
-# 14. Trojan autolla yleislakossa
-
 Yleislakon aikana, jolloin eivät luonnollisesti myöskään linja-autot kulkeneet, hoidettiin Otaniemen liikenne 
 pääasiallisesti kylän Trojan -merkkisellä pienellä pakettiautolla. Olimme kai saaneet lakkotoimikunnalta jonkinlaisen 
 liikenneluvan ja niinpä "Troikka" sitten ajelikin yötä päivää lähes keskeytyksettä kaupungin ja kylän väliä 

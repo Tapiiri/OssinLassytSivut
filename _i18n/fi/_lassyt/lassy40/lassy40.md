@@ -1,9 +1,4 @@
 
-
-
-    
-# 40. Huoneeseen muurattu väliseinä ja muita dekoratioita
-
 Kylän alkuvuosina koetin pitää suurta meteliä siitä, että asukkaat mielikuvitustaan käyttäen voisivat 
 halvoin kikoin ja raaka-ainein somistaa solujaan ja huoneitaan, jotka TKY oli varustanut vain 
 välttämättömin standardikaluin. Kun sitten erään kerran taas suoritin jotain rutiinitarkastusta ja avasin 

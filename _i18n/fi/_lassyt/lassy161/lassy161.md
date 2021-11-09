@@ -1,8 +1,3 @@
-
-
-
-    
-# 161. Tervehdys yleisurheilun MM-urheilijoille (englanniksi) 
 Kun tämä suomalaisten tekniikan ylioppilaiden rakennuttama ja omistama Otaniemen Ylioppilaskylä (Teekkarikylä) 
 keväällä 1952 vihittiin käyttöönsä Suomen Tasavallan Presidentin Juho Kusti Paasikiven toimesta, niin eipä kulunut 
 kahtakaan kuukautta, kun OLYMPIA HELSINKI 1952 urheilijat kansoittivat sen yli 1500 miehen (ja naisen) voimalla. 
@@ -26,5 +21,4 @@ kannustavan myös tänään täällä asuvia. Olkaa sydämellisesti tervetulleit
 
     14.7.-83
     Teekkarit 
-    Ossi Törrönen h.c. 
-
+    Ossi Törrönen h.c.

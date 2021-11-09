@@ -1,9 +1,4 @@
 
-
-
-    
-# 2. Koko yön kestänyt Vappuserenadi.
-
 Saavuin Teekkarikylään perheineni (I eukko + 4 lasta) kohtalokkaasti juuri Vappuaattona Vierumäen Urheiluopistolta, jota 
 olin palvellut yli kuusi vuotta suurimman osan ajasta legendaarisen everstiluutnantti K. E. Levälahden "preussilaisen" 
 komennon alaisena mottona: "Mens sana in corpore sano."

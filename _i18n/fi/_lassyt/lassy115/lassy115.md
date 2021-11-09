@@ -1,9 +1,4 @@
 
-
-
-    
-# 115. Poliisiopiston jäynäsielut. Katila, Aas, Muni
-
 Kun nyt ryhdyn lässyttelemään lisää Teekkarikylän ja Poliisiopiston välisestä "ikuisesta taistelusta", niin on aluksi syytä 
 mainita rintaman silta puolelta kolme herraa, jotka ratkaisevasti vaikuttivat siihen, että näiden kahden rajanaapurin välit 
 "kiristyivät äärimmilleen". He olivat poliisiopiston ensimmäinen johtaja, poliisineuvos Olavi Jotuni, nykyinen liikkuvan 

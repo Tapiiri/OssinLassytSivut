@@ -1,9 +1,4 @@
 
-
-
-    
-# 2. All-night Vappu Serenade
-
 I arrived in Teekkari Village with my family (one missus + four children) fatefully just on Vappu eve. We had come from Vierumäki Sports College, which I had served for more than six years. I served under the legendary Lieutenant Colonel K.E. Levälähti's "Prussian" command most of that time. His motto was "Mens sana in corpore sano."
 
 No wonder that the first night I spent with my family in Teekkari Village has been left in my mind ineradicably. Because it was really that vappu night with all the teekkariful special features. Not all special features may have followed that line of that Vierumäki motto.

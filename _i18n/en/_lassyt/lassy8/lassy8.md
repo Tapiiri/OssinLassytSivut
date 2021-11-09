@@ -1,9 +1,4 @@
 
-
-
-    
-# 8. Midsummer Celebrations
-
 The Midsummer celebrations formed their own part in the short but more colorful history of Otaniemi's Teekkari Village. In co-operation with our neighbor Otaniemi Sports Foundation, these public events were organized five times in a row. The first was in the summer of -53. Architect teekkari Osmo Solansuu made a colorful column poster for the celebrations with the text "Juhannus - OTA - Niemessä." We were well aware that no posters are allowed to be placed on the roadsides and especially not on electric poles without official permission. Nevertheless, due to oversight, we distributed thousands of them in both Espoo and Helsinki.
 
 The always vigilant then lensmann Kuno Ahlsted of the Espoo district immediately noticed our violation. He called me, requiring with the brimstone type of words to immediately remove those illegal posters from the roadsides of Espoo. I promised to send multiple patrols immediately for removal tasks. However, due to some human schedule error, the patrols only got off the ground after Midsummer. The Helsinki garrison was so sympathetic that it commanded the company's soldiers for two days to the camp in Otaniemi. One of the soldiers' tasks, among other things, was to build Europe's most enormous midsummer bonfire. And that's what it really became, a dizzyingly high bonfire, for which was collected all the combustible construction waste that was still in the Otaniemi area.

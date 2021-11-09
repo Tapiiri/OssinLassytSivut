@@ -1,9 +1,4 @@
 
-
-
-    
-# 83. Virkaatekevä puliukko lämpökanavissa
-
 Kun Otaniemen Hoitokunnan rakennuttamat viemärikanavat alkoivat täyttyä puliukoista, keksi 
 hoitokunnan isäntä DI Raimo Gummerus oivan idean. Hän valitsi joukosta jämerimmän näköisen 
 miekkosen ja antoi tälle epävirallisen luvan oleilla Otaniemessä ehdolla, että hän pitää muut loitolla. Ja 

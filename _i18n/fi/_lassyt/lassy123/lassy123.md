@@ -1,9 +1,4 @@
 
-
-
-    
-# 123. Poliisioppilaat lunastavat oluttrattamme KOP:sta
-
 Otaniemeen siirryttyään osallistuivat poliisioppilaat joka Vappu kylän perinteelliseen kaljaviestiin. 
 Erään viestin alkaessa kuulutettiin virallisesti, että hävinnyt joukkue on velvollinen luovuttamaan 
 voittajille korin kaljaa. No sen ottelun hävisivät poliisit, eikä heillä tietenkään ollut mukanaan mitään 
@@ -17,4 +12,3 @@ lankeamispäivänä, pari minuuttia ennen pankin sulkemista lunastivat poliisit 
 sinne 24 kauniisti värilliseen sellofaniin käärittyä olutpulloa sekä pankin kulut kaksi pulloa ilman 
 kääreitä. Niin välttyivät he samalla siltä häpeältä, että nimi olisi ilmestynyt virallisen lehden 
 protestilistalle - ilmeisesti uuteen osastoon "langenneita kaljatrattoja".
-

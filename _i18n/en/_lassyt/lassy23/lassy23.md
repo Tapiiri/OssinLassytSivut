@@ -1,9 +1,4 @@
 
-
-
-    
-# 23. Nurses' Gifts. Different Types Of Competition
-
 Those who visited Servin Mökki while it was still a restaurant probably remember those Nurse College students' gifts hanging in the ceiling. Among these gifts was also a 5-liter pharmacy bottle. This bottle hung there on the wall showing the "woman's inherent treachery." After that year's battles of the "nurse competition" had been fought, and the pain sisters had with some secret aids won, the traditional evening celebration was held in the cottage. The winners brought the bottle mentioned above with them. Their donation speech noted that the bottle contained high-quality "pharmacy cognac, " prescribed by doctors for certain heart diseases.
 
 When the nurse students' bus left, taking them all to Helsinki, almost every teekkari in the building noted around his heart phenomena, which required rapid medication. Well. The bottle was opened, and soon 5 liters disappeared (it was really colorwise and smellwise right stuff) in the throats of heart-sick teekkaris. But for the rest of the night, those heart-sick teekkaris ran at record speeds along runways. At one end of the runway was the bed, and at the other was the toilet bowl. The nurse students, in all their treachery, had salted that "Jallu" with some laxative. Its effect was indeed excellent. Recoilless like anti-tank weapons sat those teekkaris, who had participated in that event, on top of Arabia's faiences waiting for a better time.

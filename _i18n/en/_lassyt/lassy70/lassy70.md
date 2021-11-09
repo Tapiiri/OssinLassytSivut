@@ -1,9 +1,4 @@
 
-
-
-    
-# 70. Teekkaris Carry Their Own Gate
-
 Now I will copy here a legendary teekkari jäynä that happened long before the wars. It was convinced to me to be confirmed on the sauna benches of Teekkarri Village's Rantasauna by Otto Kosonen, the Deputy Chief of Police of Helsinki. He has been retired already for several years but was personally one of the "performers" of the actual play due to circumstances in his official duties as a young police constable.
 
 Four teekkaris walked happily singing along Albertinkatu, heading to - nowhere else but the beloved Poli. They followed for a moment with a man of technology's expertise the demolition of a wooden house. They noticed a wooden gate that had already been removed, which laid there among the rest junk. They got an idea and asked to buy that gate. The construction supervisor who was leading the works was happy to get rid of that junk so easily. The price was even lower than reasonable. Teekkaris paid and took the gate on their shoulders, and continued their interrupted trek. The gate was left while reinforcing themselves in Pokeriboksi while making an entirely official and the most detailed bill of sale. In the bill of sale, the demolition site supervisor "sold and handed over all ownership to the general partnership formed by teekkaris A, B, C, and D to the wooden gate. Its dimensions, shapes, raw materials, and other technical and even architectural details are described separately in the appendix of the bill of sale". The four buyers put their signatures to the document and then back to Albertinkatu to get the seller's and two witnesses' signatures.

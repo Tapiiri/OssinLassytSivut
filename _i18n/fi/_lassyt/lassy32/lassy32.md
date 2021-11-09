@@ -1,9 +1,4 @@
 
-
-
-    
-# 32. Olympiakesä 1952
-
 Kun lukukausi TKK:ssa päättyi toukokuun lopulla ja uusi alkoi vasta syyskuun puolella, häipyi 
 valtaosa Teekkarikylän teekkareista harjoittelemaan mikä minne, kuka kunne. Vain pari sataa 
 Helsingin alueella työssakäyvistä ja perheellisistä jäi kylään kesäasukkaiksi ja heidät siirrettiin yhteen 

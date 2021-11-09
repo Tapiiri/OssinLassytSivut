@@ -1,9 +1,4 @@
 
-
-
-    
-# 151. Teekkarit täyttivät asuntoni. My name is Michael Brown 
-
 Kun henkilökunnan uusi asuinrakennus (nyk. TKY I) aikoinaan valmistui ja siten myös minä siirryin TKY III C:n 
 solusta "oikeaan työsuhdeasuntoon", niin eipä kulunut pitkääkään aikaa, kun joukko kylän teekkareita päätti 
 altruististen tunteitten vallassa todeta onko uusi asuntoni riittävän tilava. Ja tilavuushan saadaan parhaiten selville 
@@ -17,8 +12,4 @@ lukumäärä, paljon yli sadan sen joka tapauksessa täytyi olla.
 
 Kun suma sitten purkautui kokeen päätyttyä ja teekkarit perheeni suureksi helpotukseksi liukenivat ovesta ulos, 
 nykäisi yksi ulkomainen TKK:n opiskelija minua hihasta ja sanoi: "My name is Michael, but may I ask, Why I am 
-here?" En todellakaan pystynyt huonolla englanninkielen taidollani antamaan hänelle järkevää selostusta. 
-
-
-
-
+here?" En todellakaan pystynyt huonolla englanninkielen taidollani antamaan hänelle järkevää selostusta.

@@ -1,9 +1,4 @@
 
-
-
-    
-# 121. Taistelu poliisien hyppylaudasta. Vaihdamme Elorannan autoon
-
 Kerran tunkeutui teekkarikylän erikoiskoulutettu iskuryhmä "vakain tuumin ja varastamisen 
 aikomuksella" poliisiopistoon ja sai kuin saikin evakuoiduksi voimistelusalista peräti suuren puisen 
 hyppylaudan. Tämä voitonmerkki naulattiin sitten TKY III:n julkisivuun kolmannen kerroksen 

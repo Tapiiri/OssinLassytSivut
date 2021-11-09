@@ -1,9 +1,4 @@
 
-
-
-    
-# 50. Arvilommin solu poltti pöytänsä tunnesyistä
-
 Toinen samantyylinen herrasmiesjäynä tapahtui kun tunnettu teekkari-aktivisti Markku Arvi1ommi 
 (saks. Arvid von Glommo) ja kaikki muutkin saman TKY 3 F sarven alasolun asukkaat muuttivat 
 samanaikaisesti pois kylästä. Lähtöä edeltäneen haikean illan tunnelmissa he yksissä tuumin 

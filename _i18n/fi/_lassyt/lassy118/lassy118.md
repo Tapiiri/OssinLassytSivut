@@ -1,9 +1,4 @@
 
-
-
-    
-# 118. Käsiraudoissa poliisien saunasitsiin. Nappi paltostani
-
 Nyt olivat sitten poliisienkin pinnat sen verran kiristyneet, että he ryhtyivät vastaiskuun. Erittäin ystävällisellä kirjelmällä he 
 kutsuivat meidät vieraakseen ja pyysivät kaikkia linnanisäntiä olemaan tietyllä hetkellä valmiina Teekkarikylän raitilla, josta 
 he meidät noutaisivat. Niin teimme ja seisoimme kaikki tuona H-hetkenä juhla-asuisina odottamassa. Saapuikin suuri musta 
@@ -39,4 +34,3 @@ kadonneen tilalle, kuten he ilmoittivat. Missä h-tissa he olivat pystyneet sen 
 eivät kylläkään kertoneet. Kiire siinä joka tapauksessa oli ollut, kun se musta maalikin vielä tarttui käteen 
 vastaanottoseremonioiden aikana. Tätä nappia en kuitenkaan neulonut popliiniini. Sen olen naulannut asuntoni seinään ja siinä 
 se pysyy. Pysyy yhtä varmasti kuin siinä seinällä roikkuvat muutkin poliiseilta ja teekkareilta saamani arvolahjat.
-

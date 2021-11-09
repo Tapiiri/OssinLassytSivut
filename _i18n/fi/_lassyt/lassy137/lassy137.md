@@ -1,9 +1,4 @@
 
-
-
-    
-# 137. Kirkonkello akkunani ulkopuolella
-
 Nyt on sitten tullut hetki kertoa minun ja alapuolellani asuneitten teekkariveljien välisestä moniottelusta, jossa taas saatiin eräs 
 tylsä yo täyteen pikkupuuhailua. Se oli kai siinä kello kaksi yöllä, kun minä ja vaimoni heräsimme siihen, että oli tullut 
 maailmanloppu - ylösnousemuksen kellot kumahtelivat. Vaimoni syöksyi kaulaani pyydellen anteeksi aikaisempiaan ja 
@@ -29,5 +24,3 @@ kivuten yhä korkeammaksi ja korkeammaksi. Alle aikayksikön hiljeni myöskin ke
 aamulla. Aloitimme viralliset rauhanneuvottelut aamulla kello 8 - hyvin nukutun yön jälkeen. Rauhansopimusasiakirjaan tuli 
 vain yksi pykälä, jossa sopijapuolet lupasivat ei enää koskaan käyttävänsä moisia taisteluaseita. Samalla todettiin ottelun 
 päättyneen tasapeliin 1 vastaan. Tällaisina rauhallisina ne yöt usein kuluivat maaseudun rauhassa kaukana Espoossa.
-
-

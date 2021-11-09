@@ -1,9 +1,4 @@
 
-
-
-    
-# 147. The UFO Idea Of The Century Went Wrong. ÄPY ÄINÄ ETC.
-
 One spring, sometime in the village's early years, it was again AN ESCAPADE YEAR, and similists were working on the ÄPY magazine's publishing. At the same time, the whole world was full of those people who had seen UFOs. Especially quite often in daily newspapers, there were "eyewitness testimonies" of tourists that had come from outer space to stop by here on Earth. So we developed an unparalleled escapade jäynä that was meant to silence the whole world with its authenticity.
 
 Our UFO-JÄYNÄ was as follows: somewhere in inner Finland along the evening in the twilight, there is a traveling bus. The bus is passing by an unoccupied forest area and goes up the hill. Both the driver and passengers see a plate-shaped, silvery object flashing strange lights at the hill. Both the driver and passengers are horrified. The thing rises into the air and disappears into the "blue of heaven." When the driver stops the bus and everyone rushes out, the UFO can be seen only as a small flashing point at altitudes. BUT at the ground, stranger things are going on. The terrain has burned completely almost for an acre of area. Strangely sour greenish smoke rises among charred pieces of wood and red-glowing stones. The illusion would have been perfect. The information of the world sensation would have rushed quickly around.

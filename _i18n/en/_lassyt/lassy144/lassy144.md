@@ -1,9 +1,4 @@
 
-
-
-    
-# 144. The Original Operating Idea Of The Pinecone Statue
-
 Simultaneously with the construction of DIPOLI, there an idea group led by then teekkari Reijo Perko. The idea group intensively designed some kind of decorative statue to so-called "TEEKKARI SQUARE," which was the working title for the forecourt of Dipoli. GROUP-PERKO finally ended up to a pinecone-like mobile device, which original operating idea is now worth putting on paper - so fantastic it was.
 
 1. The special metal pushrods that open the "leaves" of the cone are heated with numerous small gas flames. Rods are made of material in which the thermal expansion is as large as possible.

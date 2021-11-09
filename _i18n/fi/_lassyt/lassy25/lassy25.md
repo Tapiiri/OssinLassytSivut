@@ -1,9 +1,4 @@
 
-
-
-    
-# 25. Kuorma-automme NALLE PUH kastetaan
-
 Kylän alkuvuosina lahjoitti Suomen Autoteollisuus käyttöömme ihka uuden Nalle-Sisu -kuorma-auton. Olimme lahjasta 
 luonnollisesti ylen kiitollisia, pyysimme kipusiskoja kummitädeiksi, ja TKY:n silloisen puheenjohtajan DI Kalevi (Korkki) 
 Korhosen toimiessa isäntänä, kastettiin auto juhlallisesti NALLE PUHiksi.

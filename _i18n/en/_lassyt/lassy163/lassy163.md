@@ -1,9 +1,4 @@
 
-
-
-    
-# 163. I Am The only Pilot In the World, Who Has Done It
-
 My pilot's career, which culminated in the above statement, began in the summer of 1937 when I ended up at Jämijärvi Gliding School as an office secretary and an accountant of the logbook. The school's rector, flight captain Toivo B. Nissinen then paid attention to my head's aerodynamic shape and wing-shaped ears. He even downright forced me to participate in the A-course of gliding. With the matter mentioned above of forms and controlling my steel nerves, I completed the course by flying a breathtaking 37-second long straight glide from the ridge's top-down to the field. Like a comet, I plunged in my pilot career upwards, and already at the end of the same summer, it was the turn of the B-certificate Nr 170/37. B-certificate required a grand five flight's performance, each of which lasted one minute. I made all the great performance flights on a german Grunau-9 aircraft.
 The said aircraft ahead of its time in terms of air conditioning. You see, in that aircraft, the fliers sat on top of some kind of pole. The lefts hang stylishly on both sides. The A-performance was started with a rubber rope from the top of the ridge. For the B-performance, the aircraft was toweled into the air. This was done with an impossibly long steel wire which was attached to a steel coil. The coil was attached to a convertible, which itself was lifted on top of a stand. The wire coiled up around the steel coil and dragged the aircraft into the air. Once the glider reached 100 meters in height, the teacher was in the tow truck gave a flag signal to the flier. After seeing the flag signal, the pilot bravely detached himself from the wire and glided to the ground.
 

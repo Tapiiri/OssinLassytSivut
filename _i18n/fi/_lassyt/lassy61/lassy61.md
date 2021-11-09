@@ -1,9 +1,4 @@
 
-
-
-    
-# 61. Tempaus Lappeenrannan oluttehtaalla
-
 Seuraavasta Tempauksesta muistuu mieleeni reissu Lappeenrantaan. Oli sovittu Lappeenrannan 
 oluttehtaan toimitusjohtajan kanssa tämän kaljatehtaan valtaamisoperaatiosta. Vain hän ja me olimme 
 asiasta tietoisia ja myöskin Lappeenrannan tykistö, jolta saimme tuliapua. Tehtaan henkilökunta oli siis 

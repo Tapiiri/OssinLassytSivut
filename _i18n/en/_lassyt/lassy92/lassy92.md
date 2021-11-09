@@ -1,9 +1,4 @@
 
-
-
-    
-# 92. President Urho Kaleva Kekkonen In Dipoli. Starting Of The Pinecone
-
 When the president of our republic, Urho Kaleva Kekkonen, could not participate in the inauguration, he visited the place a few days earlier. He had promised to be the honorary janitor of Dipoli. At the same time, he was handed the key to the cleaner's cupboard, which has the honorary janitor's overalls, gloves, broom, and shovel. Those are always ready when needed. Also in that booth is the honorary boot of the honorary janitor; the shaft is about 1.5 meters high. The foot dimension is 0.5 meters.
 
 Our president also inaugurated the moving pinecone statue, which teekkari Perkko designed. The starting took place, according to the inauguration instructor, by radio control. Kekkonen was handed a weird-looking wireless device, and he was instructed to press the button in the middle. And he pressed it; lo and behold. At the same time, the pinecone began to open, and also, music started to play. It has been told that Kekkonen said, "These teekkaris have their very own devices" when he saw this. However, after ten years, it must be noted in the name of truth that the pinecone opened more with an optical than with a wireless impulse. A contactor equipped with a button was brought from the Electrical Department. A teekkari was carefully observing the president's actions from the Dipoli's basement window. When Kekkonen pressed the button, he switched the pinecone's power on from the distribution board.

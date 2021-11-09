@@ -1,9 +1,4 @@
 
-
-
-    
-# 145. NARI-SAUNA Was Created In 6 Hours
-
 It is known that there are saunas of many kinds in our sweet Finland, about two million of them. Let it be explained in this context only one somewhat special exemplary.
 
 Two decades ago, technology student Kalle-Heikki Narinen, drawing on architectural wisdom, entered my office without knocking. Kalle-Heikki stated that TY's\* summer trip to the Gulf of Finland with sand jaala\*\* is ahead again. He also told participants came up with an idea to design and construct such a sauna building that they would participate in that summer trip. The sauna would let provide hygienic refreshment to the heavy sailing. I asked Kalle-Heikki what time of the summer that trip begins, to which he replied laconically: "Tomorrow at 12.00". "Oh. Not until tomorrow", I answered with my matter-of-fact style. At the same time, I suggested and ordered the division labor that Kalle-Heikki would start to plan. I would carry out both construction and HVAC work accordingly. Despite the loose schedule, we implemented both the design and construction simultaneously as follows:

@@ -1,9 +1,4 @@
 
-
-
-    
-# 125. Esittelemme Dipoliamme poliisiopiston johdolle
-
 Kun Dipoli aikanaan valmistui ja alkoi toimia, oli luonnollinen velvollisuutemme kutsua myös poliisiopiston korkein johto ja 
 sen oppilaskunnan edustajat viralliselle tutustumiskäynnille. On selvää, että linnanisännistö useiden aivoriihien voimalla pyrki 
 luomaan tästä tapauksesta "vieraiden arvoa vastaavan tyylipuhtaan juhlatilaisuuden". Olenpa sitä mieltä, että tämä "show" oli 

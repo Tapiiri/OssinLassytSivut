@@ -1,9 +1,4 @@
 
-
-
-    
-# 41. Onni Vaara ja kanadalaisvaahtera
-
 Vanhan kunniakkaan Polin historiaan liittyy lähtemättömästi kaikkien 1930-60 opiskelleiden 
 teekkareiden hyvin muistama talonmies Onni Vaara. Kolme vuosikymmentä palveli hän siellä "Polin 
 tummien kattojen alla" polysteekkareita hellittämättömällä ahkeruudella, taidolla ja ennen kaikkea 

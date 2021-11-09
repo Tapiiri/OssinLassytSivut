@@ -1,8 +1,3 @@
-
-
-
-    
-# 157. 70-vuotispäiväni 
 Välttyäkseni siltä, että en otsikkopäivänä toteaisi tosiystävieni lukumäärän kovasti romahtaneen, panin päivälehden ao. 
 osastoon oikein pärstäkuvani maininnalla "merkkipäivänään matkoilla".  Olipa kuitenkin eräs ystäväporukka, joka ei 
 minua ollut unohtanut ja se porukka oli OTANIEMEN TEEKKARIT. Umpikieroilla menetelmillä he onkivat 
@@ -80,5 +75,4 @@ kiitoksen.
     pitkin, jarruttaisi Helsingin suunnasta noin kilometri ennen Lahnajärven vesipuistoa, toteaisi tienviitan "Elias 
     Lönnrotin LAMMINTALO + SIITOINJARVI", ajaisi 600 metriä ja saapuisi mökilleni. Pannaan lahjakiuas 
     kuumenemaan, otetaan pienet litut ja hypätään järveen.
-    OSSI 
-
+    OSSI

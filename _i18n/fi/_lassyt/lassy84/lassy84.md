@@ -1,9 +1,4 @@
 
-
-
-    
-# 84. Juridinen persoona = 3 1/2 milj. markkaa
-
 Monenmoista sattui kesäisin mitä erilaisimpien kokousten ja kongressien aikoina Otaniemessä. Mitä 
 suurempi oli kongressi, sitä aikaisemmin alkoivat neuvottelut ja esivalmistelut. Usein monia vuosia 
 ennen tilaisuutta. Kerran otti minuun puhelinyhteyden eräs tsekkiläinen saksaa puhuva proffa, pyytäen 

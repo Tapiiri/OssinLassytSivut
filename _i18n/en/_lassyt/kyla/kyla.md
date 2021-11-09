@@ -1,7 +1,4 @@
 
-
-# Briefly About Teekkari Village
-
 The thought of transferring Helsinki University of Technology and the student apartment area, which would be built close to it, woke immediately after the war years. Then, on the other hand, Campus-ideas from the USA came. On the other hand, the number of students grew significantly. Also, the war had damaged the University of the Technology building. The Grand Old Man of town planning and urban planning, Otto-Iivari Meruman, then presented based on some preliminary surveys the transferring of the whole University from Helsinki's central city area. The apartment situation of teekkaris had become worse annually due to the growing amount of students. The student union had only 80 apartment places in Teekkarila, located next to Poli, completed in 1930. It was also hard to get an apartment from elsewhere. In 1938, the State created the Student sports committee, which presented the construction of a student village as an ideal solution.
 
 The thought of Teekkari Village was born at the end of 1945 at a meeting, which was held at professor Jussi Lappi-Seppälä's home. There were developing the idea MSc Techns Ilmari Harki and Koskiala and teekkari Paavo Koponen. Then, with the rest board of the Student Union, Koponen mobilized the whole teekkari nation into the project. So the year 1946's teekkari campaign raised money for war invalids and initial capital for Teekkari Village, too.

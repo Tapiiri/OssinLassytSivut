@@ -1,9 +1,4 @@
 
-
-
-    
-# 106. Teekkari ammuttiin kylän savupiipusta avaruuteen
-
 Muistuupa nyt mieleeni erään Vappuaaton jäynä, jota Teekkarikylän isännistö suunnitteli viikkokausia, touhusi, rakenteli ja 
 kokeili suuren innostuksen vallassa sekä päivisin että öin saadakseen sitten ilahduttaa asukkaita noin 3 sekuntia kestävällä
 "ulkoilmaesityksellä". Päätettiin nimittäin ampua teekkari Maata kiertävälle radalle ja melkein siinä onnistuttiin. Tässä 

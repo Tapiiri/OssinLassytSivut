@@ -1,9 +1,4 @@
 
-
-
-    
-# 81. Lauri leivän söi
-
 Kuten tunnettua, on Flooran päivä toukokuun 13. myös Teekkarikylän vuosipäivä. 13.5.1950 oli 
 nimittäin alkupamauksen hetki, jota sitten vuosittain muisteltiin ulkoilmajuhlalla kylän raitilla. Erään 
 tällaisen juhlan aikana satuin seisomaan monikymmenmiehisen PK:n (vert. Polyteknikkojen Kuoro) 

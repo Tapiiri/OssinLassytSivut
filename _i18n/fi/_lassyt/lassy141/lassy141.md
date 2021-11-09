@@ -1,9 +1,4 @@
 
-
-
-    
-# 141. I-painoksen päätössanat
-
 Lopuksi tältä paikalta. Olen nyt kaivellut harmaat aivosoluni typötyhjiksi Otaniemen muistoista. Ne ovat nyt edellä 
 präntättyinä. Toivon muistaneeni oikein sen, minkä olen muistanut. Sinä entinen otanisti, joka nyt olet urhoollisesti kahlannut 
 tänne saakka. Jos olen jotain kertonut väärin tai liian laimeasti. Älä hyväksy sitä. Tee protesti. Sen voit vaivattomasti tehdä 

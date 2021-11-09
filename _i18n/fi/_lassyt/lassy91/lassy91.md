@@ -1,9 +1,4 @@
 
-
-
-    
-# 91. DIPOLIN synnytystuskat 
-
 11.9.1959	
     TKYH asetti toimikunnan huonetilaohjelmaa laatimaan. Toimikunta päätti käyttää työnimeä DIPOLI.
 

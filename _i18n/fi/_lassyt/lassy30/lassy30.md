@@ -1,9 +1,4 @@
 
-
-
-    
-# 30. Kylän 5-vuotispaukku progressiivisin mallein
-
 Teekkarikylän täytettyä viisi vuotta toukokuun 13. päivänä, järjestettiin Servin Mökkiin suuri juhlatilaisuus. Arvovaltaisen 
 kutsuvierasjoukon pääesiintyjänä oli luonnollisesti ikiteekkari, prof. Bernhard Wuolle. Olin antanut laitosmies Martti 
 Turuselle tehtäväksi konstruoida sellainen sähkösytytteinen 5-vuotispaukku, jossa peräkkäin viisi paukausta, toinen 

@@ -1,9 +1,4 @@
 
-
-
-    
-# 45. Kanoottiviestit Flooran päivänä Helsinkiin.
-
 Kun aikaisemmin kerrottu kanadalaiskanootti saatiin kylään, pohdimme ankarasti mitä sillä oikein 
 tehtäisiin. Joku sitten keksi idean, että viedään sen avulla kevät satamakaupunkiimme Helsinkiin. Ja 
 niin sitten alkoi tuo kevätviestien sarja, joka aina tapahtui kylän vuosipäivänä toukokuun 13. 

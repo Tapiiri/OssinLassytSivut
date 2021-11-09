@@ -1,8 +1,3 @@
-
-
-
-    
-# 99. Brittiläinen teekkarijäynä
 Osoituksena muiden maiden teekkareiden jäynämielisyydestä kerron pari tietooni tullutta
 tapausta. Eräässä englantilaisessa teknillisessä korkeakoulussa oli traditio, että fuxien ensimmäisen
 lukukauden lähetessä loppuaan keskittivät vanhempien vuosikurssien teekkarit todellisen

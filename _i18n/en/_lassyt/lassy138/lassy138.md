@@ -1,9 +1,4 @@
 
-
-
-    
-# 138. My Farewell Party From Otaniemi In 1969
-
 Now my rambling has progressed to the finish line. I should tell how I was defecated from Otaniemi in fall 1969 when I moved to orthodox and matter-of-fact, but still so dry as dust and business life service. The only incentive of businesses is to explore that thought by researching and thinking, one can produce increasingly more round metal washers, also called coins.
 
 The teekkari-styled lifestyle colored my arrival at Teekkari Village on 1st May 1952. In that case, I must say that my departure must be called based on 17 years' experience non-conventional (cf. conventional).

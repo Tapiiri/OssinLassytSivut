@@ -1,9 +1,4 @@
 
-
-
-    
-# 23. Kipusiskojen lahjaesineitä. Erilaisia kilpailulajeja
-
 Ne, jotka kävivät Servin Mökissä sen vielä toimiessa ravintolana, muistavat varmaan nähneensä sen katossa roikkuvat 
 erilaiset sairaanhoitajaopiston oppilaitten eli "kipusiskojen" jättämät lahjat. Näiden lahjojen joukossa oli myöskin n. 5 litran 
 vetoinen apteekkipullo. Tämä pullo roikkui siellä seinällä osoittamassa "naisen luontaista kavaluutta." Kun sen vuoden 

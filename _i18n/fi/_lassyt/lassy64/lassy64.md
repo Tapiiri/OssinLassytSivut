@@ -1,9 +1,4 @@
 
-
-
-    
-# 64. TKYH tutustuu atomiluolaan ja puliukkoon
-
 Kun TKY:n hallitus taas kerran vaihtui ja suoritti ensimmäisen tutustumiskierroksensa Otaniemessä, 
 raahasimme heidät myös rakenteilla olevaan valtavaan pommisuojaan, joka on suunnilleen Dipolin alla 
 ja jonne johtaa useita sisäänkäyntejä eri puolilta. Ylioppilaskunnan puheenjohtajana oli tuolloin 

@@ -1,9 +1,4 @@
 
-
-
-    
-# 146. IMM-laite. International Money-Meter
-
 Aikaisemmin selostamaani Käpy-patsasta verrattoman paljon varmatoimisempi oli Dipolin teekkariaulaan asentamamme 
 kolikonkeräyslaite, jonka nimi oli INTERNATIONAL MONEY-METER.
 

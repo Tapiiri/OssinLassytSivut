@@ -1,9 +1,4 @@
 
-
-
-    
-# 78. Ensimmäinen T-ilta Dipolissa. KOFF tarjosi
-
 Dipolin ensimmäisessä T-illassa sen sijaan paukut todella tarjottiin. KOFF:in silloinen myyntijohtaja 
 Nyman tuli paikalle ja ilmoitti, että KOFF:in laskuun tarjotaan nyt jokaiselle paikalla olevalle 
 teekkarille pullo olutta. Hihkaisin tämän ilosanoman mikrofoniin, ja alle aikayksikön olivat teekkarit 

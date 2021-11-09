@@ -1,9 +1,4 @@
 
-
-
-    
-# 27. TEMPAUKSIA. J.L. Runeberg ja Kihniön kirkkoherra
-
 Sana tempaus on ehdottomasti teekkareiden keksimä, vaikka sitä nykyään käytetään jos missäkin kissanristiäisissä 
 mainossanana. Noissa legendaarisissa teekkareiden tempauksissa oli kyllä aina mainonnalla erittäin tärkeä osuus. Mainoksilla 
 hankittiin rahaa. Suurin ja näkyvin oli Helsinkiä kiertävä tempauskulkue, jossa parhaimmillaan oli useita kymmeniä 

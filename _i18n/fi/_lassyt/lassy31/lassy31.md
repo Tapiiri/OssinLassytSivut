@@ -1,9 +1,4 @@
 
-
-
-    
-# 31. Kwai-joen junttauslaulu
-
 Vuosien vieriessä pidin kylän asukkaille tuon tuostakin omia saarnojani koettaen todistella, että läpi 
 yön kestävän putkihuudon asemesta voisivat asukkaat harkita myös muita vapaa-ajan taidemuotoja 
 soluissaan. Kerran sitten kun C-sarven eräästä solusta (asuin nim. tämän sarven ylimmässä solussa 

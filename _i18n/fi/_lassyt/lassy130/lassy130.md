@@ -1,9 +1,4 @@
 
-
-
-    
-# 130. Luolamiehen avajaiset kera kolmen stripparin
-
 Kun Dipolin yleisöravintolan nimeksi oli vahvistettu Luolamies, päätettiin yrittää houkutella yleisöä sinne rohkeilla strip-
 tease -esiintyjillä. Ja tässäkin lähdettiin liikkeelle mielestämme tosi repäisevästi. Palkattiin kahden viikon ajaksi peräti kolme 
 stripparia ja yksi suomalainen body-building mies. Tänä mies oli todellinen vain lampaanvuotaan verhoutunut luolamies, 
@@ -17,4 +12,3 @@ avajaisruljanssi pidettiin Luolamiehen suuressa kabinetissa eli juhlasalissa, jo
 menneiden aikojen hirmuliskot steppailivat mukana peräseinälle projisoituina. Tätäkin yritystämme paheksui eräs täti-
 ihminen lähettäen minulle kirjeen, jossa tuomitsi "moisten törkeiden ohjelmien esittämisen jalolle akateemiselle nuorisolle". 
 Se siitä.
-

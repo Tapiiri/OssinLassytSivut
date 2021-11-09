@@ -1,9 +1,4 @@
 
-
-
-    
-# 105. Vappuhappening At TES-TV
-
 It probably was the first Vappu of TES when it was decided to present on Vappuday "a really terribly funny teekkaris' Vappuprogram." The idea was good, but the time was wrong. Rather starved and shaky was that "group of artists," which dragged into the studio. A couple of times, a similar program is trying to be found. It was then broadcasted on the air. When the show was over, came against to me girl teekkari Tutsa in the hallway with these words: "If this bloody practice does not end soon, then I will rush into Pokeripoksi\*." She was one of the performers, so she did not realize that the last time was the actual broadcasting. If, by the way, some do not know who Tutsa is, then it is not always worth explaining. Tutsa is a legend.
 
 In that same vappuprogram was also a spex\*\*. An essential prop of the spex was a birch tree standing in the middle of the floor. It was made from white cardboard wrapped cylinder, which had two holes on the sides. During the performance, a teekkari stood inside, holding hands outside from the holes. Those were naturally birch branches. At first, everything was OK. However, during the last scene, we noticed that the branches had disappeared from the birch. When the red light from the camera went out, we rushed to the scene. We looked at the inside of the cardboard cylinder. There sat our happy teekkari on the floor with a cheerful smile and a Koskenkorva bottle on his lap. He wanted to be the first to drink that right stuff in a TV show.

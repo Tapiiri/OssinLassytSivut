@@ -1,9 +1,4 @@
 
-
-
-    
-# 80. Teekkarista oli tulla Diapositiivi
-
 Kerran taas eräästä kylän teekkarista oli hyvää vauhtia kehittymässä DIAPOSITIIVI. Asian kulku oli 
 kaikessa kemiallisuudessaan seuraava: Lähtiessään Polin tummien kattojen alle viettämään Vapun 
 aattoa, varmisti teekkari X kotiinpaluun kosteuden siten, että sijoitti huoneensa saniteettikaapin 

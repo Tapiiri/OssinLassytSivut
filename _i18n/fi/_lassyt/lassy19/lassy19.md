@@ -1,9 +1,4 @@
 
-
-
-    
-# 19. THS:n 204 -senttinen vuosijuhlavieras
-
 Pysyäksemme vielä rantasaunalla, muistuu mieleeni, kuinka Tukholman THS:stä kerran tuli vuosijuhlavieraaksi 204 cm 
 pitkä teekkariedustaja. Tämän kokonaispituuden lisäksi hänellä oli tavattoman pitkät raajat. Kädetkin roikkuivat kuin 
 gibbonilla polvien alapuolella. Vuosijuhla päättyi sitten aikoinaan aamuyöstä perinteelliseen rantasaunajatkoon kyseinen 

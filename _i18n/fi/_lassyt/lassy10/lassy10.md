@@ -1,9 +1,4 @@
 
-
-
-    
-# 10.Villieläimiä Otaniemessä
-
 Ennen Teekkarikylän rakentamista oli Otaniemi vielä varsin syrjäinen ja erämaatuntuinen niemenkärki. 
 Jopa niin syrjäinen, että lienee syytä todeta seuraavat todelliset eläintarinat. Aluetta vartioi perustetun 
 Otaniemen Hoitokunnan asettama aluevalvoja Kortelainen asuen nykyisin TKK:n päärakennuksen 

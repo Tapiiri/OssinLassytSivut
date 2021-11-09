@@ -1,9 +1,4 @@
 
-
-
-    
-# 69. Prestige Gifts I Have Received From Teekkaris
-
 In this context, I can list some of the other quirks I have received in Otaniemi. All of these are stored in my home: 2.4.1960; when I turned 45, I received a combined head and clothes brush. A regular scrubbing brush and a soft car polishing mitten joined together with chains. The scrubbing brush is that clothes brush.
 
 A three spiked iron garden cultivator. For me, a comb with a spike for every hair.

@@ -1,9 +1,4 @@
 
-
-
-    
-# 91. DIPOLI Birth Pains
-
 11.9.1959 TKY Board appointed a committee to draw up the room program. The committee decided to use the working title DIPOLI.
 
 28.3.1960 The committee submitted its memorandum to the board of TKY.

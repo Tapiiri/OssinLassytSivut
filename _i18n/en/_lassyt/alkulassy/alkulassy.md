@@ -1,9 +1,4 @@
 
-
-
-    
-# The First Lässy to ed. I on 1982.
-
 For over 12 years I have tried in desperation to leave the 17 years I spent in Teekkari Village into the all engulfing dusk of forgetfulness.
  In the rush of the today I've attempted to forget the uncountable memories of Otaniemi, which as an unbroken tape return to my mind.
  But to no avail.
@@ -51,5 +46,3 @@ I will now start by plagiarizing an even more famous Finnish writer: "'Tis tale 
 Let the tale following of true events give credibility to my claims.
 
     Ossi Törrönen
-
-

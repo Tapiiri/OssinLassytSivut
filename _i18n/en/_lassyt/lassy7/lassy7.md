@@ -1,9 +1,4 @@
 
-
-
-    
-# 7. The Visit Of The Parliamentary Finance Committee
-
 It was once decided to invite the Parliamentary Finance Committee to state Teekkari Village's situation. The purpose was to naturally lament the poverty of TKY for them and get relief from the debt situation caused by the construction period. But, when we knew that such high gentlemen everywhere are treated "like bishops in a parsonage," we thought we wouldn't do well in such a competition. So, we decided to start at the other end. Then the gentlemen of the Finance Committee arrived in their cars in the middle of the Teekkari Sign. They noticed that even the electric light was turned off "due to our financial predicament."
 
 There were silence and darkness everywhere. As the gentlemen were stupefying in it after the cars had left, a fuksi male arrived at that spot in worn overalls, asking, "what men are you." One of the guests said that we are members of the Parliamentary Finance Committee and invited to a ceremony. "Ah, you are those guys," the fuksi said and led the guests in a goose march to TKY 3's fireplace hall. Every single piece of furniture had been transported out of the fireplace hall. Instead, the furniture was replaced with tables and chairs made of bricks and sawn planks. There was a fire in the fireplace and at the edge of the fireplace was a bunch of sausages. We said, along with frying and eating the sausages, if one feels thirsty, over there downstairs is a drink. The thirsty people were led to a boiler room, in which a fuksi dug beer bottles from a carbon pile which was in a corner. This financial misery, which they saw by their own eyes, could not have softened the gentlemen's minds. The result was a "favorable attitude to TKY's monetary initiative."

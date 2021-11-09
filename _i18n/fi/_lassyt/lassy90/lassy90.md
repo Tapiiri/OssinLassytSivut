@@ -1,9 +1,4 @@
 
-
-
-    
-# 90. Sain kultakellon kylän teekkareilta
-
 Kun Teekkarikylän vihkiäisistä oli kulunut 10 vuotta, piti sitä tietenkin juhlia asiaankuuluvasti Servin 
 Mökissä. Istuin vaimoineni pahaa aavistamatta isännistön pöydässä, kun yksi mökin ranskalaisista 
 ovista aukesi ja sisään kompuroi ikäloppu elävä hevoskaakki. Luulin sen olevan osana jossakin 

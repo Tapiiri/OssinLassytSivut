@@ -1,9 +1,4 @@
 
-
-
-    
-# 65. Ihmeitä tekevä lähde atomiluolassa
-
 Otaniemen atomiluolasta oli meille sen monivuotisen rakentamisen aikana monenlaista hupia ja 
 "hyötyä". Siellä oli jonkun aikaa myös pieni luolajärvi, noin aarin kokoinen ja vettä pari kolme rnetria. 
 Olivat taas kerran THS:n edustajat Tukholmasta meillä kylässä. Heidätkin raahattiin luolan uumeniin ja 

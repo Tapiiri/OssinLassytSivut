@@ -1,8 +1,3 @@
-
-
-
-    
-# 158. I-valtakunnalliset jäynäkisat Vaasassa 23-24.9.1986 
 STS/KAL:n teekkaritoimikunta lähestyi minua puhelimitse syksyllä -86 tiedustellen, olisinko suostuvainen tulemaan 
 suunnitellun jäynäkisan kunnia-ylituomariksi. No suurempaa kunniaa ei tällainen fossiili enää voi toivoakaan kuin 
 päästä vielä kerran mukaan teekkarijäynäilyyn. Kiitin kunniasta ja niin lensimme 23.9.86 komeasti Finnairin 
@@ -138,8 +133,4 @@ kuulu kertoa, vaan se pitää itse havaita, joten dokumentointi jäi kovin kevye
 
 Edellä on tietenkin voitu esitellä vain osa siitä, mitä Vaasan yössä tapahtui... 
 
-Teksti: Helena Inkinen 
-
-
-
-
+Teksti: Helena Inkinen

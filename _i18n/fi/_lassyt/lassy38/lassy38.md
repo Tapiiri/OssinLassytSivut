@@ -1,9 +1,4 @@
 
-
-
-    
-# 38. Otaniemen Viininviljelijät
-
 Monenlaisia aatteellisia, epäaatteellisia jopa taloudellisiakin yhtymisiä ja porukoita syntyi 
 Teekkarikylän vilkkaassa elämänmenossa. Eräs tällainen oli Otaniemen Viininviljelijät ry. Tämä 
 ilmeisesti kemistivoittoinen aktivistiyhteisö pyrki luomaan ja kehittämään maahamme uutta 

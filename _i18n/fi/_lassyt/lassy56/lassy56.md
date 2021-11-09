@@ -1,9 +1,4 @@
 
-
-
-    
-# 56. Dipolin puunkaatotalkoot
-
 Metsänkaatotalkoot Dipolin paikalla olivat ihme. Ihme siksi, että yhtään ihmistä ei sen touhun aikana 
 a) kuollut b) silpoutunut c) saanut shokkia d) menettänyt sormiaan tai e) tullut puulla päähän lyödyksi. 
 Ne sadat, jotka olivat paikalla, muistavat varmaan H-hetken, jolloin viisi teekkaria ärisevät 

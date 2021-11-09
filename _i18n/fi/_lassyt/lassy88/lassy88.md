@@ -1,9 +1,4 @@
 
-
-
-    
-# 88. Radiolupatarkastus
-
 Sattuipa kerran Teekkarikylän alkuvuosina, jolloin keskusradiokin oli saatu talkootyönä 
 toimintakuntoon, että sinne saapui PLH:n radiolupatarkastaja aivan yllättäen. Aloitti loogisesti työnsä 
 TKY 3 A:n alasolusta edeten huone huoneelta numerojärjestyksessä. Heti kun hän oli poistunut 

@@ -1,9 +1,4 @@
 
-
-
-    
-# 142. Littu ready for Teekkari Village's 50th anniversary in year 2002
-
 As it is known from Latvia, when I was in Otaniemi, I started to practice chemistry by manufacturing every year a 30 liter-sized demisane full of LITTU (cf. round bottle = pytty\*, flat bottle = littu). Those littu bottles have been sent since Vappu 1975 in connection with the declaration of Vappu Rowdiness by the power of helium balloons, among other things, also into space. There is a more detailed description of these Vappulittus elsewhere in this book.
 
 However, there is one littubottle, the existence of which and above all, the storage place is known only by a few and selected teekkaris. In connection with Castle Warden Host exchange ceremonies, the existence of the bottle is checked by following conscientiously following the regulations of the following charter of foundation: 

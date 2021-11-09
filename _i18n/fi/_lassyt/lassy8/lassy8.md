@@ -1,9 +1,4 @@
 
-
-
-    
-# 8. Juhannusjuhlat.
-
 Oman osansa Otaniemen Teekkarikylän lyhyessä mutta sitä värikkäämmässä historiassa muodostivat Juhannusjuhlat. 
 Yhteistoiminnassa naapurinamme olevan Otaniemen Urheilusäätiön kanssa järjestettiin näitä yleisötilaisuuksia viisi 
 peräkkäin. Ensimmäinen oli kesällä -53. Arkkitehtiteekkari Osmo So1ansuu laati juhlalle värikkään pylväsjulisteen 

@@ -1,9 +1,4 @@
 
-
-
-    
-# 39. Anastasia Mikojan vierailee Servin Mökissa
-
 Sarjassa arvovaltaisia vieraita Teekkarikylässä on ehdottomasti kerrottava Neuvostoliiton silloisen 
 varapääministerin, Anastasia Mikojanin vierailu. Hän tutustui lyhyesti ja ytimekkäästi Otaniemeen ja 
 Teekkarikylään käyden myöskin Servin Mökissä. Kun Mikojan suuren, ministereitä, rehtoreita, 

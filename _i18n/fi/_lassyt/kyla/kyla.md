@@ -1,9 +1,4 @@
 
-
-
-    
-# TEEKKARIKYLÄSTÄ LYHYESTI
-
 Ajatus Teknillisen korkeakoulun siirrosta ja sen yhteyteen rakennettavasta opiskelija-asuntola-alueesta heräsi 
 välittömästi sotavuosien jälkeen, jolloin toisaalta lähinnä Yhdysvalloista levisi yliopistorakentamisen Campus-ideat ja 
 toisaalta opiskelijoiden määrät kasvoivat rajusti. Lisäksi sota oli vaurioittanut korkeakoulurakennusta. 

@@ -1,9 +1,4 @@
 
-
-
-    
-# 24. Pentti Kerola ja kumiköysilinko
-
 Vielä on syytä mainita eräs kipusiskokisojen "urheilumuoto", josta oli koitua erittäinkin ikävät seuraukset, mutta onneksi ei 
 kuitenkaan koitunut. Työnimenä oli "katapulttikelkka". Lainasimme Jämijärven Ilmailukoululta 800-säikeiset kumiköydet, 
 joilla aikoinaan singottiin liito- ja purjekoneita ilmaan harjun laelta. Teimme vanerista niin suuren matalan kelkan, että 

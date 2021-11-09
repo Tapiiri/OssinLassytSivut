@@ -1,9 +1,4 @@
 
-
-
-    
-# 105. Vappuriehaa TES-TV:ssä
-
 Taisi olla ensimmäinen TESin Vappu, kun oli päätetty lähettää Vapunpäivänä "oikein hirmuhauskaa teekkareiden 
 Vappuohjelmaa". Ajatus oli kyllä hyvä, mutta ajankohta väärä. Varsin nääntynyt ja horjahtelevainen oli se "taiteilijajoukko", 
 joka laahusti studioon. Pari kertaa siinä yritettiin käydä ohjelma joten kuten läpi ja sitten se lennätettiin eetteriin. Kun koko
@@ -26,4 +21,3 @@ tapahtui tosiajassa. Korjauksiin ja parannuksiin ei ollut keinoja. Se oli aina k
 ollut niin kovaa ja armotonta kuin nykyään. Heikkouksille ja kömmähdyksille enimmäkseen hymyiltiin. Koko touhu oli niin 
 uutta ja ihmeellistä. Ajatelkaapa nyt hyvät ihmiset: katsoja istuu tohvelit jalassa kotonaan ja näkee mitä samalla hetkellä 
 tehdään Albertinkatu 42:n eräässä vinttihuoneessa.
-

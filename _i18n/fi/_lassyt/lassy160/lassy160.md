@@ -1,8 +1,3 @@
-
-
-
-    
-# 160. OTTEITA OTA-GUINNESS -LUETTELOSTA 
 Hajatietoja Teekkarikylän ennätysten kirjasta OTA-GUINNESS. Kirjanpitäjänä teekkari h.c. OSSI 1952-1969 
 
 Suurin 	
@@ -49,5 +44,4 @@ Painavimmat
 Vanhin 
 
     merkki teekkaritoiminnan alkamisesta Otaniemessä. Yli 5.000 vuotta vanha kivikauden aikainen hauta TKY III:n edustalla.
-    (Antropologien kaivaessa haudan auki 1950 Teekkarikylän alkupaukun yhteydessä löytyi kallo, joka selvästi tuoksui litulle todistaen siten vääjäämättömästi teekkariudesta.} 
-
+    (Antropologien kaivaessa haudan auki 1950 Teekkarikylän alkupaukun yhteydessä löytyi kallo, joka selvästi tuoksui litulle todistaen siten vääjäämättömästi teekkariudesta.}

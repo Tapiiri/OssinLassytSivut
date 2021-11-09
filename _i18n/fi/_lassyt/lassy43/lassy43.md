@@ -1,9 +1,4 @@
 
-
-
-    
-# 43. Tämä ei ole valkoisen miehen soppaa
-
 Kuinka voimakkaasti erilaiset sanonnat ja termit iskostuvat käyttöön, siitä seuraavassa. Otaniemessä 
 asui ja TKK:ssa opiskelivat keisari Haile Selassien stipendiaatit, tummapintaiset Etiopian pojat Brahnu 
 ja Zemalis. Brahnu opiskeli arkkimatehtuuria ja Zemalis askarteli wolttien ja amppeerien parissa. 

@@ -1,9 +1,4 @@
 
-
-
-    
-# 4. Ruokalaparakki häipyy yhdessä yössä.
-
 Ennen tätä vihkiäispäivää sattui muuten tapahtuma, joka minulle todisti vakuuttavasti mihin teekkarit pystyvät, kun 
 johonkin vain innolla ryhtyvät. Oli siis vihkiäispäivän edellinen päivä ja Servin Mökin pääoven edessä seisoi suuri 
 työmaan ravintolaparakki kaikessa rumuudessaan. Se oli tuollainen arviolta sadan henkilön ruokalaparakki keittiöineen 

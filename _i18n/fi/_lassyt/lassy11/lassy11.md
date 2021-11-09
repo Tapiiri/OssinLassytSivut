@@ -1,9 +1,4 @@
 
-
-
-    
-# 11. Ankerias
-
 Kerran, eräänä kesäaamuna menin aikaisin Otaniemen Urheilukentälle juoksentelemaan. Kun siinä 
 lönkyttelin pitkin ulommaista hiilimurskarataa, sain viereiselle kanssakilpailijan, joka harvemmin kai 
 esiintyy urheilukentillä. Lähes metrin pituinen ja ranteenpaksuinen ankerias se siinä oli samoissa 

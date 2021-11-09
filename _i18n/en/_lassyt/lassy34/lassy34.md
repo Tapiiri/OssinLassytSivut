@@ -1,9 +1,4 @@
 
-
-
-    
-# 34. RWBK's Fire Alarm And Other Hot Events
-
 Someone has said at one point that "teekkari bustle without Retuperä's trumpeting marching band would be like fire without smoke or smoke without fire." And yes, I guess I must agree with this aphorism. Probably there haven't been many teekkari events that haven't succeeded without RWBK. When the world's first and only Servin Mökki once opened its doors, Retuperä often marked the cottage's events with their euphonies. They then donated to Servin Mökki a really reliable and efficient fire alarm device on one of their visits. They nailed an ordinary cardboard shoebox to the inner wall. A wine glass with a foot was attached to the box with a package cord and a coat's large button. The third thing was the enamel instructions of the Helsinki Fire Department that were used in fire clocks. "TULIPALON SATTUESSA LÄHEISYYDESSÄ 1. SÄRJE LASI, 2 PAINA
 NAPPIA ja odota sen jälkeen palokunnan saapumista. VID ELDSVADA I NÄRHETEN 1. SÖNDRA
 GLASET 2. TRYCK PÅ KNAPPEN och inviinta brandkårens ankomst."\* It was probably thanks to this powerful device that the cottage did not ignite in flames due to hot events.

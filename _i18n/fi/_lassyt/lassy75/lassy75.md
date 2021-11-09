@@ -1,9 +1,4 @@
 
-
-
-    
-# 75. Maan siat ja kokoomus
-
 Eräät valtiolliset vaalit lähestyivät ja Kansallinen Kokoomus piti kesäistä neuvottelupäiväänsä 
 Teekkarikylässä. Heidän vaalitunnuksensa sillä kerralla oli teksti: "Jo on aika panna maan asiat 
 kuntoon. "Tämä teksti komeili suurena kokoushuoneen peräseinällä ja sen edessä istuivat mm. 

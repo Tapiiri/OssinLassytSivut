@@ -1,9 +1,4 @@
 
-
-
-    
-# 51. Otagorsun rakennustalkoot, kun kaljaa riitti
-
 Kun Teekkarikylän huoltotalo valmistui vapautui TKY 4:n kellarista huonetilaa rättivaraston 
 muutettua. Tänne kellariin päätettiin sitten rakentaa äänieristetty seurustelupaikka. Arkkit.yo Kalevi 
 Ruokosuo, joka taisi silloin toimia TKYH:n puheenjohtajana, laati suunnitelmat tätä uutta 

@@ -1,9 +1,4 @@
 
-
-
-    
-# 149. RWBK:n eräs tehdaskonsertti
-
 Erään Tempauksen yhteydessä oli sovittu, että maailman kuuluisampi vaskipilliyhtye RWBK tekee Suomen 
 Kaapelitehtaan Helsingin tehtaalle syvästi taiteellisen vierailun arvokkaalla ohjelmistolla. Minä jouduin 
 onnettomuudekseni kyseisen tilaisuuden yhdysmieheksi. Työmaalounaan jälkeen jäi henkilökunta in corpore ruokasaliin 

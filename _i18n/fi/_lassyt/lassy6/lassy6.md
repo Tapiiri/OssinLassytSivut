@@ -1,9 +1,4 @@
 
-
-
-    
-# 6. Syön karvalakkini.
-
 Lukuvuonna 1953-54 toimi Teekkarikylän yhtenä linnanisäntänä Jaska Koski, joka muuten sittemmin toimi myös 
 Otavaarina (vanhassa kylässä ansioituneen dipl.inssin kunniavirka). Jaska oli tulisieluinen teekkari, joka touhusi mm. 
 voimakkaasti TKY:n edustajiston aikaansaamiseksi. Siihen saakka oli korkeimpana teekkarielimenä ollut TY:n yleinen 

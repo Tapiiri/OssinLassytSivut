@@ -1,9 +1,4 @@
 
-
-
-    
-# 164. The Third Time Tells The Truth
-
 That old Finnish proverb really came to my mind when on 02.04.1990, I happened to turn 25 for the third time. Already twice before, the teekkaris of Otaniemi had taken part in my birthday with such joyful jäynäs and mass appearances that I really could no longer imagine a sequel to them. Before you continue reading this part, retake a look at my rambles 68 and 157. I will try to explain in those these earlier huge jäynäs.
 
 And now, this third time. This, the 75th birthday of mine. Let me start by saying that I left Otaniemi "for other strange lands"\* in fall 1969, more than two decades ago. I really could not have imagined that today's teekkaris would undertake such a colossal brainstorming and implementation.  I now try to recall the details in retrospect in literal form. All of this without knowing me personally. I emphasize the word "I try." For that celebration, which began at 01.04.-90 at 23.50 and ended at 03.04.-90 at 01.30 was so multi-staged and surprising that some finesses might not be explained here. I sincerely hope that nothing worth mentioning is forgotten from this ramble. If something this kind of forgetting happens, I request a thousand times for forgiveness. This is certainly not what I meant. By plaguing a well-known legal text, I now want to start and "tell the truth and only the truth" without forgetting anything and adding nothing from my head.

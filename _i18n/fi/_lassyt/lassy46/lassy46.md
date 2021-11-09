@@ -1,9 +1,4 @@
 
-
-
-    
-# 46. Puutarhuri Helling lahjoittaa 5.000 kukkasipulia
-
 Sarjassa erikoisia lahjoituksia Teekkarikylälle on ehdottomasti mainittava Puutarhuri HelIingin lahja 
 eräänä keväänä. Hän omisti kauppapuutarhan Jorvaksen tien varrella. Hän siis soitti minulle kysyen 
 saisiko hän lahjoittaa teekkareille joitakin kukkasipuleita. Lausuin suuren iloni tästä ja kysyin mistä 

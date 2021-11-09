@@ -1,9 +1,4 @@
 
-
-
-    
-# 135. Dipoli auki yli yön kera cocktail-automaatin
-
 Kerran meni edellä mainittu ystäväni nimismies halpaan. On nimittäin niin, että hotelliravintolan saa avata jo kello 5 
 aamulla. Ensimmäisenä Vappuna anoin nimismieheltä perustellusti Vapun aattona jatkoaikaa kello 5:een. Hän myönsi sen 
 kirjallisesti leimojen kera. Vapun päivänä totesin Dipolin olevan hotelliravintola ja se avattiin aamulla kello 5. Eli paikalla 

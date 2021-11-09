@@ -1,9 +1,4 @@
 
-
-
-    
-# 139. I Turned 60 On April 2, 1975. Irma Organizes Parties
-
 On the wall of my bedroom hangs a frame of a timetable from the date 1.4.1975. And its birth entirely faults of teekkari h.c.\* Irma Henrikson. That night, five and a half years after I left Otaniemi, Irma had provoked to my birthday eve following: at 20.00, three police officers invaded my Tapiola apartment with Kauko Katila. I put my outerwear on and then to the police van.
 
 At speed A to Luolamies, Dipoli. In the hall waited the earlier mentioned Irma, putting on my feet Finland's most enormous morning slippers with Teuvo Turunen. All the lights in the house were dark. I got a flashlight in my hand and an order to continue along the red carpet. That carpet was a 20 mm wide red tape on the floor. I followed the order, and I crawled along with the tape forward. It eventually led to the middle of Luolamies hall. When I got there, a vast singalong rang out: "Yö kuin sielu neekerin..."\*. When the singalong ended, all the lights came on and... the cave was full of former teekkaris from years 1952-1969, my then work colleagues, the consuls who are in charge of TKY and other teekkaris. Also, RWBK, a sufficient amount of police officers, even my own four adult puppies, and a couple of sons-in-law and daughters-in-law. All of these Irma had scraped together; without that, I had any idea of this. Irma had hermetically taped even my wife's mouth. The surprise was perfect for me and all the more exhilarating.

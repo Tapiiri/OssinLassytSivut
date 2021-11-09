@@ -1,9 +1,4 @@
 
-
-
-    
-# 112. UKK:kin sai odottaa cocktailiaan Dipolissa
-
 En väitä olevani ainoa, mutta tuskinpa niitä kovin monia on, jotka ovat panneet itse UKK:n odottamaan kuivin suin "kunnes 
 kello löi 12". Tein sen periaatteen vuoksi. Kun herra Tasavallan Presidentti ensi kerran vieraili Dipolissa, oli määräys tarjota 
 tervetuliaiscocktailit salissa No 4. Miten ollakaan, Urkki saapuikin jo noin 10 minuuttia ennen sovittua aikaa klo 12.00. Olin 
@@ -17,4 +12,3 @@ vastuunalainen hoitaja ja se satun olemaan minä, joten - vielä hetkinen. Lasit
 nelossalin oven takana ja kun sitten se kahdentoista hetki koitti annoin juhlasalin kumistimella voimakkaan äänimerkin, ovet 
 avattiin ja tarjoilijat astuivat saliin. Eikös se niin ole, että me kaikki olemme samanarvoisia lain edessä. Olkoonpa laki mikä 
 tahansa - vaikkapa väkijuomalaki.
-

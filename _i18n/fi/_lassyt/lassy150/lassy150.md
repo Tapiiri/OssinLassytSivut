@@ -1,8 +1,3 @@
-
-
-
-    
-# 150. Uuden rantasaunan vihkiäiset 29.3.1985. PUHEENI 
 Alussa Otaniemi oli autio ja tyhjä. Hirvet, ketut, jänikset ja muut metsänötökät hallitsivat täällä 
 suvereenisti. Ihmiselosta ei näkynyt muuta merkkiä kuin tuo TKY III:n edustalla kohoava kivikauden 
 aikainen alkuteekkarin hautakumpu, joka sekin oli 5.000 -vuotisen sammaleen peitossa. 
@@ -45,5 +40,4 @@ parin sadan metrin päässä.
 "Men sana in corpore sano-terve sielu terveessä ruumiissa" - sanoivat muinaiset roomalaiset. Tähän uuteen 
 rantasaunaan liittyvänä mietelauseena haluaisin suomentaa tuon antiikin lauseen kuuluvaksi - 
 "Virkistyneessä kehossa itää entistä virkeämpiä ajatuksia" .  Älköön tämän rantasaunan kiukaasta loppuko 
-kunnon teekkarilöyly sinä ilmoisna ikänä - kuuna kullan valkeana. 
-
+kunnon teekkarilöyly sinä ilmoisna ikänä - kuuna kullan valkeana.

@@ -1,9 +1,4 @@
 
-
-
-    
-# 55. Rantasaunan hälytyslaitteet ja teekkari Veisterän polttis
-
 Hälytyslaitteita täytyi minun konstruoida aikanaan myös rantasaunalle. Ei kuitenkaan varkaitten vaan 
 tulipalon takia. Kerran oli nimittäin tuo jossakin määrin yli iso kiuas niin kuuma, että varsinainen 
 löylyhuone syttyi tuleen. Kiitos rakennuksen väliulkokattojen paksuuden ei tuli päässyt täyteen roihuun 

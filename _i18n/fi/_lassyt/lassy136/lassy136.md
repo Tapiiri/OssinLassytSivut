@@ -1,9 +1,4 @@
 
-
-
-    
-# 136. Juhlat Servissä ilman lupaa - Minä kihlakunnan oikeuteen
-
 Kun Teekkarikylä 13.5.-55 täytti kunnianarvoisat viisi vuotta, pidettiin Servin Mökissä asiaankuuluva juhla, jossa liikutuksen 
 tuntein muisteltiin niitä urheita teekkaripolvia, jotka 40-luvun loppupuolella ryhtyivät tositoimiin opiskelijoiden 
 asuntokurjuuden lievittämiseksi hyvässä Helsingissämme. Todettakoon, että kyseinen viisivuotisjuhla alkoi vasta Servin 
@@ -28,5 +23,3 @@ Muutaman ajan kuluttua tuli minulle, joka ilmoittauduin em. poliiseille juhlan (
 Espoon kihlakunnan oikeuteen. Ensikertalaisena rikollisena oli tuomio laiminlyödyn juhlaluvan leimaveron määrä valtiolle 
 kolmenkertaisena tai 10 vrk vankeutta. Ottaen huomioon lieventävät asianhaarat sekä suuren perheeni toimeentulovaikeudet 
 mahdollisen vankeuteni aikana, TKY:n hallitus päätti maksaa sakon ylioppilaskunnan varoista. Sakon määrä oli 93 markkaa.
-
-

@@ -1,8 +1,3 @@
-
-
-
-    
-# 159. VAPPURIEHA -LITTUJEN vaiheita 
 Kaikkien littujen kohtaloa ei edes tiedetä, vaikka muistelenpa eräänä vappuna litun pudonneen jo ennen Otakaarta - 
 jos ei sille. Kuitenkin ennätys taitaa olla litun -77 taittama matka itärajan tuntumaan Imatralle. Seuraavassa eräiden 
 tunnettujen littujen löytöpaikat (itärajan ja Suomenlahden takaa ei ole tullut ilmoituksia): 

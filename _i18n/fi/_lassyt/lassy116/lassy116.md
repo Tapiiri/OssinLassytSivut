@@ -1,9 +1,4 @@
 
-
-
-    
-# 116. Ensimmäinen hyökkäyksemme poliisiopistoon
-
 Ensimmäisen suuren hyökkäysoperaatiomme pilasivat poliisiopiston suunnitelleet insinöörit, lähinnä kai konstruktööri. 
 Voidaan kai todeta, että omat koirat purivat heti alkuunsa. Oli niin, että opistorakennuksen viereen oli betonisokkelin päälle 
 rakennettu puusta pieni mökki, johon opettajat demonstroivat kaikenlaisia murtovarkaustilanteita oppilaitten ratkottaviksi. 

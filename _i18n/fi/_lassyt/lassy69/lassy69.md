@@ -1,9 +1,4 @@
 
-
-
-    
-# 69. Teekkareilta saamiani arvolahjoja
-
 Tässä yhteydessä voinkin luetella eräitä Otaniemessä saamiani muita omituisuuksia, jotka kaikki ovat 
 visusti tallella kotonani: 2.4.-60, kun täytin lahjaan tekstatut 2'/4 tiu vuotta, sain yhdistetyn pää- ja 
 vaateharjan. Ketjuilla on tosiaan liitetty tavallinen juuriharja ja pehmeä autonkiillotuslapanen. 

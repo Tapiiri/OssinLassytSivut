@@ -1,9 +1,4 @@
 
-
-
-    
-# 34. RWBK:n palokello ja muita kuumia tapahtumia
-
 Joku on joskus tokaissut, että "Teekkaritouhu ilman Retuperän torveilevaa soittuetta olisi kuin tuli 
 ilman savua tai savu ilman tulta". Ja kyllä kai tähän aforismiin on yhdyttävä. Ei liene montakaan 
 todellista teekkaritilaisuutta ole ilman RWBK:a onnistunut. Kun maailman ensimmäinen ja ainoa 

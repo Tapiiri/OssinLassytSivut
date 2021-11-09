@@ -1,9 +1,4 @@
 
-
-
-    
-# 76. Pekka Tarjanteen häät
-
 Kun Retuperän käyrimmän torven ansiokas puhaltelija, teekkari Pekka Tarjanne aikoi ahkerasti 
 avioliittoon, oli luonnollisesti RWBK in corpore Lauttasaaren kirkon takana odottamassa avioparia 
 ulos. Minä olin paikalla paloauton FORD T-28 itseoppineena kuljettajana. Kun Pekka puolisoineen 

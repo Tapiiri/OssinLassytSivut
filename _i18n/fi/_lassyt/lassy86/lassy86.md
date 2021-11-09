@@ -1,9 +1,4 @@
 
-
-
-    
-# 86. Sukkasuhinat ja minä kännissä
-
 Asuntolarakennuksen TKY 3 ala-aulassa järjestimme usean vuoden aikana niin sanottuja 
 "SUKKASUHINOITA". Nämä olivat täysin epävirallisia ja pääsymaksuttomia kyläläisten kotihippoja, 
 joissa vieraina olivat Sairaanhoitajaopiston "kipusiskot". Sukkasuhina-nimi johtui siitä, että tomera 

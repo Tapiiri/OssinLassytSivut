@@ -1,9 +1,4 @@
 
-
-
-    
-# 148. Teimme kaikkemme kongressien hyväksi. DYNAMICS OF THE ATMOSPHERE
-
 Joskus 60-luvulla vietettiin maailman geofyysistä vuotta, joka huipentui Otaniemessä pidettyyn geofyysikkojen 
 maailmankongressiin. Kongressi oli elokuun puolella, joten yötkin jo olivat pimeät. Tiedemiehiä maailman kaikilta kulmilta 
 saapui tänne Otaniemeen useita satoja, valtaosa jo päivää paria ennen avajaisia. Ja nyt sattui sellainen oloissamme lähes	

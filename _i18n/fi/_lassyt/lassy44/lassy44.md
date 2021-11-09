@@ -1,9 +1,4 @@
 
-
-
-    
-# 44. Perintösohvani polttaminen
-
 Kun teekkarikylään aikanaan siten saatiin myös henkilökunnalle oma asuinrakennus, tuli minullekin 
 perheineni eteen muutto pois jo tutuksi käyneestä TKY 3/C:n sarvesta. Kun linnanisäntiä eräänä 
 iltana ennen muuttoa istui luonani iltakahvilla, tuli vaimoni sanoneeksi, että "tuotan vanhaa sohvaa 
@@ -23,4 +18,3 @@ auttaa minua "vaikeuksissani". Myöhemmin kuulin, että kolmannen kerroksen erä
 istui kaksi teekkaria ikkunan ääressä ankarasti opiskellen. Sen verran edellä kuvaamani tapaus 
 kiinnitti heidän huomiotaan, että toinen oli sanonut ohimennen toiselle: "Siinä meni muuten palava 
 sohva ylhäältä alaspäin".
-

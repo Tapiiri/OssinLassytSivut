@@ -1,9 +1,4 @@
 
-
-
-    
-# 131. Kalakukkokellari ja Peräkylän Banjot
-
 Toinen taiteellinen yritys oli Dipolin kaljakellarin nimeäminen kesäisin Kalakukkokellariksi kera ao. supisuomalaisten ruokien. 
 Viihdeorkesteriksi pestattiin kolmen teekkarin trio Peräkylän Banjot. Kansallispuvut päällä ja instrumentit haitari, viulu, kitara. 
 Menestys oli alussa hyvää parempi, päätellen ainakin panjojen innosta mennä kellariin joka ilta soittelemaan. Ulkomainen 
@@ -15,5 +10,3 @@ takaisin ja liimailla paikoilleen. Tämä yritys kesti kaksi kesää, sillä yht
 peräti insinööreiksi ja hajosivat a sinne, b tänne ja c minne.17 vuoden ajan muuten totesin sen lähes säännöllisen ilmiön, että 
 mitä aktiivisempi oli teekkari TKY:n ja Otaniemen muissa riennoissa, niin sitä varmemmin hänet myös poistettiin TKK:n 
 kirjoista valmistuneena. Mitä nyt vuoden parin viive tosiaktivisteille.
-
-

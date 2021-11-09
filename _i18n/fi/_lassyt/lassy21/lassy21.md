@@ -1,9 +1,4 @@
 
-
-
-    
-# 21. Caledon -kanootti
-
 Vähän ennen joulua vuonna -52 ilmoitettiin minulle Helsingin sataman tullikamarista, että siellä olisi 
 noudettavissa Teekkarikylälle osoitettu lähetys. Luullen lähetystä joksikin kirjaksi tai muuksi sen 
 kokoiseksi, menin satamaan pienellä henkilöautolla. Tullimiehen naama vetäytyi hymyyn, kun hän 

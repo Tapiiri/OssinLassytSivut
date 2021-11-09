@@ -1,8 +1,3 @@
-
-
-
-    
-# 102. DIPOLIINAN synty
 Näin syntyi Dipoliina.	..
 Se oli joskus 50-luvun loppupuolella, kun olimme kutsuneet rantasaunalle joukon
 matkatoimistotirehtöörejä pohtimaan Otaniemen markkinointia kesähotellina ja kongressi-
@@ -35,5 +30,3 @@ idealistien syytä. Hyväpä tuntuu nimi olevan, kun se kelpuutetaan peräti "to
 Tosin TKY:n alaiseksi epäitsenäiseksi. Eikä DIPOLI-sanaa tai sen johdannaisia saakaan muut
 käyttää kuin TKY. Se sana ja Dipolin merkki rekisteröitiin aikoinaan virallisesti patentti- ja
 rekisterihallituksen tavaramerkkiluetteloon. Varmuuden vuoksi.
-
-

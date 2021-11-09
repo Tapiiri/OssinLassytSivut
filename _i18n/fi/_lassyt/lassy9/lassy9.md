@@ -1,9 +1,4 @@
 
-
-
-    
-# 9. Terveydenhoitoasema perustetaan
-
 Erääseen Teekkarikylän rakennukseen saatiin aikoinaan Ylioppilaitten Terveydenhoitosäätiön ja 
 TKY:n yhteisponnistuksin Otaniemen oma terveydenhoitoasema. TKK:n edustajana oli juhlallisessa 
 vihkimistilaisuudessa paikalla myös nykyinen akateemikko Erkki Laurila ja Terveydenhoitosäätiön 

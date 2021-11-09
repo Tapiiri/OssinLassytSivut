@@ -1,9 +1,4 @@
 
-
-
-    
-# 138. Läksiäisjuhlani Otaniemestä 1969.
-
 Nyt on sitten lässyttelyni edennyt loppusuoralle ja pitäisi kertoa kuinka minut ulostettiin Otaniemestä syksyllä -69 
 siirtyessäni oikeaoppisen ja asiallisen, mutta silti niin rutikuivan liike-elämän palvelukseen, jonka ainoana kannustimena on 
 tutkia tuumaa tuota, miten tutkimalla ja tuumaamalla voi yhä enemmän tuottaa pyöreitä metalliprikkoja, joita myös 

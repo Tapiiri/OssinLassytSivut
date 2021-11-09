@@ -1,9 +1,4 @@
 
-
-
-    
-# 162. MUITA ANSIOITUNEITA ja teekkari h.c. arvolla ynnä teekkarilakilla palkittuja OTANISTEJA 
-
 ### Servin Maija (alias Hilkka Regner) 
 
 ###Irma (alias Irma Henriksson) 
@@ -16,5 +11,4 @@ keittiössä, mutta Irma on sitä enemmän ollut "framilla" kylän toimistossa.
 
 
 Tämän enempää en sitten lässytäkään näistä kahdesta TEEKKARI H.C:stä, vaan liitän oheen kaksi virallista 
-valokuvaa, yhden kummastakin. 
-
+valokuvaa, yhden kummastakin.

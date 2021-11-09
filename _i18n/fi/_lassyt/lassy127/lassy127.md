@@ -1,9 +1,4 @@
 
-
-
-    
-# 127. Ylin poliisijohto ajelee Porscheilla atomiluolassa
-
 Kerran kokoontuivat kaikki pohjoismaiden korkeimmat poliisipäälliköt neuvonpitoon Suomeen. Ohjelmaan kuului 
 luonnollisesti myös tutustuminen poliisiopistoon ja sen jälkeen oli tulle korkea-arvoiselle seurueelle tilattu juhla-ateria 
 Luolamiehestä. Muutamia aikoja ennen tätä arvotilaisuutta soitti poliisin PR-mies Auvo Nuotio minulle ja pyysi keksimään 

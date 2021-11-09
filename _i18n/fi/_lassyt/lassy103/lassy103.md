@@ -1,8 +1,3 @@
-
-
-
-    
-# 103. Ilmainen soitto kaukotasolle kylästä
 Kun eräänä päivänä istuinTKY3:ssa sijaitsevassa työhuoneessani "ajatuksiini vaipuneena" kuului 
 viereisestä toimistohuoneesta Irma H e n r i k s s o n in kimakka rääkäisy. Syöksyin sinne ja näin Irman 
 tuijottavan kuin halvaantuneena edessään olevaan paperiin. Sanaakaan sanomatta hän ojensi paperin 

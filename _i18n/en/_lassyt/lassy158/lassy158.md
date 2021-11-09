@@ -1,9 +1,4 @@
 
-
-
-    
-# 158. 1st National Jäynä Competitions In Vaasa 23-24.9.1986
-
 The STS/KAL's\* teekkari committee approached me by phone in the fall -86 asking me if I would agree to come to be the Honorary Chief Judge. Well, a fossil such as me can not wish greater glory than to get yet once more involved with doing teekkarijäynäs. I thanked for the honor, and so on 23.9.86, we flew handsomely along with Finnair's blue-and-white wings to Vaasa, where all five technical universities' competition teams with their assistants and props. One of those universities was Åbo Akademi. We held an opening meeting in a cabinet of Hotel Vaasa, where the competition rules were explained. Also, the teams' participants and mandatory equipment were identified. Then, the jäynädoing began as the teams fade into different city directions, mysterious and glowing with enthusiasm.
 
 As Helena Inkinen had already been elected as Secretary-General of the Competition Committee in Helsinki, I won't ramble anymore of this. Instead, I enclose the full report which she wrote. The report is exhaustive, and I find no fault in the report except for one jäynä that was not there. To be fair, she could not know about it because it took place during the second competition day in my hotel room early in the morning. I went to answer the phone rang, and a male voice verified me to be Ossi Törrönen.  After the verification, he expressed his astonishment that he really can not find the slightest fault in his car. Of course, I was confused, but when the voice asked that when according to my written promise, I would come to check that mentioned car, my brain started to function. I realized that a jäynä had taken place.

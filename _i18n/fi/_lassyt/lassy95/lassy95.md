@@ -1,9 +1,4 @@
 
-
-
-    
-# 95. Tanskan prinsessa Otaniemessä
-
 Kun sen sijaan eräs Tanskan prinsessoista käväisi Helsingissä ja suoritti kaikessa kiireessään vain 
 kiertoajelun Otaniemessä, olivat teekkarit haalarit päällä ja vesisangot ja pesusudit käsissään tiellä 
 Dipolin kohdalla aikomuksenaan "PESTÄ NOPEASTI PRINSESSAN AUTON IKKUNAT", jotta 
@@ -12,5 +7,3 @@ tullut mitään, sillä kun autokaravaanin edessä ajavat poliisit huomasivat ti
 luulivat he näitä vähintään murhaa suunnitteleviksi terroristeiksi, syöksyivät autoistaan ulos, työnsivät 
 haalarihirmut pois tieltä ja kaasua rajusti lisäten vetivät koko autoletkan kiihtyvällä nopeudella 
 perässään pois Otaniemestä.
-
-

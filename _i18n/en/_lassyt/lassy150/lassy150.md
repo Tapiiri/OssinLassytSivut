@@ -1,9 +1,4 @@
 
-
-
-    
-# 150. Inauguration Of The New Rantasauna 29.3.1985. MY SPEECH
-
 In the beginning, Otaniemi was desolate and empty. Deer, foxes, and other forest creatures ruled here sovereignly. There was no sign of humanity other than the tomb, which is in front of TKY III, of the Early Teekkari's tomb from the Stone Age. However, even that tomb was covered by 5,000-year-old moss.
 
 Then time shifted to 1950. Spring came, May came, and the 13th day. On that memorable day, an order came from the Jämeräbearded Engineer - NOW. The sky flashed, and the ground shook as the huge opening boom of Teekkari Village's construction rushed along Otaniemi's then so virgin hills, valleys and beaches.

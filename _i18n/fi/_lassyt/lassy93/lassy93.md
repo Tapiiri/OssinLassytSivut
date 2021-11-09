@@ -1,9 +1,4 @@
 
-
-
-    
-# 93. Pekka Tarjanteen mukana Chalmersissa
-
 Kerran osallistuin TKY:n lähettämän delegaation mukana Chalmersin vuosijuhlaan Göteborgissa. 
 Ryhmämme vetäjänä toimi TKYH:n silloinen puheenjohtaja, teekkari Pekka Tarjanne. 	
 
@@ -18,4 +13,3 @@ kiitoksen hyminää isäntien ylle. Lopuksi hän pyysi isäntiä vastaanottamaan
 Helsingin teekkareiden käynnistä "tämän arvokkaan asiakirjan" -se oli Göteborgin taidemuseon antama 
 kuitti siitä, että tuntemattomat lahjoittajat olivat luovuttaneet museon kokoelmiin sen ja sen -nimisen 
 taiteilijan sen ja sen -aiheisen teoksen.
-

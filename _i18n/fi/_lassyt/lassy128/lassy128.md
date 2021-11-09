@@ -1,9 +1,4 @@
 
-
-
-    
-# 128. Luetteloa poliisien antamista lahjakaluista
-
 Poliisiopiston ja Teekkarikylän välisissä yhteenotoissa ja vierailuissa oli usein tapana antaa vastapuolen edustajille mitä 
 erilaisimpia lahjaesineitä. Kotiarkistossani ovat edelleenkin kunniapaikalla mm. seuraavat poliisien minulle antamat todelliset 
 arvoesineet. 
@@ -36,4 +31,3 @@ tutustuminen toisiinsa. On varmaa, että tällainen vuorovaikutus on samalla my�
 ainakin teknikoiden väitetään helposti sairastuvan - fakki-idiotismiin. Ja onhan niin, että järjestyksestä vastaavat tarvitsevat 
 avukseen teknologiaa ja teknokraatit järjestystä ympyröihinsä.
 	I
-

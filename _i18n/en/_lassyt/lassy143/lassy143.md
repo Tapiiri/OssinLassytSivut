@@ -1,9 +1,4 @@
 
-
-
-    
-# 143. A Grousing Poem From 1952
-
 The following is a grousing poem by Ilpo V. Salmen, a castle warden of Teekkari Village's first Castle Warden Hosts, which is made into poem format\* of "summary of grousing the first period of residence 1951-1952". The topics of grousing haven't changed during the three decades, have they.
 
 ```

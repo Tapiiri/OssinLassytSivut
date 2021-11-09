@@ -1,9 +1,4 @@
 
-
-
-    
-# 55. Rantasauna's Alarm Devices And Teekkari Veisterä's Bachelor Party
-
 Back in the days, I had to set up alarm devices also for the Rantasauna. However, not because of thieves but due to fire. Once that somewhat big stove was so hot that the actual steam vapor room caught fire. Thanks to the building's ceiling's thickness, the fire did not achieve flashpoint. The Espoo fire department, which quickly arrived at the scene, extinguished the fire quickly. To avoid the steam vapor room's overheating in the future, we installed a thermostat there. When the room was 145 °C warm, the thermostat set
 a sizeable electric clock placed on the vestibule ceiling to ring. Thus, the people who socialized in the living room went to close the sauna stover's hatch. However, this system did its job but caused, at the same time, the birth of a new type of competition. In this competition, people did not leave the sauna benches until the bell started to ring. And when it rang, the benches indeed had that unbearable 145-degree heat. And did ring often, tells our well-known perennial sauna hostess, Mrs. Määttänen. "We Finns are sportspeople. We compete with anything. For example, with sauna steam vapor".
 

@@ -1,9 +1,4 @@
 
-
-
-    
-# 42. TKYH:n vaihtoseremoniat vanhalla Polilla
-
 Kun hallitukset TKY:ssä vaihtuivat "vanhan Polin aikaan" oli tuo tilaisuus uuden hallituksen jäsenille juhlava ja ikimuistoinen. 
 Tilaisuuden arvon mukaisesti oli sekä eroava että uusi hallitus pukeutunut frakkiin koristeena akateemiset kunniamerkit. Näitä tosin 
 oli vain eroavan hallituksen jäsenillä ja he istuivat arvonsa mukaisesti juhlapöydän äärellä Polin yläsalissa. Uusi hallitus sen sijaan 

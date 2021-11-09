@@ -1,9 +1,4 @@
 
-
-
-    
-# 5. Kipusiskokisat alkavat.
-
 Talvella -53 pidettiin ensimmäiset ns. kipusiskokisat, eli kutsuttiin Sairaanhoitajaopiston oppilaat jäynähenkiseen 
 ulkoilutilaisuuteen. Nämä ykköskisat vietettiin Laajalahden Munkkiniemen puoleisella rannalla ja Otaniemessä 
 rakennettiin teräsputkista mahtava 6-7 m korkea palkintotuomarikoroke, joka traktorin avulla ja suurella melskeellä 

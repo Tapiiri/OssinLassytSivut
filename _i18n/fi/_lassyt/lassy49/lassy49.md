@@ -1,9 +1,4 @@
 
-
-
-    
-# 49. Teekkari maksoi ikkunan etukäteen
-
 Teekkarit ovat kautta aikojen aina olleet herrasmiehiä, jotka selvittävät heti myös mahdollisesti aiheuttamansa sotkut olivatpa ne 
 sitten henkistä tai aineellista laatua. Ainakin kerran muistan tällaisen selvityksen tapahtuneen jo hyvissä ajoin etukäteen. Kun 
 teekkari A:n valmistujaisriemujuhla läheni tuli A toimistoon ja kysyi Henrikssonin Irmalta, mitä hänen huoneensa ikkunaruudut 

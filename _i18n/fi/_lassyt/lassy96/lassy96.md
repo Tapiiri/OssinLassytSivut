@@ -1,9 +1,4 @@
 
-
-
-    
-# 96. Heikki Sirenin ja Leino Hassisen kaksintaistelut 
-
 Kun Otaniemen "ensimmäinen" kappeli aikanaan oli valmis, saatiin siihen lahjoituksena Kangasalan Urkutehtaan 
 valmistamat urut, jotka muodostivat, kuten kaikki muistanevat tuollaisen 2 x 2 x 1 m suuruisen lattialla seisovan 
 instrumentin. Kun tämä möhkäle sitten oli raahattu kappelisaliin, syntyikin sen sijaintipaikasta arkkitehdin ja silloisen 
@@ -27,5 +22,3 @@ Jumalan luontoa seisovaan valkoiseen ristiin". Tästä tilaisuudesta ei jostakin
 pöytäkirjaa, mutta patsas katosi alttarilta. Pastori Hassinen osallistui muuten palaneen kappelin raunioilla viimeiseen 
 jumalanpalvelukseen ja myönsi minulle sen jälkeisessä kahvitilaisuudessa nyt kertomani jutut tosiksi, ja että "kyllä hän 
 katsoi ottelun hävinneensä".
-
-

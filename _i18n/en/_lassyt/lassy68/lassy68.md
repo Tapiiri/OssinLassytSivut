@@ -1,9 +1,4 @@
 
-
-
-    
-# 68. I Turn 50 Years
-
 What I am trying to say now is the absolute climax of my life so far. And I guess it is going to remain as that regardless of the length of my remaining hike. If, after all, real teekkari spirit is used as the benchmark. And this climax was 2.4.1965. The day I turned half a century. The day was immediately from the early morning one rigmarole. All the time, greetings, telegrams, flowers arrived, and the telephone rang non-stop. I was congratulated, inter alia, by the rector of TKK, VT's chief director, the large delegation of the Police College and the Department of Geology, and the Otaniemi Sports Foundation representatives. In this context, I will not begin to list the guests and friends from "elsewhere of Finland." However, they were all equally pleasing to me and warmed my heart.
 
 Around noon the castle warden host came. They brought as their (and as villagers') precious gift a magnificent Norris narrow-film projector to complete my narrow-filming hobby equipment. Next, a large delegation of the TKY's staff arrived. They brought as their gift an Adler typewriter supplemented with a silver brass. The board of TKY also came in corpore, handing me a Tandberg stereo tape recorder, by far the best on the market. This device then made it possible to sync audio to my movies as well. The "Cavemen" also arrived, bringing me a stone anchor weighing about 40 kilograms. I was in the full sense of the word "exhausted by happiness" due to these tributes and gifts. I really could not imagine getting so much attention. When the world-famous horn association RWBK had also stopped by and done their musical salute at the evening dusk, I was already planning to go to sleep.

@@ -1,9 +1,4 @@
 
-
-
-    
-# 128. List Of Gifts Given By The Police
-
 During the clashes and visits between the Police College and Teekkari Village was often customary to give to the representatives of the opposite of a wide variety of gift items. In my home archive are still in the place amongst other thins the following real valuables.
 
 \*  The large metal badge used by the police in civilian suits during the Prohibition Act No U-225. The sign was affixed inside the police officer's civilian suit's lining. When these officers stopped the smugglers in the dark, it was reportedly necessary to illuminate the badge in the lining with a flashlight. The smugglers discover that it was a real cop and not a representative of a competing smuggling organization.

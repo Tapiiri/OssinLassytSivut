@@ -1,9 +1,4 @@
 
-
-
-    
-# 20. Toronton teekkarit ja rantasaunan vihkiäiset
-
 Kun Teekkarikylää rakennettiin, saapui vieraaksi teekkariryhmä Toronton yliopistosta Kanadasta. 
 Matkanjohtajana oli heillä professori Nicolas Ingnatjeff - nimestään huolimatta pesunkestävä 
 kanadalainen. He olivat täällä jonkun aikaa avustaen mm. rantasaunan rakennustöissä. Tästä sai sitten 

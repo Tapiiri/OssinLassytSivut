@@ -1,9 +1,4 @@
 
-
-
-    
-# 134. Dipolin asiakaspaikkaluku ja anniskelualueet
-
 Väkijuomalaki, Alko anniskelusopimuksineen ja paikallinen poliisiviranomainen ovat velvollisia tarkasti valvomaan, että 
 anniskeluravintoloissa noudatetaan annettuja ohjeita. Aukioloajat ovat tarkalleen määrätyt ja jatkoaikoja annetaan 
 anomuksesta niukasti ja harkitusti. Myös anniskelualue ja asiakaspaikkaluku ovat yksiselitteisen tarkat. Kun Dipoli 

@@ -1,9 +1,4 @@
 
-
-
-    
-# 37. Olin pannukakku AD 1882
-
 Kerran tekivät Servin Maijan kakarat eli annostelijat sen karkean virheen, että olivat antaneet eräälle 
 arkkitehti-osaston teekkarille pannukakun, joka kieltämättä oli alapuoleltaan hieman liian ruskeaksi 
 paistettu. Että tälläinen rike oli päässyt tapahtumaan, sen kyllä totesi varsin pian koko kylä ja muutkin 

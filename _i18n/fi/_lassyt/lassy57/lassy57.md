@@ -1,9 +1,4 @@
 
-
-
-    
-# 57. Teekkari Teemu Tynkkynen ilmapallolla taivaalle
-
 Vappu - tuo ylioppilasjuhlista jaloin, oli myös Teekkarikylässä lukuvuoden kohokohta. Hieroipa kylän linnanisännistö 
 hyvissä ajoin aivonystyröitään keksiäkseen Vapuksi jotain uutta ja ennen näkemätöntä perinteellisten aktien lomaan. 
 Perinteelliseksi olivat muodostuneet vappuriehan julistaminen aattona kello 12.00 sekä kaljaviesti klo 14.00. Vappuriehan 

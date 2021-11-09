@@ -1,9 +1,4 @@
 
-
-
-    
-# 35. Kätilökongressi
-
 Sarjassa kokouksia Teekkarikylässä on ehdottomasti mainittava eraanä kesänä siellä pidetty 
 pohjoismainen kätilökongressi. Sattui niin somasti, että heidän kongressinsa aikana eräs teekkarin 
 rouva synnytti pojan kätilö-opistolla ja eräs toinen naisten klinikalla tytön. Kun mainitsin kätilöliiton 

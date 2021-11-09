@@ -1,9 +1,4 @@
 
-
-
-    
-# 162. Other Distinguished Otanists Who Have Been Rewarded With Teekkari H.C. Title Plus With Teekkari Cap
-
 - Servi's Maija (alias Hilkka Regner)
 - Irma (alias Irma Henriksson)
 

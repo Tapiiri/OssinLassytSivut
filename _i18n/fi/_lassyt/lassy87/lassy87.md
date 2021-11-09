@@ -1,9 +1,4 @@
 
-
-
-    
-# 87. Ranskattaret ja Hollannin matruusit saunarannalla
-
 Oli Helsingissä hollantilainen laivastovierailu, ja Merivoimien Esikunta oli tilannut Otaniemen 
 rantasaunan kylvettääkseen vierailevat meriupseerit perinteelliseen suomalaiseen tapaan. 
 Samanaikaisesti asui kylässä joukko erittäin viehättäviä ranskalaisia daameja - jonkun kansainvälisen 

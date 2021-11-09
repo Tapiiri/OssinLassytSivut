@@ -1,9 +1,4 @@
 
-
-
-    
-# 114. Dipolin ensimmäinen T-ilta, Pikku-Joulut ja Uusi Vuosi
-
 Kun Dipoli sitten syksyllä 1966 valmistui ja aloitti toimintansa, herätti se aluksi valtavaa huomiota. Ensimmäiseen T-iltaan 
 myytiin 2800 pääsylippua ja sunnuntaisin kävi tämän mammuttiravintolan lounaspöytiä maistelemassa tuhansia henkilöitä. 
 Ensimmäinen Pikku-Jouluaika on myös jäänyt lähtemättömästi mieleeni. Eräänä lauantai-iltana vietti täsmälleen 16 eri 
@@ -22,4 +17,3 @@ ihastelivat kaakun hyvää makua. Sen sijaan ne, jotka omatoimisesti ryntäsivä
 kermavaahtoa suihinsa kokivat elämänsä pettymyksen. He saivat suuhunsa ns. äpyvaahtoa, joka taas oli tehty saippuasta. Vain
 se tarkalleen määritelty strateginen kohta, josta Lappi annosteli, oli oikeata kakkua kermavaahtoineen. Yksi näistä kakusta 
 hypänneistä tanssitytöistä oli muuten Kaarina Tuunanen, niin että kysykääpä häneltä yksityiskohtia asiasta, kun tapaatte.
-
