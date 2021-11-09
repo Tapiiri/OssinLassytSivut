@@ -32,14 +32,24 @@ def newRootFileData(lines, filenameWithoutType):
         headerLines = splitByHeader[1].split("\n")
         newHeaderLines = []
         for line in headerLines:
+            noPermaLink = True
             if ":" in line:
                 [name, *value] = line.split(":")
                 if name == "title":
                     newTitle = f"titles.{filenameWithoutType}"
                     newLine = ": ".join([name, newTitle])
                     newHeaderLines += [ newLine ]
+                elif name == "permalink":
+                    noPermaLink = False
+                    newPermaLink = f"/{filenameWithoutType}"
+                    newLine = ": ".join([name, newPermaLink])
+                    newHeaderLines += [ newLine ]
                 else:
                     newHeaderLines += [ line ]
+                if noPermaLink:
+                    name = "permalink"
+                    newPermaLink = f"/{filenameWithoutType}/"
+                    newLine = ": ".join([name, newPermaLink])
             else:
                 newHeaderLines += [ line ]
         newHeader = "\n".join(newHeaderLines)
@@ -99,7 +109,7 @@ def main():
 
         # writeTitles(lang, titles)
     
-    directory = f"./_lassyt"
+    directory = f"./lassyt"
     for filename in filter(lambda x: ".md" in x, os.listdir(directory)):
             newData = ""
             filePath = os.path.join(directory, filename)
