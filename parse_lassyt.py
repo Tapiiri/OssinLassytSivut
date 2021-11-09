@@ -25,7 +25,6 @@ def writeTitle(lines, filenameWithoutType):
         newHeaderLines = []
         for line in headerLines:
             if ":" in line:
-                print(line)
                 [name, *value] = line.split(":")
                 if name == "title":
                     newTitle = f"titles.{filenameWithoutType}"
@@ -35,9 +34,10 @@ def writeTitle(lines, filenameWithoutType):
                     newHeaderLines += [ line ]
             else:
                 newHeaderLines += [ line ]
-        newHeader = "\n".join(headerLines)
+        newHeader = "\n".join(newHeaderLines)
                 
         newData = "---\n".join([
+            splitByHeader[0],
             newHeader,
             splitByHeader[2]
         ])
