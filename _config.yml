@@ -33,7 +33,7 @@ rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.
 
-include: ['_lassyt']
+include: ['lassyt']
 
 # Build settings
 plugins:
@@ -42,6 +42,10 @@ plugins:
   - jekyll-paginate
 
 languages: ["fi", "en"]
+
+collections:
+  lassyt:
+    out: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

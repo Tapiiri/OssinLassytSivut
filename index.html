@@ -3,7 +3,7 @@ layout: page
 tagline:
 ---
 
-{% for post in site.lassyt %}
+{% for post in site.pages %}
 
 <article class="home">
 
@@ -17,7 +17,7 @@ tagline:
 
   <div>
     Yes, it is I!
-    {{ post.content }}
+    {% t post.title %}
   </div>
 
 </article>
